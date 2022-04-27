@@ -55,8 +55,8 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
-repository_tree: master
+repository: Redawt/f4-frost-guide
+repository_tree: main
 
 
 ## => Paths
