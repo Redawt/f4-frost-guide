@@ -67,6 +67,18 @@ After installing a mod, make sure you check the box next to it in the left pane 
 {: .info}
 
 
+## [Buffout 4](https://www.nexusmods.com/fallout4/mods/47359?tab=files)
+
+#### Description
+- Fixes numerous engine bugs and scripts, and also provides helpful crash logs when you game crashes.
+
+#### Installation Instructions
+  1. Download and install the **Main File - Buffout 4 1.24.5**{: .hili} normally through MO2
+  2. Download the **Main File - TBB Redistributables 2021.3**{: .hili} file using the Manual Download button
+  3. From the downloaded archive, extract **tbbmalloc.dll**{: .hili} to the game's Root folder
+
+
+
 ## [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)
 
 #### Description

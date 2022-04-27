@@ -92,10 +92,20 @@ aside:
 
 
 #### Description
-* Another mod that continues FROSTs development, but in different areas then the Frost Unofficial Updates mod. It adds voiced characters, quests, companions, and a lot more!
+* Another mod that continues FROSTs development, but in different areas then the Frost Unofficial Updates mod. It adds voiced characters, quests, companions, bug fixes, items, and a lot more!
 
 #### Installation Instructions
-* **Main Files - FROST PLUS - Main 0.5.2**
+* **Main File - FROST PLUS - Main 0.5.2**
+
+
+## [FROST Lootable Cars](https://www.nexusmods.com/fallout4/mods/57960) (*O)
+
+#### Description
+* Vehicles are now Lootable to your heart's content!
+
+#### Installation Instructions
+* **Main File - FROST - Lootable And Locked Cars 1.1**
+
 
 
 ## [FREEZE Intimidation Overhau](https://www.nexusmods.com/fallout4/mods/27636?tab=files)
@@ -178,11 +188,13 @@ This is not a single mod, rather then a collection of mods.
 #### Installation Instructions
 * Go to the Greslin Games Discord Server in Discord
 * In the **#compatability** channel in the **Pack Attach NPC Edition** section, you can find the newest version of ther FROST PANPC patch
-* Download PANPC, and save it somewhere on your computer (like the 'Downloads'{: .path} folder on your computer)
-* Drag and drop the downloaded FROST PANPC file from your **Windows Explorer** into the **MO2** downloads panel
-  * If you don't know how to do that, watch this [video](https://youtu.be/7v0wWVuOagA 
-) starting at 00:42 
-* Now you can install the FROST PANPC Patch like every other mod
+
+![Download PANPC FROST patch](./assets/images/find_frost_panpc.png "Download PANPC FROST patch!")
+
+* Download the Frost PANPC patch, and save it somewhere on your computer (like the 'Downloads'{: .path} folder on your computer)
+* Once the download has finished, click the ![mo2 archive button](https://themidnightride.github.io/img/mo2%20archive.png) button at the top of MO2
+* From the new window, navigate to where the PANPC was downloaded to and double-click it
+* Finish the install normally
 
 
 ## [FROST UFO4P Compatibility Patch](https://www.nexusmods.com/fallout4/mods/57372/?tab=files) (*O, *D)

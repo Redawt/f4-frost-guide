@@ -93,12 +93,19 @@ aside:
 * Why isn't this mod hosted on Nexus? You can ask Greslin himself on his Discord Server if you want. 
 
 #### Installation Instructions
+**Join the Discord Server:**
 * Join the [Greslin Games Discord Server](https://discord.gg/RbX5eVYEKE)
 * Go to the **#role-request** channel and ask for the Citizen Role
 * With the Citizen Role, you get access to the **#releases-latest** channel in the **PACK ATTACK NPC Edition section**
+
+![Join Greslin](./assets/images/join_greslin.png "Join Greslin!")
+
+**Download and install the file:**
 * In the **#releases-latest** channel, you can find the newest version of PANPC
+
+![Download PANPC](./assets/images/find_panpc.png "Download PANPC!")
+
 * Download PANPC, and save it somewhere on your computer (like the 'Downloads'{: .path} folder on your computer)
-* Drag and drop the downloaded PANPC file from your **Windows Explorer** into the **MO2** downloads panel
-  * If you don't know how to do that, watch this [video](https://youtu.be/7v0wWVuOagA 
-) starting at 00:42 
-* Now you can install PANPC like every other mod
+* Once the download has finished, click the ![mo2 archive button](https://themidnightride.github.io/img/mo2%20archive.png) button at the top of MO2
+* From the new window, navigate to where the PANPC was downloaded to and double-click it
+* Finish the install normally

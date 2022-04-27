@@ -40,21 +40,38 @@ Welcome to {{ site.title }}, a fully modular Fallout 4 FROST modding guide!
 
 
 ## About the Guide(s)
-I have two guides for you. The recommended guide will carefully walk you through how to make a modern and stable Fallout 4 setup with a focus around FROST. The basic guide is a basic setup that only lists mods that you need to have to play FROST, but it won't walk you carefully through everything and it will not be a complete and modern setup, and it will have mor ebugs as non-FROST related bugs (= bugs from vanilla Fallout 4 etc.) will not be fixed. Both guides will give you a setup that can be enhanced by adding more mods.
+I have two guides for you, the Recommended Guide and the Narrow Guide. Choose one!
+Both are centered around MO2. Why not Vortex? You can find an answer to that question in the FAQ section.
 
 
-### Recommended Guide
-### Basic Guide
-The Midnight Ride is a modding guide for Fallout 4 that will carefully walk you through how to install all the mods you will need for a perfectly stable, smooth, and most importantly, enjoyable experience. Unlike other modding guides, it is built with customization in mind. Mods are subjective, so every mod listed in the guide is 100% optional. Hand-made conflict resolution and load order will be provided at the end of the guide. The conflict resolution will be supplied in a fully-modular FOMOD installer, meaning that you can still use it even if you skip any mods.
-
+### 1. Recommended Guide
+The Recommended Guide will carefully walk you through how to install all the mods you will need for a perfectly stable and content-rich, and most importanly, enjoyable experience. Unlike other modding guides, it is built with customization in mind, and will detail were you can add additional mod that you found and downloaded. Certain mods in the guide are optional, but most of them can not be skipped!
 The guide is highly accessible for everyone, no matter your modding experience. It is still incredibly important that you read all the instructions very carefully, even if you believe you are experienced enough to skip them. There are many small instructions that are vital for your game to function, and could be easily missed if you aren't careful. Although you don't need any modding experience to use this guide, it is expected for you to be relatively experienced with operating a computer in general.
+
+**Important Notes:**
+* Optional mods are flagged with *O in their title.
+* Mods that can only be found on a Discord Server are flagged with a *D in their title.
+* All Discord mods mentioned in the guide are entirely optional
+* The end of the guide will give you an example load order and instructions for where you should mods that are not mentioned in the guide.
+
+
+### 2. Narrow Guide
+This guide shows you the most basic and bare-bones setup that you can have for FROST. It doesn't get any smaller then that.
+It only focuses on the must-use/must-have mods for FROST in order to get all of the main content of the current official Frost Development team, including the most important bug fixes and performance improvements.
+I recommend this guide for people who are either too lazy to make a proper mod setup, or who only want to try out FROST.
+If you have not much modding knowledge, please use the recommended guide!
+Unlike the Recommended Guide, it will not mention ANY mods that fix engine bugs or vanilla Fallout 4 bugs. 
+It will also give you an example load order and tell you how to structure your load order.
+And overview on where mods that you want to use should be placed in the load order is also given. 
 
 
 ### Additional Mods
-A list of other recommended mods will also be provided, as well as suggestions on where to put them in your load order.
+A lst of other recommended mods will also be provided, as well as suggestions on where to put them in your load order.
+It will also mention which mods you should NEVER use with FROST at all.
+Certain mods are either incompatible with FROST by default (liek Horizon), or are outdated, or are simply badly made and will cause more harm then good.
 
 
-### Requirements
+## Requirements
 
 - An English copy of the game with all DLCs from Steam (instructions for properly installing it are in the next step)
   - Only the English version of the game is supported for maximum compatibility.
@@ -73,9 +90,15 @@ A list of other recommended mods will also be provided, as well as suggestions o
 
 ## Recommended Specs
 The guide will make the game run better than vanilla. The game is pretty un-optimized, especially in downtown Boston, so FPS will never be extraordinary. However, the guide will ensure that your FPS is as high as possible in these areas. The game is much more CPU-intensive than GPU-intensive. Installing the game on an SSD can drastically improve load times and decrease stuttering. Here are the (minimal) recommended specs for being able to run the guide at 60FPS in 1080p:
-- CPU: Modern quad-core processor (2.75GHz or more)
-- RAM: More then 8 GB of RAM (I recommend at least 16 GB)
-- GPU: NVIDIA 900 series card or an AMD RX 400 series card
+- **CPU:** Modern quad-core processor (2.75GHz or more)
+- **RAM:** More then 8 GB of RAM (I recommend at least 16 GB)
+- **GPU:** NVIDIA 900 series card or an AMD RX 400 series card
+
+
+## Choose your guide!
+
+#### => [Recommended Guide](./initialsetup)
+#### => [Narrow Guide](./frostnarrow)
 
 
 ## Credits

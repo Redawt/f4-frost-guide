@@ -58,7 +58,9 @@ docs-en:
         url:    /normallo.html
   - title:      Narrow Setup
     children:
-      - title:  Frost
+      - title:  Initial Setup
+        url:    /initialsetupnarrow.html
+      - title:  Mods
         url:    /frostnarrow.html
       - title:  Load Order
         url:    /narrowlo.html
