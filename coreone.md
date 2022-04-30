@@ -76,7 +76,7 @@ aside:
 * **Main Files - prkf 1.10.163.0**
 
 
-## [Classic Holstered Weapons System (CHW)](https://www.nexusmods.com/fallout4/mods/46101?tab=files) (*O)
+## [Classic Holstered Weapons System (CHW)](https://www.nexusmods.com/fallout4/mods/46101?tab=files) (*O, *F)
 
 
 #### Description
@@ -86,7 +86,7 @@ aside:
 * **Main Files - Classic Holstered Weapons 1.04c**
 
 
-## [Pack Attack NPC (PANPC)](https://discord.gg/RbX5eVYEKE) (*O, *D)
+## [Pack Attack NPC (PANPC)](https://discord.gg/RbX5eVYEKE) (*O, *D, *F)
 
 #### Description
 * Overhauls the AI completely. NPCs act smarter, use strategies, behave more realistic and use individual AI based on gameplay situations and their factions. It is the best AI mod for Fallout 4 and is developed by Greslin, a programmer who has several decades of programming and gaming knowledge.
@@ -96,6 +96,8 @@ aside:
 **Join the Discord Server:**
 * Join the [Greslin Games Discord Server](https://discord.gg/RbX5eVYEKE)
 * Go to the **#role-request** channel and ask for the Citizen Role
+  * It might take a while until you get that role (up to 8 hours)
+  * You can go on with the guide and come back later to this section to finish this
 * With the Citizen Role, you get access to the **#releases-latest** channel in the **PACK ATTACK NPC Edition section**
 
 ![Join Greslin](./assets/images/join_greslin.png "Join Greslin!")

@@ -28,7 +28,7 @@ aside:
 * Well, if you are here, I probably don't have to tell you what this is
 
 #### Installation Instructions
-* **Main Files - FROST v.055 (Archive Version) 0.55**
+* * **Main Files - FROST (BA2 Version) 0.55**
 * Do *not* download the save files from the "Old Files" section. You won't need them
 
 ## [FROST Unofficial Updates](https://www.nexusmods.com/fallout4/mods/48839?tab=files)
@@ -108,7 +108,7 @@ aside:
 
 
 
-## [FREEZE Intimidation Overhau](https://www.nexusmods.com/fallout4/mods/27636?tab=files)
+## [FREEZE Intimidation Overhaul](https://www.nexusmods.com/fallout4/mods/27636?tab=files)
 
 
 #### Description

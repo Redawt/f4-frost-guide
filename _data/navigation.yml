@@ -69,11 +69,11 @@ docs-en:
     - title:  FAQ
       url:    /faq.html
     - title:  Compatability
-      url:    /about.html
+      url:    /compatability.html
     - title:  Other Frost Mods
+      url:    /frostother.html
+    - title:  Cool Sound mods
       url:    /about.html
-    - title:  Other Mormal Mods
-      url:    /about.html
-    - title:  Incompatible Mods
+    - title:  Cool Environment mods
       url:    /about.html
       
