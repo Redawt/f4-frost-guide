@@ -64,8 +64,10 @@ docs-en:
         url:    /frostnarrow.html
       - title:  Load Order
         url:    /narrowlo.html
-  - title:     Additional Mods
+  - title:     Additional Stuff
     children:
+    - title:  FAQ
+      url:    /faq.html
     - title:  Compatability
       url:    /about.html
     - title:  Other Frost Mods
