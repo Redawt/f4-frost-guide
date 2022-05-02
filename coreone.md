@@ -86,6 +86,16 @@ aside:
 * **Main Files - Classic Holstered Weapons 1.04c**
 
 
+## [Level-Up Healing Removal](https://www.nexusmods.com/fallout4/mods/20160?tab=files) (*O)
+
+
+#### Description
+* You won't gain full health when you level up
+
+#### Installation Instructions
+* **Main Files - Level-Up Healing Removal 1.1**
+
+
 ## [Pack Attack NPC (PANPC)](https://discord.gg/RbX5eVYEKE) (*O, *D, *F)
 
 #### Description

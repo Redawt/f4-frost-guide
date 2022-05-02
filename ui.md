@@ -17,6 +17,15 @@ aside:
 1. Right-click anywhere in the left pane of MO2 and select **Create Separator**{: .hili}
 2. Name the separator **User Interface**{: .hili}
 
+
+## [PipBoy Tabs](https://www.nexusmods.com/fallout4/mods/29568?tab=files)
+#### Description
+* UI framework for certain mods
+
+#### Installation Instructions
+* **Main File - pbt 1.10.163.0**
+
+
 ## [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
 #### Description
 * UI framework required for many other HUD mods

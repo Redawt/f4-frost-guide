@@ -15,6 +15,15 @@ aside:
 ## You have to install 8 mods
 Please install the following 8 mods, and after that go to the next page and sort your load order properly!
 
+## [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598)
+
+#### Description
+* Fixes thousands of bugs with both the base game and DLCs
+
+#### Installation Instructions
+  * **Main File - Unofficial Fallout 4 Patch 2.1.3**
+
+
 ## [FROST Survival Simulator](https://www.nexusmods.com/fallout4/mods/18898?tab=files)
 
 
@@ -84,6 +93,13 @@ Please install the following 8 mods, and after that go to the next page and sort
 #### Installation Instructions
 * **Main File - FROST - Headless Ferals Fix 1.0**
 
+
+## [FROST UFO4P Compatibility Patch](https://www.nexusmods.com/fallout4/mods/57372/?tab=files) (*O, *D)
+#### Description
+* Patches the **Unofficial Fallout 4 Patch** for FROST
+
+#### Installation Instructions
+* **Main File - FROST - UFO4P Patch 1.2**
 
 ## [FROST Cell Fixes (FCF)](https://www.nexusmods.com/fallout4/mods/59652?tab=files)
 

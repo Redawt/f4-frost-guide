@@ -35,8 +35,8 @@ It is compatible with **FROST**{: .hili}, but I recommend to not use it as it so
 
 #### 2. Master files
 {: .hili}
-
-- (Put all .esm files and .esm flagged .esp files here (Example: PANPC.esm))
+- Unofficial Fallout 4 Patch.esp
+- (Put all .esm files and .esm flagged .esp files here (Example: PANPC.esm, Unofficial Fallout 4 Patch.esp))
 
 
 #### 3. Frost Unrelated Mods I
@@ -59,6 +59,7 @@ It is compatible with **FROST**{: .hili}, but I recommend to not use it as it so
 - RedsFrostFixes.esp
 - FrostNukaWorld.esp
 - aFrostMod.esp
+- FROST - UFO4P Patch.esp
 - FROST Feral Fix.esp
 
 
@@ -102,11 +103,13 @@ DLCCoast.esm
 DLCworkshop02.esm
 DLCworkshop03.esm
 DLCNukaWorld.esm
+Unofficial Fallout 4 Patch.esp
 FROST.esp
 FROSTmoreDoors.esp
 aFrostMod.esp
 RedsFrostFixes.esp
 FrostNukaWorld.esp
+FROST - UFO4P Patch.esp
 FROST Feral Fix.esp
 FCF_Main.esp
 FCF_Previsibines.esp

@@ -40,23 +40,7 @@ aside:
 #### Installation Instructions
 * **Main Files - Frost Unofficial Updates 1.0.2**
 
-## [FROST - Headless Dead Ferals Fix](https://www.nexusmods.com/fallout4/mods/50040)
 
-
-#### Description
-* Fixes a bug were dead ghouls would spawn without a head.
-
-#### Installation Instructions
-* **Main File - FROST - Headless Ferals Fix 1.0**
-
-## [FROST Lore-Tweaked Sanity Loss](https://www.nexusmods.com/fallout4/mods/53024?tab=files)
-
-
-#### Description
-* Adds an MCM menu that allows you to configure how much sanity you lose when killing an NPC
-
-#### Installation Instructions
-* **Main File - FROST Lore-Tweaked Sanity Loss 2.3***
 
 ## [FROST - More Starting Locations](https://www.nexusmods.com/fallout4/mods/46320)
 
@@ -77,6 +61,24 @@ aside:
 #### Installation Instructions
 * **Main Files - FROST Nuka-World Add-On 1.4**
 
+## [FROST Plus](https://www.nexusmods.com/fallout4/mods/48847)
+
+
+#### Description
+* Another mod that continues FROSTs development, but in different areas then the Frost Unofficial Updates mod. It adds voiced characters, quests, companions, bug fixes, items, and a lot more!
+
+#### Installation Instructions
+* **Main File - FROST PLUS - Main 0.5.2**
+
+
+## [FROST Lore-Tweaked Sanity Loss](https://www.nexusmods.com/fallout4/mods/53024?tab=files)
+
+
+#### Description
+* Adds an MCM menu that allows you to configure how much sanity you lose when killing an NPC
+
+#### Installation Instructions
+* **Main File - FROST Lore-Tweaked Sanity Loss 2.3***
 
 ## [FROST - It Snowed](https://www.nexusmods.com/fallout4/mods/49094)
 
@@ -87,15 +89,6 @@ aside:
 #### Installation Instructions
 * **Main File - FROST - It Snowed 1.4**
 
-
-## [FROST Plus](https://www.nexusmods.com/fallout4/mods/48847)
-
-
-#### Description
-* Another mod that continues FROSTs development, but in different areas then the Frost Unofficial Updates mod. It adds voiced characters, quests, companions, bug fixes, items, and a lot more!
-
-#### Installation Instructions
-* **Main File - FROST PLUS - Main 0.5.2**
 
 
 ## [FROST Lootable Cars](https://www.nexusmods.com/fallout4/mods/57960) (*O)
@@ -195,6 +188,16 @@ This is not a single mod, rather then a collection of mods.
 * Once the download has finished, click the ![mo2 archive button](https://themidnightride.github.io/img/mo2%20archive.png) button at the top of MO2
 * From the new window, navigate to where the PANPC was downloaded to and double-click it
 * Finish the install normally
+
+
+## [FROST - Headless Dead Ferals Fix](https://www.nexusmods.com/fallout4/mods/50040)
+
+
+#### Description
+* Fixes a bug were dead ghouls would spawn without a head.
+
+#### Installation Instructions
+* **Main File - FROST - Headless Ferals Fix 1.0**
 
 
 ## [FROST UFO4P Compatibility Patch](https://www.nexusmods.com/fallout4/mods/57372/?tab=files) (*O, *D)
