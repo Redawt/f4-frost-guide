@@ -38,6 +38,9 @@ Welcome to {{ site.title }}, a fully modular Fallout 4 FROST modding guide!
 **IMPORTANT**: Everything in this guide is written down for a reason! It is vital to read everything! You can NOT skip any paragraphs/instructions and expect your game to function as it should. 
 {:.warning}
 
+This guide is still WIP, but it ios functional. It contains some TODOs, some spelling erros, the usual. This will be fixed soon, don't worry :D
+{:.info}
+
 
 ## About the Guide(s)
 I have two guides for you, the Recommended Guide and the Narrow Guide. Choose one!
