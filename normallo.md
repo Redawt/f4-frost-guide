@@ -78,6 +78,9 @@ Put all other FROST standalone mods here
 * ArgonnFROSTSanityTweakPatch.esp
 * FROST - It Snowed.esp
 * FROST - LootableCars.esp
+  * FROST_LLCars_Intermediate.esp (Optional File)
+  * FROST_LLCars_Realistic.esp (Optional File)
+  * FROST_LLCars_Scarcity.esp (Optional File)
 * Freeze.esp
 * Frost PipTab.esp
 * FROST - AccessibleMedTekResearch.esp
@@ -164,10 +167,13 @@ Ultra Interior and Ultra Exterior Lighting were used as lighting mods in this ex
 ```
 
 ## The Ending Of Things
-That was the Recommended. If you followed everything in this guide, you are ready to play FROST! 
+That was the Recommended Guide. If you followed everything in this guide, you are ready to play FROST! 
 Or you can add other mods to your setup, just make sure to use this Load Order page to put new mods into the right spot.
 You can check out the next sections of this website for information about which mods are compatible with FROST, or which mods work well with FROST.
 Consider joining the [FROST Community on Discord](https://discord.com/invite/BaKsm7Fn4A)!
+
+You can now start Fallout 4 through F4SE, click "New Game" in the Main Menu, and play FROST. Note that currently the Fallout 4 Intro was not replaced yet by the FROST Development team, so don't be confused if you see it.
+{: .info}
 
 
 

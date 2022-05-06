@@ -60,7 +60,7 @@ docs-en:
     children:
       - title:  Initial Setup
         url:    /initialsetupnarrow.html
-      - title:  Mods
+      - title:  FROST Setup
         url:    /frostnarrow.html
       - title:  Load Order
         url:    /narrowlo.html

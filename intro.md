@@ -56,7 +56,7 @@ The guide is highly accessible for everyone, no matter your modding experience. 
 * The end of the guide will give you an example load order and instructions for where you should mods that are not mentioned in the guide.
 
 
-### 2. Narrow Guide
+### 2. Basic Guide
 This guide shows you the most basic and bare-bones setup that you can have for FROST. It doesn't get any smaller then that.
 It only focuses on the must-use/must-have mods for FROST in order to get all of the main content of the current official Frost Development team, including the most important bug fixes and performance improvements.
 I recommend this guide for people who are either too lazy to make a proper mod setup, or who only want to try out FROST.
@@ -92,14 +92,17 @@ Certain mods are either incompatible with FROST by default (liek Horizon), or ar
 ## Recommended Specs
 The guide will make the game run better than vanilla. The game is pretty un-optimized, especially in downtown Boston, so FPS will never be extraordinary. However, the guide will ensure that your FPS is as high as possible in these areas. The game is much more CPU-intensive than GPU-intensive. Installing the game on an SSD can drastically improve load times and decrease stuttering. Here are the (minimal) recommended specs for being able to run the guide at 60FPS in 1080p:
 - **CPU:** Modern quad-core processor (2.75GHz or more)
-- **RAM:** More then 8 GB of RAM (I recommend at least 16 GB)
+- **RAM:** 16 GB of RAM
 - **GPU:** NVIDIA 900 series card or an AMD RX 400 series card
 
 
 ## Choose your guide!
+\
+[![Basic Guide](./assets/images/basic_guide.png)](./initialsetupnarrow){: .center-image}
+\
+\
+[![Recommended Guide](./assets/images/recommended_guide.png)](./initialsetup){: .center-image}
 
-#### => [Recommended Guide](./initialsetup)
-#### => [Narrow Guide](./frostnarrow)
 
 
 ## Credits

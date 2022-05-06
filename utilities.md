@@ -77,6 +77,8 @@ After installing a mod, make sure you check the box next to it in the left pane 
   2. Download the **Main File - TBB Redistributables 2021.3**{: .hili} file using the Manual Download button
   3. From the downloaded archive, extract **tbbmalloc.dll**{: .hili} to the game's Root folder
 
+Without the [Microsoft VC++ 2015-2022](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) (x86 and x64 versions) which was mentioned in the requirements section of the guide, Buffout 4 will not work properly. Make sure that you've installed it!
+{: .info}
 
 
 ## [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)

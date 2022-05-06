@@ -12,8 +12,11 @@ aside:
 
 ---
 
-## You have to install 8 mods
-Please install the following 8 mods, and after that go to the next page and sort your load order properly!
+
+#### Please install all mods from this page (~10 mods), and after that go to the next page and sort your load order properly.
+
+You need all of the mods listed here to play FROST. 
+{: .info}
 
 ## [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598)
 
@@ -32,7 +35,9 @@ Please install the following 8 mods, and after that go to the next page and sort
 
 #### Installation Instructions
 * **Main Files - FROST (BA2 Version) 0.55**
-* Do *not* download the save files from the "Old Files" section. You won't need them
+
+Do *not* download the save files from the "Old Files" section.
+{: .warning}
 
 ## [FROST Unofficial Updates](https://www.nexusmods.com/fallout4/mods/48839?tab=files)
 
@@ -94,7 +99,7 @@ Please install the following 8 mods, and after that go to the next page and sort
 * **Main File - FROST - Headless Ferals Fix 1.0**
 
 
-## [FROST UFO4P Compatibility Patch](https://www.nexusmods.com/fallout4/mods/57372/?tab=files) (*O, *D)
+## [FROST UFO4P Compatibility Patch](https://www.nexusmods.com/fallout4/mods/57372/?tab=files)
 #### Description
 * Patches the **Unofficial Fallout 4 Patch** for FROST
 
