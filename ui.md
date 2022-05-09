@@ -26,6 +26,16 @@ aside:
 * **Main File - pbt 1.10.163.0**
 
 
+## [LevelUpMenuEx](https://www.nexusmods.com/fallout4/mods/28822)
+
+
+#### Description
+* Changes the Level Up Menu to allow other mods to add new perks and skills into the game
+
+#### Installation Instructions
+* **Main Files - prkf 1.10.163.0**
+
+
 ## [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
 #### Description
 * UI framework required for many other HUD mods
@@ -43,7 +53,7 @@ aside:
 #### Installation Instructions
 * **Main File - Immersive HUD - iHUD 3.0**
 
-
+<!---
 ## [FallUI](https://www.nexusmods.com/fallout4/articles/3041) (*O)
 
 This part of the guide is not finished yet. Ignore it, or figure out how to install FallUi and Sorting mods yourself.
@@ -73,4 +83,4 @@ You can just move on the to the next section of the guide.
 #### Installation Instruction
 
 #### Note
-
+-->

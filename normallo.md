@@ -9,7 +9,7 @@ sidebar:
   nav: docs-en
 aside:
   toc: true
-
+nonext: true
 ---
 
 ## About LOOT

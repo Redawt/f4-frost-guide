@@ -36,6 +36,10 @@ docs-en:
     children:
     - title:  Introduction
       url:    /intro.html
+    - title:  Requirements
+      url:    /requirements.html
+    - title:  Let's start!
+      url:    /start.html
   - title:      Recommended Setup
     children:
       - title:  Initial Setup
@@ -56,7 +60,7 @@ docs-en:
         url:    /frostone.html
       - title:  Load Order
         url:    /normallo.html
-  - title:      Narrow Setup
+  - title:      Basic Setup
     children:
       - title:  Initial Setup
         url:    /initialsetupnarrow.html

@@ -15,11 +15,12 @@ aside:
 
 
 #### Make sure the **FROST** MO2 profile is active before proceeding!
-
+The titles on this guide are also links that you can click on to get to the mods.
+{: .info}
 
 
 ## [Fallout 4 Script Extender](https://f4se.silverlock.org/)
-The titles on this guide are also links that you can click on to get to the mods.
+If you need help with this step, you can also watch this [video](https://youtu.be/NkKFHjY7o-I?t=48).
 {: .info}
 
 #### Description
@@ -95,5 +96,5 @@ Without the [Microsoft VC++ 2015-2022](https://docs.microsoft.com/en-us/cpp/wind
     - Set **DisableAnimationOnLoadingScreens=**{: .hili} to **true**{: .hili} (line 44)
 
 
-REMINDER: You need to run the game through the F4SE option in Mod Organizer 2 from now on, NOT the Fallout 4 option. You may need to restart MO2 for the option to appear.
+**REMINDER**{: .hili}: You need to run the game through the F4SE option in Mod Organizer 2 from now on, NOT the Fallout 4 option. You may need to restart MO2 for the option to appear.
 {: .info}

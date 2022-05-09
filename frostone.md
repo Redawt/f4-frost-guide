@@ -21,57 +21,24 @@ aside:
 1. Right-click anywhere in the left pane of MO2 and select **Create Separator**{: .hili}
 2. Name the separator **FROST**{: .hili}
 
-## [FROST Survival Simulator](https://www.nexusmods.com/fallout4/mods/18898?tab=files)
+{% include_relative md-mod-descriptions/frost-description.md %}
+
+{% include_relative md-mod-descriptions/rff-description.md %}
+
+{% include_relative md-mod-descriptions/frost-doors-description.md %}
+
+{% include_relative md-mod-descriptions/fnw-description.md %}
+
+{% include_relative md-mod-descriptions/frost-plus-description.md %}
 
 
-#### Description
-* Well, if you are here, I probably don't have to tell you what this is
-
-#### Installation Instructions
-* * **Main Files - FROST (BA2 Version) 0.55**
-* Do *not* download the save files from the "Old Files" section. You won't need them
-
-## [FROST Unofficial Updates](https://www.nexusmods.com/fallout4/mods/48839?tab=files)
+{% include_relative md-mod-descriptions/fgf-description.md %}
 
 
-#### Description
-* Continues the development of FROST. It is called "unofficial", but it basically ahs become the officially continued development of FROST.
-
-#### Installation Instructions
-* **Main Files - Frost Unofficial Updates 1.0.2**
+{% include_relative md-mod-descriptions/frost-ufop4-description.md %}
 
 
-
-## [FROST - More Starting Locations](https://www.nexusmods.com/fallout4/mods/46320)
-
-
-#### Description
-* Adds 6 (+1 hidden) new starting locations for FROST
-
-#### Installation Instructions
-* **Main File - FROST - More Starting Locations 1.4**
-
-
-## [FROST - Nuka World AddOn](https://www.nexusmods.com/fallout4/mods/39985?tab=files)
-
-
-#### Description
-* Patches Nuka-World for FROST
-
-#### Installation Instructions
-* **Main Files - FROST Nuka-World Add-On 1.4**
-
-## [FROST Plus](https://www.nexusmods.com/fallout4/mods/48847)
-
-
-#### Description
-* Another mod that continues FROSTs development, but in different areas then the Frost Unofficial Updates mod. It adds voiced characters, quests, companions, bug fixes, items, and a lot more!
-
-#### Installation Instructions
-* **Main File - FROST PLUS - Main 0.5.2**
-
-
-## [FROST Lore-Tweaked Sanity Loss](https://www.nexusmods.com/fallout4/mods/53024?tab=files)
+## [FROST Lore-Tweaked Sanity Loss](https://www.nexusmods.com/fallout4/mods/53024?tab=files) (*O)
 
 
 #### Description
@@ -80,14 +47,7 @@ aside:
 #### Installation Instructions
 * **Main File - FROST Lore-Tweaked Sanity Loss 2.3***
 
-## [FROST - It Snowed](https://www.nexusmods.com/fallout4/mods/49094)
-
-
-#### Description
-* Fixes some texture bugs from FROST and adds new snow textures
-
-#### Installation Instructions
-* **Main File - FROST - It Snowed 1.4**
+{% include_relative md-mod-descriptions/it-snowed-description.md %}
 
 
 
@@ -190,38 +150,5 @@ This is not a single mod, rather then a collection of mods.
 * Finish the install normally
 
 
-## [FROST - Headless Dead Ferals Fix](https://www.nexusmods.com/fallout4/mods/50040)
 
-
-#### Description
-* Fixes a bug were dead ghouls would spawn without a head.
-
-#### Installation Instructions
-* **Main File - FROST - Headless Ferals Fix 1.0**
-
-
-## [FROST UFO4P Compatibility Patch](https://www.nexusmods.com/fallout4/mods/57372/?tab=files) (*O, *D)
-#### Description
-* Patches the **Unofficial Fallout 4 Patch** for FROST
-
-#### Installation Instructions
-* **Main File - FROST - UFO4P Patch 1.2**
-
-
-## [FROST Cell Fixes (FCF)](https://www.nexusmods.com/fallout4/mods/59652?tab=files)
-
-#### Description
-* This is FROSTs version of Previsibines Repair Pack (PRP). It improves performance greatly and fixes bugs.
-
-#### Installation Instructions
-* **Main File - FROST Cell Fixes (FCF) 1.0**
-    * Install it, follow through the installer that shows up, and pick a barricade texture resolution (I recommend the 2k version unless you have a bad PC)
-* **Main File - FROST Cell Fixes (FCF) - Nuka World AddOn 1.0.1**
-    * Installing this mod will show an installer
-    * Select the lighting mod patches for the lighing mod that you've installed from the [lighting section](/lighting) of this guide
-    * If you don't use  a lighting mod, you don't have to select any of the lighting patches
-* **Main File - FROST Cell Fixes (FCF) - Various Patches 1.1**
-    * Installing this mod will show an installer
-    * Select the patch for the Frost More Starting Locations mod
-    * Select the lighting mod patches for the lighing mod that you've installed from the [lighting section](/lighting) of this guide
-    * If you don't use  a lighting mod, you don't have to select any of the lighting patches
+{% include_relative md-mod-descriptions/fcf-description.md %}

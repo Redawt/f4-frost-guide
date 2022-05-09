@@ -44,7 +44,7 @@ aside:
 * **Main File - Mod Configuration Menu 1.39**
 
 
-## [Game Configuration Menu (GCM)](https://www.nexusmods.com/fallout4/mods/37599)
+## [Game Configuration Menu (GCM)](https://www.nexusmods.com/fallout4/mods/33759)
 
 
 #### Description
@@ -56,7 +56,7 @@ aside:
 * **Main File - GCM DLC Far Harbor 0.6**
 
 
-## [Survival Configuration Menu (SCM)](https://www.nexusmods.com/fallout4/mods/33759)
+## [Survival Configuration Menu (SCM)](https://www.nexusmods.com/fallout4/mods/37599)
 
 
 #### Description
@@ -64,16 +64,6 @@ aside:
 
 #### Installation Instructions
 * **Main Files - Survivla COnfiguration Menu 0.9**
-
-
-## [LevelUpMenuEx](https://www.nexusmods.com/fallout4/mods/28822)
-
-
-#### Description
-* Changes the Level Up Menu to allow other mods to add new perks and skills into the game
-
-#### Installation Instructions
-* **Main Files - prkf 1.10.163.0**
 
 
 ## [Classic Holstered Weapons System (CHW)](https://www.nexusmods.com/fallout4/mods/46101?tab=files) (*O, *F)

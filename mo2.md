@@ -117,6 +117,12 @@ These settings allow for files from mods to be loaded in-game. It is intentional
 {:.info}
 
 
+## How to MO2 
+If you need some information and help on how to use MO2, here are some helpful links:
+* [MO2 Sorting Crashcourse](https://github.com/sower-j/modding-guides/blob/main/mo2-sorting-crashcourse.md)
+* [GamerPoets: How to Use MO2 Videos](https://www.youtube.com/playlist?list=PLlN8weLk86Xh3ue76x2ibqtmMramwQmHB)
+
+
 ## Mod Installation Advice
 If you are completely unfamiliar with Mod Organizer 2, I recommended watching [GamerPoet's video](https://www.youtube.com/watch?v=7v0wWVuOagA) about mod installation in MO2. As it was made for Skyrim, it has some information that does not apply to Fallout 4, such as the Steam Workshop part which you can just ignore. However, the rest of the information about downloading/installing mods from Nexus still applies. 
 {:.info}
@@ -133,3 +139,4 @@ Unless instructed otherwise, simply download the listed file using the **Mod Man
 4. Finish the install normally
 
 When downloading multiple files from the same page, you will be prompted with a box in Mod Organizer 2 with the options **Merge**{: .hili}, **Replace**{: .hili}, and **Rename**{: .hili}. You should select the **Rename**{: .hili} option and rename the mod to its respective file name. This will make MO2 install them as separate files for easier management. If you are updating from an old version of a mod, you should select **Replace**{: .hili}. This will delete all the files from the old version of the mod and replace them,with the ones from the new version. This is the only time you should use the **Replace option**{: .hili}, otherwise always use **Rename**{: .hili}. 
+
