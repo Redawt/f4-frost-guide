@@ -63,7 +63,7 @@ By default, Windows Explorer will not show file extensions (such as .exe, .dll, 
 ### Generating Fresh .INI Files
 
 1. Run **Fallout4Launcher.exe**{: .hili} from the game's Root folder
-    - If you do not know what the game's **Root**{: .hili} folder is, read the Key Terminology section above
+    - If you do not know what the game's **Root**{: .hili} folder is, read the [Key Terminology](https://redawt.github.io/f4-frost-guide/initialsetup#key-terminology) section above
 3. Click OK to both pop-ups that say **Detecting Video Hardware**{: .hili}
     - If there aren't any pop-ups, navigate to `Documents\My Games\Fallout4`{: .path} and delete all the files ending in **.INI**{: .hili} then retry
 5. Select **Options**{: .hili} then select the **High**{: .hili} preset option

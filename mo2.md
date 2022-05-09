@@ -85,7 +85,7 @@ You may get a pop-up called **INI file is read-only**{: .hili} when attempting t
 ![mo2 profiles menu](./assets/images/mo2profiles.png "mo2 profiles menu")
 
 
-## INI Tweaks
+## INI Tweaks + Lose Files
 In this step, we will configure the game's INI files to increase performance/stability at minimal visual cost. 
 
 1. Make sure the **FROST**{: .hili} profile is active
@@ -106,7 +106,7 @@ These settings tweak shadows to drastically improve performance without much vis
 {:start="5"}
 5. Save your changes, but stay in the INI editor
 6. Select the **Fallout4Custom.ini**{: .hili} tab
-7. Paste in the following:
+7. Paste in the following to {enable lose files**{: .hili}:
 ```
 [Archive]
 bInvalidateOlderFiles=1
@@ -119,8 +119,8 @@ These settings allow for files from mods to be loaded in-game. It is intentional
 
 ## How to MO2 
 If you need some information and help on how to use MO2, here are some helpful links:
+* [GamerPoets' Videos: How to Use MO2](https://www.youtube.com/playlist?list=PLlN8weLk86Xh3ue76x2ibqtmMramwQmHB)
 * [MO2 Sorting Crashcourse](https://github.com/sower-j/modding-guides/blob/main/mo2-sorting-crashcourse.md)
-* [GamerPoets: How to Use MO2 Videos](https://www.youtube.com/playlist?list=PLlN8weLk86Xh3ue76x2ibqtmMramwQmHB)
 
 
 ## Mod Installation Advice

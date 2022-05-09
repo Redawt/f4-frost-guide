@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : "/f4-frost-guide" # does not include hostname
 title   : "Below Zero - A FROST Modding Guide"
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  A FROST Survival Simulator Installation Guide
 
 
 ## => Language and Timezone

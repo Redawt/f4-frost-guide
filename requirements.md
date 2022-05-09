@@ -9,6 +9,7 @@ sidebar:
   nav: docs-en
 ---
 
+#### This section will tell you more about some requirements of this guide.
 
 ## You need...
 
