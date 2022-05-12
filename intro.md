@@ -90,12 +90,25 @@ This guide is recommended for people who
 * Mods that need a patch for frost are marked with **\*F**{: .hili} in their title
 * The end of the guide will give you an example load order and instructions for where you should put mods that are not mentioned in the guide.
 
+## About MO2
+If you need some information and help on how to use MO2, here are some helpful links:
+* [GamerPoets' Videos: How to Use MO2](https://www.youtube.com/playlist?list=PLlN8weLk86Xh3ue76x2ibqtmMramwQmHB)
+  * A small video series to learn how to do things in MO2
+* [MO2 Sorting Crashcourse](https://github.com/sower-j/modding-guides/blob/main/mo2-sorting-crashcourse.md)
+  * **If this is your first time using MO2 or a mod manager in general, read this article!** 
+  * It contains information that will help you understand the guide a bit better
+* The guide will hold your hand on some MO2 things, and also tells you how to properly install it and how to set it up
+* It won't tell you everything about MO2, because that would make the guide too long in general
+
+
 ## How to navigate the guide
 At the end of each section, you will find a link to the next section. 
 Don't skip sections by clicking randomly on the section overview on the left side of this website.
 The links to the next section look like this:
 
 ![Navigation Picture](./assets/images/navigation_next.png)
+
+Well, we are are ready now. Click on **Requirements**{: .hili} below the Credits to get to the next part of the guide!
 
 
 ## Credits

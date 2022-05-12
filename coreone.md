@@ -15,7 +15,7 @@ aside:
 
 ## Creating a Seperator in MO2
 1. Right-click anywhere in the left pane of MO2 and select **Create Separator**{: .hili}
-2. Name the separator **TODO**{: .hili}
+2. Name the separator **Important Mods**{: .hili}
 
 ## [Better Console](https://www.nexusmods.com/fallout4/mods/26582)
 

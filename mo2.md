@@ -120,7 +120,9 @@ These settings allow for files from mods to be loaded in-game. It is intentional
 ## How to MO2 
 If you need some information and help on how to use MO2, here are some helpful links:
 * [GamerPoets' Videos: How to Use MO2](https://www.youtube.com/playlist?list=PLlN8weLk86Xh3ue76x2ibqtmMramwQmHB)
+  * A small video series to learn how to do things in MO2
 * [MO2 Sorting Crashcourse](https://github.com/sower-j/modding-guides/blob/main/mo2-sorting-crashcourse.md)
+  * If this is your first time using MO2, read this article! It contains information that will help you understand the guide a bit better
 
 
 ## Mod Installation Advice

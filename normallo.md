@@ -45,11 +45,11 @@ Put all .esm files and .esm flagged .esp files here
 #### 3. Frost Unrelated Mods I
 {: .hili}
 Put all mods that are unrelated to FROST and don't need a frost patch here
-* Z_LevelUp_HealingRemoval.esp
-* GCM.esp
 * GCM_DLC_Automatron.esl
 * GCM_DLC_Far_Harbor.esl
+* GCM.esp
 * SCM.esp
+* Z_LevelUp_HealingRemoval.esp
 * Immersive HUD.esp
 * ...
 
