@@ -79,8 +79,8 @@ If you use **MO2**{: .hili}, you can find your loadorder.txt here:
     result_list = [];
     for(let i = 0; i < plugin_list.indexOf("FROST.esp"); i++){
         let plugin = plugin_list[i];
-        plugin = plugin.toLowerCase()
-        if (plugin.includes("frost") || plugin.includes("rff")){
+        pluginS = plugin.toLowerCase()
+        if (pluginS.includes("frost") || pluginS.includes("rff")){
           result_list.push(plugin)
         }
     }

@@ -12,6 +12,9 @@ aside:
 nonext: true
 ---
 
+#### This section tells you how to sort your load order. It contains rules for sorting your load order, an example load order, and an automatic load order checker at the bottom of the page!
+
+
 ## About LOOT
 **LOOT**{: .hili} is a tool that is integrated into **Vortex**{: .hili} and **MO2**{: .hili} and can automatically sort your load order.
 It is compatible with **FROST**{: .hili}, but I recommend to not use it as it sometimes still does some silly things with FROST load orders.
