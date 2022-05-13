@@ -41,7 +41,7 @@ In order for the script extender to work, you need to launch the game using the 
 {: .info}
 
 
-## [PluginPreloader](https://www.nexusmods.com/fallout4/mods/33946)
+## [xSE PluginPreloader](https://www.nexusmods.com/fallout4/mods/33946)
 
 #### Description
 - Allows F4SE plugins to be loaded before the game initializes

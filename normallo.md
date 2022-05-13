@@ -176,4 +176,4 @@ You can now start Fallout 4 through F4SE, click "New Game" in the Main Menu, and
 {: .info}
 
 
-
+{% include_relative lochecker.md %}

@@ -11,23 +11,30 @@ aside:
   toc: true
 ---
 
+#### **Read this!**{: .hili}
+* **Download only ONE of the following lighting mods!**{: .hili}
+* Using multiple ones will crash your game or cause other problems. 
+* If your PC isn't good enough for lighting mods, you can skip this section completely!
+* **You have to install a FROST patch the lighting mod that you choose later!**{: .hili} 
+  * Don't worry, the guide will tell you when to do install them.
+
 
 ## Creating a Seperator in MO2
 1. Right-click anywhere in the left pane of MO2 and select **Create Separator**{: .hili}
 2. Name the separator **Lighting Mods**{: .hili}
 
-## Read this
-* Download only ONE of the following lighting mods. Using multiple ones will crash your game or cause other problems. 
-* If your PC isn't good enough for lighting mods, you can skip this section completely!
-* You have to install a FROST patch the lighting mod that you choose later. Don't worry, the guide will tell you when to do install them.
-
 
 ## [Ultra Interior](https://www.nexusmods.com/fallout4/mods/22101?tab=files) and [Ultra Exterior](https://www.nexusmods.com/fallout4/mods/41625?tab=files) Lighting (*O)
+
+
+#### Note
+These two mods count as one lighting mod.
 
 #### Description
 *  [Ultra Exterior Lighting](https://www.nexusmods.com/fallout4/mods/41625?tab=files)  adds shadow cast lights to many of the physical light sources in the Fallout 4 exterior world including Far Harbor and Nukaworld. There has also been vast improvements made to the general lighting associated with physical lights sources bring you a vastly more immersive exterior lighting.
 * [Ultra Interior Lighting](https://www.nexusmods.com/fallout4/mods/22101?tab=files) is a comprehensive lighting mod that brings you many more shadow lights and a general improvement to overall lighting, ambience and fog to the interiors of the Commonwealth, Far Harbor and Nuka World. 
 * This is the lighting mod that I and many other FROST users are using
+* 
 
 
 #### Installation Instructions

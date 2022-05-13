@@ -123,3 +123,5 @@ Or you can add other mods to your setup, just make sure to use this Load Order p
 You can check out the next sections of this website for information about which mods are compatible with FROST, or which mods work well with FROST.
 Consider joining the [FROST Community on Discord](https://discord.com/invite/BaKsm7Fn4A)!
 
+{% include_relative lochecker.md %}
+
