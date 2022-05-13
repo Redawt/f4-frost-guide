@@ -98,8 +98,7 @@ If you use **MO2**{: .hili}, you can find your loadorder.txt here:
             continue
           }
           if (pl1 > pl2){
-            result_list.push(plugin);
-            message_list.push(pl1 + "needs to be loaded before " + pl2);
+            result_list.push(plugin1);
           }
       }
       return result_list
