@@ -12,10 +12,18 @@ aside:
 nonext: true
 ---
 
+
+#### This section tells you how to sort your load order. It contains rules for sorting your load order, an example load order, and an automatic load order checker at the bottom of the page!
+
+
 ## About LOOT
 **LOOT**{: .hili} is a tool that is integrated into **Vortex**{: .hili} and **MO2**{: .hili} and can automatically sort your load order.
 It is compatible with **FROST**{: .hili}, but I recommend to not use it as it sometimes still does some silly things with FROST load orders.
  
+
+Before you start adding additional mods that are not mentioned in the guide, make sure to read the [compatability section](./compatability.html) of the guide! It lists which mods and mod types are problematic, and which are okay to use!
+{: .warning}
+
 
 ## How to structure your Load Order
 ##### This is the start of the load order
@@ -122,6 +130,9 @@ That was the Basic Guide. If you followed everything in this guide, you are read
 Or you can add other mods to your setup, just make sure to use this Load Order page to put new mods into the right spot.
 You can check out the next sections of this website for information about which mods are compatible with FROST, or which mods work well with FROST.
 Consider joining the [FROST Community on Discord](https://discord.com/invite/BaKsm7Fn4A)!
+
+Before you start adding additional mods that are not mentioned in the guide, make sure to read the [compatability section](./compatability.html) of the guide! It lists which mods and mod types are problematic, and which are okay to use!
+{: .warning}
 
 {% include_relative lochecker.md %}
 

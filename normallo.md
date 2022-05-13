@@ -18,7 +18,10 @@ nonext: true
 ## About LOOT
 **LOOT**{: .hili} is a tool that is integrated into **Vortex**{: .hili} and **MO2**{: .hili} and can automatically sort your load order.
 It is compatible with **FROST**{: .hili}, but I recommend to not use it as it sometimes still does some silly things with FROST load orders.
- 
+
+Before you start adding additional mods that are not mentioned in the guide, make sure to read the [compatability section](./compatability.html) of the guide! It lists which mods and mod types are problematic, and which are okay to use!
+{: .warning}
+
 
 ## How to structure your Load Order
 ##### This is the start of the load order
@@ -177,6 +180,9 @@ Consider joining the [FROST Community on Discord](https://discord.com/invite/BaK
 
 You can now start Fallout 4 through F4SE, click "New Game" in the Main Menu, and play FROST. Note that currently the Fallout 4 Intro was not replaced yet by the FROST Development team, so don't be confused if you see it.
 {: .info}
+
+Before you start adding additional mods that are not mentioned in the guide, make sure to read the [compatability section](./compatability.html) of the guide! It lists which mods and mod types are problematic, and which are okay to use!
+{: .warning}
 
 
 {% include_relative lochecker.md %}
