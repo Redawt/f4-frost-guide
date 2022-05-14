@@ -35,7 +35,7 @@ const not_recommended_plugins =  ['Realistic Survival Damage.esp', 'CraftingFram
         parent.removeChild(parent.firstChild);
     }
   }
-
+  var counter_checker = 0;
 
   function myPrint(output_list, title, message) {
       if(output_list.length == 0){
@@ -53,6 +53,7 @@ const not_recommended_plugins =  ['Realistic Survival Damage.esp', 'CraftingFram
               t.innerHTML = plugin;
               p.appendChild(t)})
       document.getElementById("content").appendChild(p);
+      counter_checker++
   }
 
 
@@ -106,9 +107,15 @@ const not_recommended_plugins =  ['Realistic Survival Damage.esp', 'CraftingFram
 
 
   function checkLoadOrder(){
+    counter_checker = 0;
     removeAllHtmlChildNodes(document.getElementById("content"))
     var load_order_text = document.getElementById('loadordertxt').value;
     const plugins = load_order_text.split('\n');
+
+    for (let i = 0; i < plugins.length; i++){
+      plugins[i]  = plugins[i].replace("*", "");
+    }
+
     if (plugins.length <= 2){
       return;
     }
@@ -134,7 +141,9 @@ const not_recommended_plugins =  ['Realistic Survival Damage.esp', 'CraftingFram
     myPrint(found_wrong_order_plugins, "Following Plugins are sorted wrong", wrong_order_description);
     const wrong_order_frost_description = "All FROST mods need to be loaded AFTER FROST.esp! The following FROST mods are not loaded after FROST.esp:";
     myPrint(found_wrong_order_frost_plugins, "FROST Plugins are sorted wrong", wrong_order_frost_description);
-
+    if (counter_checker == 0){
+        myPrint([""], "No problems were found", "The checker couldn't find any problems. Keep in mind that the checker is not perfect, there could still be something wrong with your load order.");
+    }
 }
 </script>
 

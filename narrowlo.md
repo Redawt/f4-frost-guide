@@ -114,9 +114,9 @@ DLCNukaWorld.esm
 Unofficial Fallout 4 Patch.esp
 FROST.esp
 FROSTmoreDoors.esp
-aFrostMod.esp
 RedsFrostFixes.esp
 FrostNukaWorld.esp
+aFrostMod.esp
 FROST - UFO4P Patch.esp
 FROST Feral Fix.esp
 FCF_Main.esp

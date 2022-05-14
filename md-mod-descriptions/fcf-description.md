@@ -9,10 +9,10 @@
 * **Main File - FROST Cell Fixes (FCF) - Nuka World AddOn 1.0.1**
     * Installing this mod will show an installer
     * Select the Nuka-World patches from the installer
-    * Select the lighting mod patches for the lighing mod that you've installed from the [lighting section](/lighting) of this guide
+    * Select the **lighting mod patch** for the lighing mod that **you** installed from the [lighting section](/lighting) of this guide
     * If you don't use  a lighting mod, you don't have to select any of the lighting patches
 * **Main File - FROST Cell Fixes (FCF) - Various Patches 1.1**
     * Installing this mod will show an installer
     * Select the patch for the Frost More Starting Locations mod
-    * Select the lighting mod patches for the lighing mod that you've installed from the [lighting section](/lighting) of this guide
+    * Select the **lighting mod patch** for the lighing mod that **you** installed from the [lighting section](/lighting) of this guide
     * If you don't use  a lighting mod, you don't have to select any of the lighting patches
