@@ -30,6 +30,22 @@ const bad_plugins =  ['FROST-More Armor Slots.esp', 'FROST - Backpack agility fi
 const not_recommended_plugins =  ['Realistic Survival Damage.esp', 'CraftingFramework.esp', 'Buildable_PAFrames.esp', 'WeightlessJunk.esp', 'More Power Armour Mods SPA.esp', 'MK_Agony.esp', 'Feral Ghoul Bite Skills.esp', 'SolarPower.esp', 'Safe SSEx.esp', 'SSEX.esp', 'Water Purification Stations.esp', 'CraftableAmmo.esp', 'CraftableAmmo_plus.esp', 'Insignificant Object Remover.esp', 'YouAreSPECIAL.esm', 'jags78_ExtendedAgony.esp', 'MK_Agony_Unofficial_Patch.esp', 'ExpandedQuickCleanJamaicaPlain.esp', 'Agony_IAF_Patch.esp', 'AdvancedNeeds2_Expansion_01_Ghoulified.esp', 'AdvancedNeeds2_Expansion_02_Spoilage.esp', 'AdvancedNeeds2_Expansion_05_Gasmasks.esp', 'AdvancedNeeds2_Patch_Campsite.esp', 'AdvancedNeeds2_Patch_DLC.esp', 'Flashy_CommonwealthFishing.esp', 'Flashy_CommonwealthFishingFarHarborAddon.esp', 'AdvancedNeeds2.esp']
 
 
+  fetchLoadOrderRules();
+
+  async function fetchLoadOrderRules(){
+
+    const response = await fetch("https://redawt.github.io/f4-frost-guide/lo-checker-files/lo-rules.json", {
+    //const response = await fetch("http://127.0.0.1:4000/f4-frost-guide/lo-checker-files/lo-rules.json", {
+    method: 'POST',
+    headers: {
+      'Accept': 'application/json',
+      'Content-Type': 'application/json'
+    }});
+    console.log(response)
+    const data= await response.json();
+    console.log(data);
+}
+
   function removeAllHtmlChildNodes(parent){
     while (parent.firstChild) {
         parent.removeChild(parent.firstChild);
