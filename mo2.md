@@ -106,7 +106,7 @@ These settings tweak shadows to drastically improve performance without much vis
 {:start="5"}
 5. Save your changes, but stay in the INI editor
 6. Select the **Fallout4Custom.ini**{: .hili} tab
-7. Paste in the following to {enable lose files**{: .hili}:
+7. Paste in the following to **enable lose files**{: .hili}:
 ```
 [Archive]
 bInvalidateOlderFiles=1

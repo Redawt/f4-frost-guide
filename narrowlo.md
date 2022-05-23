@@ -16,6 +16,10 @@ nonext: true
 #### This section tells you how to sort your load order. It contains rules for sorting your load order, an example load order, and an automatic load order checker at the bottom of the page!
 
 
+**Sorting your load order correctly is very important!**
+**Do not skip this step, and read the sorting rules below carefully.**
+{: .warning}
+
 ## About LOOT
 **LOOT**{: .hili} is a tool that is integrated into **Vortex**{: .hili} and **MO2**{: .hili} and can automatically sort your load order.
 It is compatible with **FROST**{: .hili}, but I recommend to not use it as it sometimes still does some silly things with FROST load orders.
@@ -26,6 +30,8 @@ Before you start adding additional mods that are not mentioned in the guide, mak
 
 
 ## How to structure your Load Order
+The following rules show you how to structure your load order. Please use these rules to sort your load order. An example load order can be found below if you need an example on how it should look like in the end.
+
 ##### This is the start of the load order
 {: .hili}
 

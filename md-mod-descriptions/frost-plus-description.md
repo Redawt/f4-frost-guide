@@ -2,7 +2,7 @@
 
 
 #### Description
-* Another mod that continues FROSTs development, but in different areas then the Frost Official Updates mod. It adds voiced characters, quests, companions, bug fixes, items, and a lot more!
+* Continues the development of FROST alongside the Official Updates. Provides you with expanded content such as New Game feature, Voiced characters, Bug fixes, Navmesh fixes and lot more!
 
 #### Installation Instructions
 * **Main File - FROST PLUS - Main 0.5.2**

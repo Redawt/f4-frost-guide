@@ -141,6 +141,7 @@ This is not a single mod, rather then a collection of mods.
 #### Installation Instructions
 * Go to the Greslin Games Discord Server in Discord
 * In the **#compatability** channel in the **Pack Attach NPC Edition** section, you can find the newest version of ther FROST PANPC patch
+* **Note:** You might have to scroll up a bit to find the file, or use DIscords Search function to check for files in the channel
 
 ![Download PANPC FROST patch](./assets/images/find_frost_panpc.png "Download PANPC FROST patch!")
 

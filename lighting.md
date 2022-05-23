@@ -11,8 +11,10 @@ aside:
   toc: true
 ---
 
-#### **Read this!**{: .hili}
-* **Download only ONE of the following lighting mods!**{: .hili}
+#### This section is about lighting mods that can be used together with FROST
+
+## **Read this!**{: .hili}
+* **Download only *ONE* of the following lighting mods!**{: .hili}
 * Using multiple ones will crash your game or cause other problems. 
 * If your PC isn't good enough for lighting mods, you can skip this section completely!
 * **You have to install a FROST patch the lighting mod that you choose later!**{: .hili} 

@@ -12,7 +12,16 @@ aside:
 nonext: true
 ---
 
-#### This section tells you how to sort your load order. It contains rules for sorting your load order, an example load order, and an automatic load order checker at the bottom of the page!
+#### This section tells you how to sort your load order. It contains rules for sorting your load order, an example load order, and an automatic load order checker at the bottom of the page! 
+
+## Load Order
+
+**Sorting your load order correctly is very important!**
+**Do not skip this step, and read the sorting rules below carefully.**
+{: .warning}
+
+You can sort your load order on the **right** pane of MO2 in the **plugins**{: .hili} section by moving the files with your mouse there. If you need further information, please read the [MO2 Sorting Crashcourse](https://github.com/sower-j/modding-guides/blob/main/mo2-sorting-crashcourse.md)!
+
 
 
 ## About LOOT
@@ -24,6 +33,8 @@ Before you start adding additional mods that are not mentioned in the guide, mak
 
 
 ## How to structure your Load Order
+The following rules show you how to structure your load order. Please use these rules to sort your load order. An example load order can be found below if you need an example on how it should look like in the end.
+
 ##### This is the start of the load order
 {: .hili}
 
