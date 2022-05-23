@@ -131,7 +131,7 @@ This is not a single mod, rather then a collection of mods.
 * **Main File - CHW .ini for FROST 1.0**
 
 
-## [FROST PANPC Patch](https://discord.gg/RbX5eVYEKE) (*O, *D)
+## [FROST PANPC Patch](https://drive.google.com/drive/folders/1jGVL-7ItZf48k_gxB1D-nt5BuVtiXLTM) (*O, *D)
 #### Note
 * You only need this file if you installed PANPC from the [previous section](/coreone#pack-attack-npc-panpc-o) of this guide
 
@@ -139,13 +139,8 @@ This is not a single mod, rather then a collection of mods.
 * The FROST patch for [PANPC](/coreone#pack-attack-npc-panpc-o)
 
 #### Installation Instructions
-* Go to the Greslin Games Discord Server in Discord
-* In the **#compatability** channel in the **Pack Attach NPC Edition** section, you can find the newest version of ther FROST PANPC patch
-* **Note:** You might have to scroll up a bit to find the file, or use DIscords Search function to check for files in the channel
-
-![Download PANPC FROST patch](./assets/images/find_frost_panpc.png "Download PANPC FROST patch!")
-
-* Download the Frost PANPC patch, and save it somewhere on your computer (like the 'Downloads'{: .path} folder on your computer)
+* Open this [PANPC Patches Google Drive repository](https://drive.google.com/drive/folders/1jGVL-7ItZf48k_gxB1D-nt5BuVtiXLTM)
+* Download one of the Frost PANPC patches (doesn't matter which one), and save it somewhere on your computer (like the 'Downloads'{: .path} folder on your computer)
 * Once the download has finished, click the ![mo2 archive button](https://themidnightride.github.io/img/mo2%20archive.png) button at the top of MO2
 * From the new window, navigate to where the PANPC was downloaded to and double-click it
 * Finish the install normally
