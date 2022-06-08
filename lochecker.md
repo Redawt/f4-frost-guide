@@ -32,8 +32,8 @@ const required_plugins =  [
             "FROST Feral Fix.esp",
             "FCF_Main.esp",
             "FCF_Previsibines.esp",
-            "FCF_PrevisibinesDoors.esp",
-            "FCF_PrevisibinesNW.esp"
+            "FCF_PrevisibinesNW.esp",
+            "FCF_PrevisibinesDoors.esp"
         ];
 
 const incompatible_plugins =  [
@@ -144,6 +144,8 @@ const incompatible_plugins =  [
         ];
 
 const bad_plugins =  [
+            "FunctionalTank.esl",
+            "M8r_Item_Tags_Vanilla.esp",
             "FROST-More Armor Slots.esp",
             "FROST - Backpack agility fix.esp",
             "FROST - Blight Brew Fix.esp",
@@ -206,10 +208,23 @@ const bad_plugins =  [
             "Frost Construction.esp",
             "LD-Frost - Brutal.esp",
             "LD-Frost - Liebermode.esp",
-            "LD-Frost - Regular.esp"
+            "LD-Frost - Regular.esp",
+            "FROST Portable Instant Workbench.esp",
+            "NPCLimitedAmmo - Automatron.esp",
+            "NPCLimitedAmmo.esp"
         ];
 
 const not_recommended_plugins =  [
+            "No Essential Npcs.esp",
+            "ExplosionKnockdown.esp",
+            "TheMobileMechanic.esp",
+            "fusioncore permanent.esp",
+            "XP From Companion Kills.esp",
+            "Consistent Power Armor Overhaul.esp",
+            "Brotherhood Power Armor Overhaul.esp",
+            "AnimatedIngestibles.esp",
+            "Minuteman Watchtowers.esp",
+            "SimpleProstitutes",
             "Realistic Survival Damage.esp",
             "CraftingFramework.esp",
             "Buildable_PAFrames.esp",
@@ -237,9 +252,43 @@ const not_recommended_plugins =  [
             "Flashy_CommonwealthFishing.esp",
             "Flashy_CommonwealthFishingFarHarborAddon.esp",
             "AdvancedNeeds2.esp",
-            "Facials.esp"
+            "Facials.esp",
+            "UD_AlternateFarming_for_FROST.esp"
         ];
 
+const lighting_check_plugins = [
+            "FCF_PrevisibinesUIL.esp",
+            "FCF_PrevisibinesIEAIO.esp",
+            "FCF_PrevisibinesELE.esp",
+            "FCF_PrevisibinesClarity.esp"
+        ];
+
+const fcf_check_plugins = [
+            "FCF_Main.esp",
+            "FCF_Previsibines.esp",
+            "FCF_PrevisibinesNW.esp",
+            "FCF_PrevisibinesDoors.esp",
+            "FCF_PrevisibinesUIL.esp",
+            "FCF_PrevisibinesIEAIO.esp",
+            "FCF_PrevisibinesELE.esp",
+            "FCF_PrevisibinesClarity.esp",
+            "FCF_PrevisibinesFO.esp",
+            "FCF_PrevisibinesNFZ.esp",
+            "FCF_PrevisibinesJSRS.esp",
+            "FCF_PrevisibinesMarshland.esp",
+            "FCF_PrevisibinesMMH.esp",
+            "FCF_PrevisibinesForest.esp",
+            "FCF_PrevisibinesNW_Clarity.esp",
+            "FCF_PrevisibinesNW_ELE.esp",
+            "FCF_PrevisibinesNW_FO.esp",
+            "FCF_PrevisibinesNW_IEAIO.esp",
+            "FCF_PrevisibinesNW_NFZ.esp",
+            "FCF_PrevisibinesNW_UEL.esp",
+            "FCF_PrevisibinesNW_UIL.esp",
+            "PLI_USAF_Satellite_Station_Olivia.esp",
+            "SatelliteWorldMap.esp"
+
+        ];
 
 
   function removeAllHtmlChildNodes(parent){
@@ -270,26 +319,26 @@ const not_recommended_plugins =  [
 
 
   function checkForCCmods(plugin_list){
-    result_list = [];
+    var result_list = [];
     plugin_list.forEach(plugin => {if (plugin.startsWith("cc")){result_list.push(plugin)}});
     return result_list;
   }
 
   function checkForMissingPlugins(plugin_list, check_list){
-      result_list = [];
+      var result_list = [];
       check_list.forEach(plugin => {if (!plugin_list.includes(plugin)){result_list.push(plugin)}});
       return result_list;
   }
 
   function checkForExistingPlugins(plugin_list, check_list){
-      result_list = [];
+      var result_list = [];
       check_list.forEach(plugin => {if (plugin_list.includes(plugin)){result_list.push(plugin)}});
       return result_list;
   }
 
 
-  function checkFrostPluginOrder(plugin_list){
-    result_list = [];
+  function checkFrostPluginOrderBefore(plugin_list){
+    var result_list = [];
     for(let i = 0; i < plugin_list.indexOf("FROST.esp"); i++){
         let plugin = plugin_list[i];
         pluginS = plugin.toLowerCase()
@@ -300,8 +349,23 @@ const not_recommended_plugins =  [
     return result_list;
   }
 
+  function checkFrostPluginOrderAfter(plugin_list){
+    var result_list = [];
+    //alert(plugin_list)
+    for(let i = plugin_list.indexOf("FROST.esp"); i < plugin_list.length-1; i++){
+        let plugin = plugin_list[i];
+        let pluginS = plugin.toLowerCase()
+        //alert(plugin)
+        const exception_list = ["SatelliteWorldMap.esp", "PLI_USAF_Satellite_Station_Olivia.esp", "M8r Complex Sorter.esp"];
+        if (!pluginS.includes("frost") && !pluginS.includes("rff") && !pluginS.includes("fcf") && exception_list.indexOf(plugin_list[i]) < 0){
+          result_list.push(plugin)
+        }
+    }
+    return result_list;
+  }
+
     function checkPluginOrder(plugin_list, check_list){
-      result_list = [];
+      var result_list = [];
       for (let i = 0; i < check_list.length-1; i++){
           let plugin1 = check_list[i];
           let plugin2 = check_list[i+1];
@@ -311,6 +375,20 @@ const not_recommended_plugins =  [
             continue
           }
           if (pl1 > pl2){
+            result_list.push(plugin1);
+          }
+      }
+      return result_list
+  }
+
+  function checkEndOfLO(plugin_list, check_list){
+    var exist_list = checkForExistingPlugins(plugin_list, check_list)
+    var result_list = []
+    const sumbo =   plugin_list.length - exist_list.length
+    for (let i = 0; i < check_list.length-1; i++){
+          let plugin1 = check_list[i];
+          let pl1 = plugin_list.indexOf(plugin1);
+          if (pl1 < sumbo && pl1 >= 0){
             result_list.push(plugin1);
           }
       }
@@ -337,7 +415,10 @@ const not_recommended_plugins =  [
     const found_bad_plugins = checkForExistingPlugins(plugins, bad_plugins);
     const found_not_recommended_plugins = checkForExistingPlugins(plugins, not_recommended_plugins);
     const found_wrong_order_plugins =  checkPluginOrder(plugins, required_plugins);
-    const found_wrong_order_frost_plugins = checkFrostPluginOrder(plugins, required_plugins);
+    const found_wrong_order_before_frost_plugins = checkFrostPluginOrderBefore(plugins, required_plugins);
+    const found_multiple_lighting_plugins = checkForExistingPlugins(plugins, lighting_check_plugins);
+    const found_wrong_sorted_fcf_plugins = checkEndOfLO(plugins, fcf_check_plugins);
+    const found_wrong_order_after_frost_plugins = checkFrostPluginOrderAfter(plugins);
 
     const cc_description = "Creation Club Content is often incompatible with FROST, immersion-breaking or needs a patch. There are currently no patches for CC content for FROST. Please remove all CC mods, unless they add paint for Power Armor, Armors or Weapons.";
     myPrint(found_cc_plugins, "Creation Club Content", cc_description);
@@ -347,12 +428,22 @@ const not_recommended_plugins =  [
     myPrint(found_incompatible_plugins, "Incompatible Plugins", incompatible_description);
     const problematic_description = "The following plugins are problematic and should also be removed";
     myPrint(found_bad_plugins, "Problematic Plugins", problematic_description);
-    const not_recommended_description = "The following plugins are not-recommended to be used with FROST, as they either need a patch that is way to complicated to make, or they do or add things that are already present in FROST.";
+    const not_recommended_description = "The following plugins are not-recommended to be used with FROST, as they either need a patch that is way to complicated to make, or they do or add things that are already present in FROST, or because they are outdated/not necessary anymore.";
     myPrint(found_not_recommended_plugins, "Not-Recommended Plugins", not_recommended_description);
     const wrong_order_description = "The following plugins are sorted wrong. Please check the Load Order section to make sure that they are sorted correctly!";
     myPrint(found_wrong_order_plugins, "Following Plugins are sorted wrong", wrong_order_description);
-    const wrong_order_frost_description = "All FROST mods need to be loaded AFTER FROST.esp! The following FROST mods are not loaded after FROST.esp:";
-    myPrint(found_wrong_order_frost_plugins, "FROST Plugins are sorted wrong", wrong_order_frost_description);
+    const wrong_order_before_frost_description = "All FROST mods need to be loaded AFTER FROST.esp! The following FROST mods are not loaded after FROST.esp:";
+    myPrint(found_wrong_order_before_frost_plugins, "FROST Plugins are sorted wrong", wrong_order_before_frost_description);
+
+    const wrong_order_after_frost_description = "You should load these frost unrelated mods before Frost.esp, unless you know what you are doing and know how to use xEdit. If you are unsure about this, go to the FROST Discord and ask there for clarification."
+    myPrint(found_wrong_order_after_frost_plugins, "Normal Plugins are sorted wrong", wrong_order_after_frost_description);
+
+    const multiple_light_description = "You are most likely using multiple lighting mods. This will cause severe problems, please read the lighting section of the guide again:";
+    myPrint(found_multiple_lighting_plugins, "Multiple Lighting Mods", multiple_light_description);
+    
+    const fcf_lo_end_description = "Please load the following plugins at the END of your load order, and read the sorting rules from above again VERY carefully."
+    myPrint(found_wrong_sorted_fcf_plugins, "Problems at the end of the load order.", fcf_lo_end_description);
+
     if (counter_checker == 0){
         myPrint([""], "No problems were found", "The checker couldn't find any problems. Keep in mind that the checker is not perfect, there could still be something wrong with your load order.");
     }
