@@ -285,6 +285,7 @@ const fcf_check_plugins = [
             "FCF_PrevisibinesNW_NFZ.esp",
             "FCF_PrevisibinesNW_UEL.esp",
             "FCF_PrevisibinesNW_UIL.esp",
+            "FCF_Hotfix.esp",
             "PLI_USAF_Satellite_Station_Olivia.esp",
             "SatelliteWorldMap.esp"
 
