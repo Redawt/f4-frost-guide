@@ -5,4 +5,4 @@
 * Continues the development of FROST.
 
 #### Installation Instructions
-* **Main Files - Frost Official Updates 1.0.2**
+* **Main Files - Frost Official Updates 1.1.1**

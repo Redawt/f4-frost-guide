@@ -74,11 +74,9 @@ After installing a mod, make sure you check the box next to it in the left pane 
 - Fixes numerous engine bugs and scripts, and also provides helpful crash logs when you game crashes.
 
 #### Installation Instructions
-  1. Download and install the **Main File - Buffout 4 1.24.5**{: .hili} normally through MO2
-  2. Download the **Main File - TBB Redistributables 2021.3**{: .hili} file using the **Manual Download**{: .hili} button
-  3. From the downloaded archive, extract **tbbmalloc.dll**{: .hili} to the game's Root folder
+  * Download and install the **Main File - Buffout 4 1.24.5**{: .hili} normally through MO2
 
-Without the [Microsoft VC++ 2015-2022](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) (x86 and x64 versions) which was mentioned in the requirements section of the guide, Buffout 4 will not work properly. Make sure that you've installed it!
+Without the [Microsoft VC++ 2015-2022](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) (x86 and x64 versions) which was mentioned in the requirements section of the guide, Buffout 4 and the xSE Preloader will not work properly. Make sure that you've installed it!
 {: .info}
 
 

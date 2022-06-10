@@ -79,14 +79,6 @@ aside:
 #### Installation Instructions
 * **Main File - FROST PipTab 1**
 
-## [FROST Survival Kit](https://www.nexusmods.com/fallout4/mods/53252)
-
-#### Description
-* Adds a survival kit (=portable crafting station) to FROST. 
-
-#### Installation Instructions
-* **Main File - FROST Survival Kit 1.1.1**
-
 
 ## [FROST - Accessible Locations](https://www.nexusmods.com/fallout4/users/51477666?tab=user+files) (*O)
 

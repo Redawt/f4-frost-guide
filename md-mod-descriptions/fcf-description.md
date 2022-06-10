@@ -4,6 +4,7 @@
 * This is FROSTs version of Previsibines Repair Pack (PRP). It improves performance greatly and fixes bugs.
 
 #### Installation Instructions
+**You need to download and install all three files! This is very important!**{: .hili}
 * **Main File - FROST Cell Fixes (FCF) 1.0**
     * Install it, follow through the installer that shows up, and pick a barricade texture resolution (I recommend the 2k version)
 * **Main File - FROST Cell Fixes (FCF) - Various Patches 1.1**
