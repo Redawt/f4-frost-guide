@@ -73,7 +73,6 @@ const incompatible_plugins =  [
             "Z_Architect_EnhancedSettlements_DLC.esp",
             "Z_Architect_Extras.esp",
             "Z_Architect_HomePlate.esp",
-            "Z_BlurRemoval.esp",
             "Z_CameraAddon.esp",
             "Z_Extras.esp",
             "Z_Horizon_DEFUI.esp",
@@ -357,7 +356,7 @@ const fcf_check_plugins = [
         let plugin = plugin_list[i];
         let pluginS = plugin.toLowerCase()
         //alert(plugin)
-        const exception_list = ["SatelliteWorldMap.esp", "PLI_USAF_Satellite_Station_Olivia.esp", "M8r Complex Sorter.esp"];
+        const exception_list = ["Freeze.esp","SatelliteWorldMap.esp", "PLI_USAF_Satellite_Station_Olivia.esp", "M8r Complex Sorter.esp"];
         if (!pluginS.includes("frost") && !pluginS.includes("rff") && !pluginS.includes("fcf") && exception_list.indexOf(plugin_list[i]) < 0){
           result_list.push(plugin)
         }
@@ -385,8 +384,8 @@ const fcf_check_plugins = [
   function checkEndOfLO(plugin_list, check_list){
     var exist_list = checkForExistingPlugins(plugin_list, check_list)
     var result_list = []
-    const sumbo =   plugin_list.length - exist_list.length
-    for (let i = 0; i < check_list.length-1; i++){
+    const sumbo =   plugin_list.length - exist_list.length -1
+    for (let i = 0; i < check_list.length; i++){
           let plugin1 = check_list[i];
           let pl1 = plugin_list.indexOf(plugin1);
           if (pl1 < sumbo && pl1 >= 0){
@@ -417,9 +416,15 @@ const fcf_check_plugins = [
     const found_not_recommended_plugins = checkForExistingPlugins(plugins, not_recommended_plugins);
     const found_wrong_order_plugins =  checkPluginOrder(plugins, required_plugins);
     const found_wrong_order_before_frost_plugins = checkFrostPluginOrderBefore(plugins, required_plugins);
-    const found_multiple_lighting_plugins = checkForExistingPlugins(plugins, lighting_check_plugins);
     const found_wrong_sorted_fcf_plugins = checkEndOfLO(plugins, fcf_check_plugins);
     const found_wrong_order_after_frost_plugins = checkFrostPluginOrderAfter(plugins);
+
+
+    var lightings = checkForExistingPlugins(plugins, lighting_check_plugins);
+    var found_multiple_lighting_plugins = [];
+    if (lightings.length > 1){
+      found_multiple_lighting_plugins = checkForExistingPlugins(plugins, lighting_check_plugins);
+    }
 
     const cc_description = "Creation Club Content is often incompatible with FROST, immersion-breaking or needs a patch. There are currently no patches for CC content for FROST. Please remove all CC mods, unless they add paint for Power Armor, Armors or Weapons.";
     myPrint(found_cc_plugins, "Creation Club Content", cc_description);
