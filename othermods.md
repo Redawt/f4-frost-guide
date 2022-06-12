@@ -70,8 +70,6 @@ Gas Masks of the Wasteland
 ## Sound & Music
 More where that came From - Diamond City Radio Edition
 
-Travis Begone
-
 Atomic Radio (only the radio, not the quest mod!)
 
 VHF Repeater
@@ -83,8 +81,6 @@ Project Reality Footsteps
 COTC - Complaint of the Commonwealth
 
 No More Combat Music
-
-Mute Travis' Introductions to Songs
 
 Terrifyer - Ghouls
 
