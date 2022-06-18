@@ -149,6 +149,7 @@ GCM.esp
 GCM_DLC_Automatron.esl
 GCM_DLC_Far_Harbor.esl
 SCM.esp
+Campsite.esp
 Immersive HUD.esp
 UltraInteriorLighting.esp
 UltraExteriorLighting.esp
@@ -159,6 +160,7 @@ FrostNukaWorld.esp
 aFrostMod.esp
 FROST - UFO4P Patch.esp
 FROST Feral Fix.esp
+FrostCampsitePatch.esp
 ArgonnFROSTSanityTweakPatch.esp
 FROST - It Snowed.esp
 FROST - LootableCars.esp
