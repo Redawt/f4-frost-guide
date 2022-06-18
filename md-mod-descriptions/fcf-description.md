@@ -17,3 +17,5 @@
     * Select the Nuka-World Previsibes patch from the installer
     * Select the **lighting mod patch** for the lighing mod that **you** installed from the [lighting section](/lighting) of this guide
     * If you don't use  a lighting mod, you don't have to select any of the lighting patches
+* **Hotfix**
+    * If there currently is a hotfix in the **Update Files** section of FCF, download it too please!

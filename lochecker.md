@@ -139,7 +139,13 @@ const incompatible_plugins =  [
             "AWKCR - Mod Power Armor Engine Glitch Fix.esp",
             "ENBLightsHDRPatch.esp",
             "Campsite-AWKCR.esp",
-            "WestTekTacticalOptics-AWKCR.esp"
+            "WestTekTacticalOptics-AWKCR.esp",
+            "AutomatronUnlocked.esp",
+            "Scavver's Toolbox.esp",
+            "MojaveImports.esp",
+            "MegaExplosions_x1.5.esp",
+            "nuka_world_vb_height_fix.esp",
+
         ];
 
 const bad_plugins =  [
@@ -214,6 +220,7 @@ const bad_plugins =  [
         ];
 
 const not_recommended_plugins =  [
+            "SimpleProstitutes.esl",
             "No Essential Npcs.esp",
             "ExplosionKnockdown.esp",
             "TheMobileMechanic.esp",
@@ -252,7 +259,8 @@ const not_recommended_plugins =  [
             "Flashy_CommonwealthFishingFarHarborAddon.esp",
             "AdvancedNeeds2.esp",
             "Facials.esp",
-            "UD_AlternateFarming_for_FROST.esp"
+            "UD_AlternateFarming_for_FROST.esp",
+            "IV_Frost_Fungus_Farming.esp"
         ];
 
 const lighting_check_plugins = [
@@ -356,7 +364,7 @@ const fcf_check_plugins = [
         let plugin = plugin_list[i];
         let pluginS = plugin.toLowerCase()
         //alert(plugin)
-        const exception_list = ["Freeze.esp","SatelliteWorldMap.esp", "PLI_USAF_Satellite_Station_Olivia.esp", "M8r Complex Sorter.esp"];
+        const exception_list = ["IV_Misc_BoiledWaterBottles.esp", "IV_HC_Perk_Updated.esp","Cat Meat Recipe.esp","Freeze.esp","SatelliteWorldMap.esp", "PLI_USAF_Satellite_Station_Olivia.esp", "M8r Complex Sorter.esp"];
         if (!pluginS.includes("frost") && !pluginS.includes("rff") && !pluginS.includes("fcf") && exception_list.indexOf(plugin_list[i]) < 0){
           result_list.push(plugin)
         }

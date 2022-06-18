@@ -86,6 +86,16 @@ aside:
 * **Main Files - Level-Up Healing Removal 1.1**
 
 
+## [Campsite](https://www.nexusmods.com/fallout4/mods/11734) (O*, F*)
+#### Description
+Adds portable sleeping bags and other camping items. Highly recommended to be used.
+**The FROST patch for this mod is included in the Frost Official Updates mod as an optional install.**
+With the FROST Campsite patch, you will also have access to a QoL menu that let's you drop campsite items easily, among a few other cool features.
+
+#### Installation Instructions
+* **Main Files - Campsite - Simple 1.0.4**
+
+
 ## [Pack Attack NPC (PANPC)](https://discord.gg/RbX5eVYEKE) (*O, *D, *F)
 
 #### Description
