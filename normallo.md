@@ -144,11 +144,11 @@ Ultra Interior and Ultra Exterior Lighting were used as lighting mods in this ex
 PANPC.esm
 HUDFramework.esm
 Unofficial Fallout 4 Patch.esp
-Z_LevelUp_HealingRemoval.esp
-GCM.esp
 GCM_DLC_Automatron.esl
 GCM_DLC_Far_Harbor.esl
+GCM.esp
 SCM.esp
+Z_LevelUp_HealingRemoval.esp
 Campsite.esp
 Immersive HUD.esp
 UltraInteriorLighting.esp
