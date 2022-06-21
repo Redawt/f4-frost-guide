@@ -27,9 +27,9 @@ If you need help with this step, you can also watch this [video](https://youtu.b
 * Extends the scripting capabilities of the game
 
 #### Installation Instructions
-  1. Click the topmost download link next to **Fallout 4 runtime 1.10.163 - build: 0.6.21**{: .hili}
-  2. Extract the contents of the **f4se_0_06_21**{: .hili} folder from the downloaded archive to the game's Root folder
-  3. Make sure you are extracting all of the files *inside* of the **f4se_0_06_21**{: .hili} folder, not just the folder itself. 
+  1. Click the topmost download link next to **Fallout 4 runtime 1.10.163 - build: 0.6.23**{: .hili}
+  2. Extract the contents of the **f4se_0_06_23**{: .hili} folder from the downloaded archive to the game's Root folder
+  3. Make sure you are extracting all of the files *inside* of the **f4se_0_06_23**{: .hili} folder, not just the folder itself. 
 
 
 ![F4SE in Root folder](https://themidnightride.github.io/img/f4se%20install.png "F4SE in Root folder")

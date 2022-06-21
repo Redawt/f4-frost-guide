@@ -12,6 +12,14 @@ If you use **MO2**{: .hili}, you can find your loadorder.txt here:
 ![MO2 LO location](./assets/images/mo2_load_order_location.png)
 
 
+#### A Small Warning
+The load order checker is not perfect, it won't find every problem, and in rare cases it sometimes complains when it should not.
+However, it works well enough and will definitely help you a lot if something is really wrong.
+If you need help, visit the FROST Discord Server.
+**Keep in mind that armor and weapon mods always need a patch for FROST!** 
+The load order checker is not smart enough to check if you use a weapon/armor mod without a patch or not.
+Do not use automatically generated bashed patches together with FROST or Fallout 4 in general, they will fuck things up badly. 
+
 #### **Put the content of your load order here!**{: .hili}
 
 <textarea id="loadordertxt" name="txtBody" rows="4" cols="50" style="color:black"></textarea>
@@ -145,7 +153,12 @@ const incompatible_plugins =  [
             "MojaveImports.esp",
             "MegaExplosions_x1.5.esp",
             "nuka_world_vb_height_fix.esp",
-
+            "MutilatedDeadBodies.esp",
+            "UD_AlternateFarming_for_FROST.esp",
+            "IV_Frost_Fungus_Farming.esp",
+            "Jacq-FROST-CK-base.esp",
+            "Jacq-FROST-NoMods.esp",
+            "Jacq-FROST.esp",
         ];
 
 const bad_plugins =  [
@@ -155,9 +168,6 @@ const bad_plugins =  [
             "FROST - Backpack agility fix.esp",
             "FROST - Blight Brew Fix.esp",
             "Frost - NewGame.esp",
-            "Jacq-FROST-CK-base.esp",
-            "Jacq-FROST-NoMods.esp",
-            "Jacq-FROST.esp",
             "RRTV_FROST_EleanorRestored.esp",
             "FROST - Fungal Purge Patch.esp",
             "FROST - Fungal Purge Patch Chemist Edition.esp",
@@ -216,10 +226,21 @@ const bad_plugins =  [
             "LD-Frost - Regular.esp",
             "FROST Portable Instant Workbench.esp",
             "NPCLimitedAmmo - Automatron.esp",
-            "NPCLimitedAmmo.esp"
+            "NPCLimitedAmmo.esp",
+            "FROST Tomato Wheat.esp",
+            "xxFrost_Dogmeat.esp"
         ];
 
 const not_recommended_plugins =  [
+            "Bashed Patch, 0.esp",
+            "Simple Ballistic Weave Expansion.esp",
+            "P.A.C. Ammo Factory.esp",
+            "Professional Ammo Crafting.esp",
+            "WeightlessMods.esp",
+            "WeightlessJunk.esp",
+            "WeightlessMods.esp",
+            "WeightlessJunk.esp",
+            "WeightlessAid.esp",
             "SimpleProstitutes.esl",
             "No Essential Npcs.esp",
             "ExplosionKnockdown.esp",
@@ -259,8 +280,6 @@ const not_recommended_plugins =  [
             "Flashy_CommonwealthFishingFarHarborAddon.esp",
             "AdvancedNeeds2.esp",
             "Facials.esp",
-            "UD_AlternateFarming_for_FROST.esp",
-            "IV_Frost_Fungus_Farming.esp"
         ];
 
 const lighting_check_plugins = [
@@ -273,8 +292,8 @@ const lighting_check_plugins = [
 const fcf_check_plugins = [
             "FCF_Main.esp",
             "FCF_Previsibines.esp",
-            "FCF_PrevisibinesNW.esp",
             "FCF_PrevisibinesDoors.esp",
+            "FCF_PrevisibinesNW.esp",
             "FCF_PrevisibinesUIL.esp",
             "FCF_PrevisibinesIEAIO.esp",
             "FCF_PrevisibinesELE.esp",
@@ -294,8 +313,8 @@ const fcf_check_plugins = [
             "FCF_PrevisibinesNW_UIL.esp",
             "FCF_Hotfix.esp",
             "PLI_USAF_Satellite_Station_Olivia.esp",
-            "SatelliteWorldMap.esp"
-
+            "SatelliteWorldMap.esp",
+            "Bashed Patch, 0.esp"
         ];
 
 
@@ -408,11 +427,13 @@ const fcf_check_plugins = [
     counter_checker = 0;
     removeAllHtmlChildNodes(document.getElementById("content"))
     var load_order_text = document.getElementById('loadordertxt').value;
-    const plugins = load_order_text.split('\n');
+    var plugins = load_order_text.split('\n');
 
     for (let i = 0; i < plugins.length; i++){
       plugins[i]  = plugins[i].replace("*", "");
+      plugins[i]  = plugins[i].trim();
     }
+    plugins = plugins.filter(plugin => plugin.length > 4);
 
     if (plugins.length <= 2){
       return;
