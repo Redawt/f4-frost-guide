@@ -5,4 +5,5 @@
 * Patches Nuka-World for FROST
 
 #### Installation Instructions
-* **Main Files - FROST Nuka-World Add-On 1.4**
+* **Main Files - FROST Nuka-World Add-On**
+* Always install the newest version of this mod!

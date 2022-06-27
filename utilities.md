@@ -37,8 +37,9 @@ If you need help with this step, you can also watch this [video](https://youtu.b
 If you do not know what the Root folder is, read the Key Terminology section from the Initial Setup page.
 {: .info}
 
-In order for the script extender to work, you need to launch the game using the f4se_loader.exe file. It will automatically be added to Mod Organizer 2 upon restarting it.
+In order for the script extender to work, you need to launch the game using the f4se_loader.exe file. It will automatically be added to Mod Organizer 2 upon restarting it. It should look like this:
 {: .info}
+![F4SE in MO2](./assets/images/select_f4se.png "F4SE in MO2")
 
 
 ## [xSE PluginPreloader](https://www.nexusmods.com/fallout4/mods/33946)
@@ -94,5 +95,7 @@ Without the [Microsoft VC++ 2015-2022](https://docs.microsoft.com/en-us/cpp/wind
     - Set **DisableAnimationOnLoadingScreens=**{: .hili} to **true**{: .hili} (line 44)
 
 
-**REMINDER**{: .hili}: You need to run the game through the F4SE option in Mod Organizer 2 from now on, NOT the Fallout 4 option. You may need to restart MO2 for the option to appear.
+**REMINDER**{: .hili}: You need to run the game through the F4SE option in Mod Organizer 2 from now on, NOT the Fallout 4 option. You may need to restart MO2 for the option to appear. If that is not the case, you can manually add or select it in MO2. 
 {: .info}
+
+![F4SE in MO2](./assets/images/select_f4se.png "F4SE in MO2")

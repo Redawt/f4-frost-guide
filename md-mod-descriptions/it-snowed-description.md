@@ -6,3 +6,4 @@
 
 #### Installation Instructions
 * **Main File - FROST - It Snowed 1.4**
+* Always install the newest version of this mod!

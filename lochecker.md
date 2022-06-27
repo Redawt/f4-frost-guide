@@ -45,6 +45,15 @@ const required_plugins =  [
         ];
 
 const incompatible_plugins =  [
+            "The Deadly Commonwealth Expansion.esp",
+            "Stm_DiamondCityExpansion.esp",
+            "UniquePlayer.esp",
+            "NewSanctuary.esp",
+            "WelcometoGoodneighbor.esp",
+            "Extended weapon mods.esp",
+            "More Cooking 1_1.esp",
+            "SimSettlements_Patch_Nukaworld.esl",
+            "ProjectMojave.esm",
             "SKK476OpenWorld.esp",
             "Loads.esm",
             "NewCalibers.esp",
@@ -159,6 +168,15 @@ const incompatible_plugins =  [
             "Jacq-FROST-CK-base.esp",
             "Jacq-FROST-NoMods.esp",
             "Jacq-FROST.esp",
+            "Cleaner Railroad HQ Environment.esp",
+            "DITC - Cooking Outputs Improved.esp",
+            "ChildrenofGoodneighbor.esp",
+            "Performance Enhancing Drugs.esp",
+            "Immersive Alcoholic Drinks.esp",
+            "MaleCait.esp",
+            "Publick Occurrences Expanded.esp",
+            "AnimatedIngestibles.esp",
+            "SimHomestead.esp",
         ];
 
 const bad_plugins =  [
@@ -232,6 +250,16 @@ const bad_plugins =  [
         ];
 
 const not_recommended_plugins =  [
+            "ImmersiveVendors.esp",
+            "[ARR] FallEvil - Mega Zombie Pack.esp",
+            "[ARR] FallEvil - Zombie Dogs REVisited.esp",
+            "FallEvil - Complete Edition.esp",
+            "Orphans.esp",
+            "SurvivalistFirstAid.esp",
+            "Atomguard.esp",
+            "Autumn Overhaul.esp",
+            "MoreWildlife.esl",
+            "EvilInstituteHD2K.esl",
             "Bashed Patch, 0.esp",
             "Simple Ballistic Weave Expansion.esp",
             "P.A.C. Ammo Factory.esp",
@@ -311,10 +339,12 @@ const fcf_check_plugins = [
             "FCF_PrevisibinesNW_NFZ.esp",
             "FCF_PrevisibinesNW_UEL.esp",
             "FCF_PrevisibinesNW_UIL.esp",
+            "FCF_PrevisibinesMetro",
             "FCF_Hotfix.esp",
             "PLI_USAF_Satellite_Station_Olivia.esp",
+            "PLI_USAF_Olivia FROSTified.esp",
             "SatelliteWorldMap.esp",
-            "Bashed Patch, 0.esp"
+            "Bashed Patch, 0.esp",
         ];
 
 
@@ -461,7 +491,7 @@ const fcf_check_plugins = [
     myPrint(found_missing_plugins, "Missing Plugins", missing_description);
     const incompatible_description = "You are using mods that are incompatible with FROST. Please remove them!";
     myPrint(found_incompatible_plugins, "Incompatible Plugins", incompatible_description);
-    const problematic_description = "The following plugins are problematic and should also be removed";
+    const problematic_description = "The following plugins are problematic/outdated and should also be removed";
     myPrint(found_bad_plugins, "Problematic Plugins", problematic_description);
     const not_recommended_description = "The following plugins are not-recommended to be used with FROST, as they either need a patch that is way to complicated to make, or they do or add things that are already present in FROST, or because they are outdated/not necessary anymore.";
     myPrint(found_not_recommended_plugins, "Not-Recommended Plugins", not_recommended_description);

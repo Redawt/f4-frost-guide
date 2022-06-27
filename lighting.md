@@ -51,7 +51,7 @@ aside:
 
 
 #### Installation Instructions
-* **Main File - Ultra Interior Lighting 2.3** from [here](https://www.nexusmods.com/fallout4/mods/41625?tab=files)
+* **Main File - Ultra Interior Lighting 2.3** from [here](https://www.nexusmods.com/fallout4/mods/22101?tab=files)
 
 
 

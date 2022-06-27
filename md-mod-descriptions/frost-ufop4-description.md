@@ -3,4 +3,5 @@
 * Patches the **Unofficial Fallout 4 Patch** for FROST
 
 #### Installation Instructions
-* **Main File - FROST - UFO4P Patch 1.3**
+* **Main File - FROST - UFO4P Patch**
+* Always install the newest version of this mod!

@@ -5,4 +5,5 @@
 * Fixes a bug were dead ghouls would spawn without a head.
 
 #### Installation Instructions
-* **Main File - FROST - Headless Ferals Fix 1.0**
+* **Main File - FROST - Headless Ferals Fix**
+* Always install the newest version of this mod!
