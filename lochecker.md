@@ -221,6 +221,7 @@ const bad_plugins =  [
             "Water Filter Not Junk.esp",
             "Frost Weaver.esp",
             "FungalPurgeEdit.esp",
+            "Gas Mask FROST.esp",
             "FROST-MoreVoices.esp.3.esp",
             "FROST - KrebsAK Patch.esp",
             "Frost Wastland guide replacer name changes.esp",

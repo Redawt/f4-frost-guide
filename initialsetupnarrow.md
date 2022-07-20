@@ -14,15 +14,19 @@ aside:
 
 ## Some Assumption
 I will assume that you know the following things:
+* That you can read
 * What a load order is
 * How to sort your load order
 * Why sorting your load order is important
 * How to set up a mod manager
-* How to properly use a mod manager
+* How to properly use your mod manager
 * Just because your game doesn't crash doesn't mean that there are no problems with it
-* That you always start the game with F4SE through your mod manager
-* That you can read
-* That you know that using NMM, Kortex or Fallout Mod Manager are all outdated mod managers and should not be used anymore
+* You always start the game with F4SE through your mod manager
+* Not using a mod manager is a bad idea
+* Using two mod managers for the same game causes tons of problems and should not be done under any circumstances!
+* You know that using Nexus Mod Manager (NMM), Kortex or Fallout Mod Manager are all outdated mod managers and should not be used anymore
+* That you did not install the game in the Program Files folder of Windows or in any sub-folder of Program Files
+* Installing Fallout 4 in Program Files causes problems
 
 
 This guide here doesn't carefully walk you through everything to make a modern all-inclusive setup. 

@@ -191,7 +191,7 @@ Or you can add other mods to your setup, just make sure to use this Load Order p
 You can check out the next sections of this website for information about which mods are compatible with FROST, or which mods work well with FROST.
 Consider joining the [FROST Community on Discord](https://discord.com/invite/BaKsm7Fn4A)!
 
-You can now start Fallout 4 through F4SE, click "New Game" in the Main Menu, and play FROST. Note that currently the Fallout 4 Intro was not replaced yet by the FROST Development team, so don't be confused if you see it.
+You can now start Fallout 4 through F4SE, click "New Game" in the Main Menu, and play FROST. Note that currently the Fallout 4 Intro was not replaced yet by the FROST Development team, so don't be confused if you see it. Make sure to read this [starting](./starting.html) section which mentions how the start/intro from frost is supposed to happen, and which MCM options should be adjusted.
 {: .info}
 
 Before you start adding additional mods that are not mentioned in the guide, make sure to read the [compatability section](./compatability.html) of the guide! It lists which mods and mod types are problematic, and which are okay to use!

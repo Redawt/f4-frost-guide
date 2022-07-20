@@ -33,11 +33,15 @@ You can also watch this [video tutorial](https://www.youtube.com/watch?v=zwTJ3jI
   5. Navigate to `Documents\My Games`{: .path} and delete the **Fallout4**{: .hili} folder
   6. Navigate to `AppData\Local`{: .path} and delete the Fallout4 folder
 
+**Do not install your game in the Program Files folder. Do not install any game in that folder, or have your Steam Library in there.
+Program Files is a special Windows System folder, and Fallout 4 doesn't load mods correctly if it is in that folder.**
+{:.error}
 
 ### Installing the Game
   1. Open Steam and go to your **Library**{: .hili}
   2. Find **Fallout 4**{: .hili} in the list and select **Install**
   3. Select **Next**{: .hili} then wait for the install to finish
+
 
 
 

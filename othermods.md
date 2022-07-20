@@ -21,94 +21,101 @@ Always check if a mod from this list has a frost patch on the nexus.
 
 ## Environment
 
-Wasteland Illumination
+#### Wasteland Illumination
 
-The Fungal Forest
+#### The Fungal Forest
 
-Boat to Spectacle Island
 
-Another Pine Forest Mod OR Winter Commonwealth Pines
+#### Another Pine Forest Mod 
 
-Frozen Lakes and Rivers - A Winter Mod Addon
+#### Winter Commonwealth Pines
+
+#### Frozen Lakes and Rivers - A Winter Mod Addon
 
 
 ## Textures
-Luis Caballero (https://www.nexusmods.com/fallout4/users/63299411?tab=user+files)
+#### [Luis Caballero's Texture mods](https://www.nexusmods.com/fallout4/users/63299411?tab=user+files)
 
-Improved Map with visible Roads OR Satellite Worldmap
+#### Improved Map with visible Roads 
 
-Eyewear and mask retexture
+#### Satellite Worldmap
 
-Gritty Subway Stations (2K - 4K)
+#### Eyewear and mask retexture
 
-Subway Transit Sign 4K Texture
+#### Gritty Subway Stations (2K - 4K)
 
-NMC's Texture Bundle
+#### Subway Transit Sign 4K Texture
 
-Detailed Feral Ghouls
+#### NMC's Texture Bundle
 
-2287 Billboards and Posters
+#### Detailed Feral Ghouls
 
-All Weapons HD (A.W.H.D.)
+#### 2287 Billboards and Posters
+
+#### All Weapons HD (A.W.H.D.)
 
 
 ## Gameplay & Mechanics
-Campsite -Simple Wasteland Camping
 
-Human Cooking
+#### [NPCs Travel (*F)](https://www.nexusmods.com/fallout4/mods/16987) 
 
-NPCs Travel 
+You also need to download its [FROST patch](https://www.nexusmods.com/fallout4/mods/54830)
 
-Crossbows of the Commonwealth
+#### [Gas Masks of the Wasteland (GMOW) (*F)](https://www.nexusmods.com/fallout4/mods/17491?tab=description)
+GMOW has a FROST patch integrated into its installer, but it is outdated. 
+Use this [FROST patch](https://www.nexusmods.com/fallout4/mods/61949) instead!
 
-Manual Reload Simple
 
-NPCs Travel
+#### Crossbows of the Commonwealth
+You also need to download its FROST patch from the Nexus.
 
-Gas Masks of the Wasteland
+#### Manual Reload Simple
+
 
 ## Sound & Music
-More where that came From - Diamond City Radio Edition
+#### More where that came From - Diamond City Radio Edition
 
-Atomic Radio (only the radio, not the quest mod!)
+#### Atomic Radio 
+Download only the radio mod, not the quest mod!
 
-VHF Repeater
+#### VHF Repeater
 
-Inner City Ambience - An Urban Soundscape
+#### Inner City Ambience - An Urban Soundscape
 
-Project Reality Footsteps
+#### Project Reality Footsteps
 
-COTC - Complaint of the Commonwealth
+#### COTC - Complaint of the Commonwealth
 
-No More Combat Music
+#### No More Combat Music
 
-Terrifyer - Ghouls
+#### Terrifyer - Ghouls
 
-Inner City Ambience - An Urban Soundscape
+#### Inner City Ambience - An Urban Soundscape
 
-Project Reality Footsteps FO4
+#### Project Reality Footsteps FO4
 
-Classic Geiger Counter Sounds
+#### Classic Geiger Counter Sounds
 
 ## ENBs and Reshade
-REACTOR - A FALLOUT4 ENB
+#### REACTOR - A FALLOUT4 ENB
 
-MariENB 3 for Vanilla and FROST
+#### MariENB 3 for Vanilla and FROST
 
-GRIM ENB
+#### GRIM ENB
 
 
 ## Weather
-NAC X - NATURAL AND ATMOSPHERIC COMMONWEALTH 10 - Legacy Edition
+#### NAC X - NATURAL AND ATMOSPHERIC COMMONWEALTH 10 - Legacy Edition
+You also need to download its FROST patch from the Nexus.
 
-Polluted Climate - Winter Edition
-
+#### Polluted Climate - Winter Edition
+You also need to download its FROST patch from the Nexus.
 
 
 ## Other
 
-Realistic Ragdoll Force
+#### Realistic Ragdoll Force
 
-Winter Main Menu Animated
+#### Winter Main Menu Animated
 
-Screen Blur Removal
+#### Screen Blur Removal

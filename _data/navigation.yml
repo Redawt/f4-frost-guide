@@ -60,6 +60,8 @@ docs-en:
         url:    /frostone.html
       - title:  Load Order
         url:    /normallo.html
+      - title: Starting the Game
+        url:    /starting.html
   - title:      Basic Setup
     children:
       - title:  Initial Setup

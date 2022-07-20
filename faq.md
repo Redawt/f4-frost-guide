@@ -11,7 +11,7 @@ aside:
   toc: true
 
 ---
-#### Your question is not answered here? Ask your question on our [Discord Server](https://discord.com/invite/BaKsm7Fn4A)!
+#### Your question is not answered here? Ask your question on our [FROST Discord Server](https://discord.com/invite/BaKsm7Fn4A)!
 
 ### I need help. Where can I get help?
 Don't worry buddy, the [FROST Discord Server](https://discord.com/invite/BaKsm7Fn4A) will always help you out!

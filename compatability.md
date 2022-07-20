@@ -12,7 +12,7 @@ aside:
 
 ---
 
-#### Not sure if a mod is compatible with FROST or not? Ask your question on our [Discord Server](https://discord.com/invite/BaKsm7Fn4A)!
+#### Not sure if a mod is compatible with FROST or not? Ask your question on our [FROST Discord Server](https://discord.com/invite/BaKsm7Fn4A)!
 
 ## How can I figure out if a mod is compatible with FROST?
 

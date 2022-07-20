@@ -20,12 +20,12 @@ aside:
 ## [Better Console](https://www.nexusmods.com/fallout4/mods/26582)
 
 #### Description
-* Improves the in-game console, which helps debugging and using console commands
+* Improves the in-game console, which helps debugging and using console commands.
 
 #### Installation Instructions
 * **Main File - Better Console 1.4.0**
 
-## [Unlimited Survival Mode](https://www.nexusmods.com/fallout4/mods/26163)
+## [Unlimited Survival Mode (*O)](https://www.nexusmods.com/fallout4/mods/26163)
 
 #### Description
 * Restores the game features disabled in Survival mode, such as fast travel and saving. 
@@ -34,7 +34,7 @@ aside:
 * **Main File - Unlimited Survival Mode - F4SE v1.4.0**
 
 
-## [Mod Configuration Menu (MCM)](https://www.nexusmods.com/fallout4/mods/21497)
+## [Mod Configuration Menu (MCM) (*O)](https://www.nexusmods.com/fallout4/mods/21497)
 
 
 #### Description
@@ -44,7 +44,7 @@ aside:
 * **Main File - Mod Configuration Menu 1.39**
 
 
-## [Game Configuration Menu (GCM)](https://www.nexusmods.com/fallout4/mods/33759)
+## [Game Configuration Menu (GCM) (*O)](https://www.nexusmods.com/fallout4/mods/33759)
 
 
 #### Description
@@ -73,7 +73,7 @@ aside:
 * For showing holstered weapons on characters, with various customization options.
 
 #### Installation Instructions
-* **Main Files - Classic Holstered Weapons 1.04c**
+* **Main Files - Classic Holstered Weapons 1.06b**
 
 
 ## [Level-Up Healing Removal](https://www.nexusmods.com/fallout4/mods/20160?tab=files) (*O)
@@ -98,6 +98,7 @@ With the FROST Campsite patch, you will also have access to a QoL menu that let'
 
 ## [Pack Attack NPC (PANPC)](https://discord.gg/RbX5eVYEKE) (*O, *D, *F)
 
+
 #### Description
 * Overhauls the AI completely. NPCs act smarter, use strategies, behave more realistic and use individual AI based on gameplay situations and their factions. It is the best AI mod for Fallout 4 and is developed by Greslin, a programmer who has several decades of programming and gaming knowledge.
 * Why isn't this mod hosted on Nexus? You can ask Greslin himself on his Discord Server if you want. 
@@ -121,3 +122,6 @@ With the FROST Campsite patch, you will also have access to a QoL menu that let'
 * Once the download has finished, click the ![mo2 archive button](https://themidnightride.github.io/img/mo2%20archive.png) button at the top of MO2
 * From the new window, navigate to where the PANPC was downloaded to and double-click it
 * Finish the install normally
+
+**If you need help with this guide or have questions regarding FROST in any way, please do not ask them over at Greslin's Discord Server, but rather on the [Frost Discord Server](https://discord.com/invite/BaKsm7Fn4A)!!!**
+{:.error}

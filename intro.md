@@ -29,10 +29,6 @@ sidebar:
 
 ---
 
-This guide is still WIP, but it is functional. It contains some //TODOs, some spelling erros, the usual. This will be fixed soon, don't worry :D
-{:.info}
-
-
 ## Overview
 Welcome to **{{ site.title }}**{: .hili}, a fully modular Fallout 4 FROST modding guide!
 The goal of this website if to teach you how to make a proper load order for FROST.
@@ -47,6 +43,8 @@ You can pick one of two guides, one shows you how to make a proper Fallout 4 set
 * The guides assume that you have basic knowledge about using a computer and some very rudimentary modding experience
 * Help is always available at the [FROST Discord Server](https://discord.com/invite/BaKsm7Fn4A)
 * Even if you are an experienced mod user already, it is still recommended that you read everything carefully.
+* The guide will tell you when you are finished, especially the load order section is VERY important!
+
 
 
 ## About the Guide(s)

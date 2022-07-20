@@ -120,7 +120,7 @@ This is not a single mod, rather then a collection of mods.
 * Makes sure that Classic Holstered Weapons is compatible with FROST
 
 #### Installation Instructions
-* **Main File - CHW .ini for FROST 1.0**
+* **Main File - CHW .ini for FROST 1.6**
 
 
 ## [FROST PANPC Patch](https://drive.google.com/drive/folders/1jGVL-7ItZf48k_gxB1D-nt5BuVtiXLTM) (*O, *D)
@@ -136,6 +136,9 @@ This is not a single mod, rather then a collection of mods.
 * Once the download has finished, click the ![mo2 archive button](https://themidnightride.github.io/img/mo2%20archive.png) button at the top of MO2
 * From the new window, navigate to where the PANPC was downloaded to and double-click it
 * Finish the install normally
+
+**If you need help with this guide or have questions regarding FROST in any way, please do not ask them over at Greslin's Discord Server, but rather on the [Frost Discord Server](https://discord.com/invite/BaKsm7Fn4A)!!!**
+{:.error}
 
 
 
