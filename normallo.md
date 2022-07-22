@@ -18,15 +18,19 @@ nonext: true
 
 **Sorting your load order correctly is very important!**
 **Do not skip this step, and read the sorting rules below carefully.**
+**Please sort your modlist (the left panel of MO2) similar to the load order (right panel, "plugins" section) in MO2**
 {: .warning}
 
-You can sort your load order on the **right** pane of MO2 in the **plugins**{: .hili} section by moving the files with your mouse there. If you need further information, please read the [MO2 Sorting Crashcourse](https://github.com/sower-j/modding-guides/blob/main/mo2-sorting-crashcourse.md)!
+You can sort your load order on the **right** panel of MO2 in the **plugins**{: .hili} section by moving the files with your mouse there. If you need further information, please read the [MO2 Sorting Crashcourse](https://github.com/sower-j/modding-guides/blob/main/mo2-sorting-crashcourse.md)!
 
 
 
 ## About LOOT
-**LOOT**{: .hili} is a tool that is integrated into **Vortex**{: .hili} and **MO2**{: .hili} and can automatically sort your load order.
+**LOOT**{: .hili} is a tool that is integrated into **Vortex**{: .hili} and can automatically sort your load order.
+In order to use it with **MO2**{: .hili}, you have to download it and add it to **MO2**{: .hili}.
 It is compatible with **FROST**{: .hili}, but I recommend to not use it as it sometimes still does some silly things with FROST load orders.
+
+I recommend to sort mods manually as **LOOT**{: .hili} often messes things up and is simply not good enough to sort a load order properly in most cases. Manual adjustment will always be needed at some point.
 
 Before you start adding additional mods that are not mentioned in the guide, make sure to read the [compatability section](./compatability.html) of the guide! It lists which mods and mod types are problematic, and which are okay to use!
 {: .warning}
@@ -35,7 +39,9 @@ Before you start adding additional mods that are not mentioned in the guide, mak
 ## How to structure your Load Order
 The following rules show you how to structure your load order. Please use these rules to sort your load order. An example load order can be found below if you need an example on how it should look like in the end.
 
-##### This is the start of the load order
+There is also an **Automated Load Order Checker**{: .hili} below which can check if your load order has problems.
+
+##### \[This is the start of the load order\]
 {: .hili}
 
 #### 1. Bethesda Files
@@ -131,7 +137,7 @@ If you don't follow these rules, bad things will happen!
 - (Additional FCF files for patching Lighting mods)
 - ...
 
-##### This is the end of the load order
+##### \[This is the end of the load order\]
 {: .hili}
 
 

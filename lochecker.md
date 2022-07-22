@@ -45,7 +45,9 @@ const required_plugins =  [
         ];
 
 const incompatible_plugins =  [
+            "Brotherhood Power Armor Overhaul.esp",
             "The Deadly Commonwealth Expansion.esp",
+            "PiperCaitCurieDialogueOverhaul.esp",
             "Stm_DiamondCityExpansion.esp",
             "UniquePlayer.esp",
             "NewSanctuary.esp",
@@ -119,6 +121,11 @@ const incompatible_plugins =  [
             "LegendaryModification.esp",
             "Companion Infinite Ammo.esp",
             "StartMeUp.esp",
+            "LootableVertibirds.esp",
+            "HeightstestNukaWorld.esp",
+            "Heightstest.esp",
+            "AnimChemRedux.esp",
+            "DiamondCityAutoClose.esp",
             "W.A.T.Minutemen.esp",
             "More Armor Slots - All Dlc.esp",
             "More Armor Slots.esp",
@@ -160,6 +167,7 @@ const incompatible_plugins =  [
             "AutomatronUnlocked.esp",
             "Scavver's Toolbox.esp",
             "MojaveImports.esp",
+            "VendorItemSteal.esp",
             "MegaExplosions_x1.5.esp",
             "nuka_world_vb_height_fix.esp",
             "MutilatedDeadBodies.esp",
@@ -177,6 +185,11 @@ const incompatible_plugins =  [
             "Publick Occurrences Expanded.esp",
             "AnimatedIngestibles.esp",
             "SimHomestead.esp",
+            "No Bloody Mess.esp",
+            "SSNPC - Minutemen.esp",
+            "RaiderFaceVariety_2.0.esp",
+            "EK - MojaveImports.esp",
+            "LoreFriendlySurvivalChems.esp"
         ];
 
 const bad_plugins =  [
@@ -251,6 +264,15 @@ const bad_plugins =  [
         ];
 
 const not_recommended_plugins =  [
+            "SettlementAttacksBeyondFH.esp",
+            "SettlementAttacksBeyondNW.esp",
+            "NoRecoilReset.esp",
+            "Gauss Non-explosive Rounds.esp",
+            "NPCLimitedAmmo - Automatron.esp",
+            "fusioncore permanent.esp",
+            "Locksmith.esp",
+            "Locky Bastard.esp",
+            "AmmoCrafting.esp",
             "ImmersiveVendors.esp",
             "[ARR] FallEvil - Mega Zombie Pack.esp",
             "[ARR] FallEvil - Zombie Dogs REVisited.esp",
@@ -279,6 +301,7 @@ const not_recommended_plugins =  [
             "Consistent Power Armor Overhaul.esp",
             "Brotherhood Power Armor Overhaul.esp",
             "AnimatedIngestibles.esp",
+            "AnimatedInjestibles_RobotFix.esp",
             "Minuteman Watchtowers.esp",
             "SimpleProstitutes",
             "Realistic Survival Damage.esp",
@@ -308,7 +331,7 @@ const not_recommended_plugins =  [
             "Flashy_CommonwealthFishing.esp",
             "Flashy_CommonwealthFishingFarHarborAddon.esp",
             "AdvancedNeeds2.esp",
-            "Facials.esp",
+            "Facials.esp"
         ];
 
 const lighting_check_plugins = [

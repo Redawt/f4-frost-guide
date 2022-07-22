@@ -17,6 +17,8 @@ aside:
 * If your PC isn't good enough for lighting mods, you can skip this section completely!
 * **You have to install a FROST patch the lighting mod that you choose later!**{: .hili} 
   * Don't worry, the guide will tell you when to do install them.
+* You should only download lighting mods that have a patch for FROST
+* ENBs and Reshade do not count as lighting mod, so you can safely with the mods down below
 
 
 ## Creating a Seperator in MO2
@@ -28,7 +30,7 @@ aside:
 
 #### Description
 *  [Ultra Exterior Lighting](https://www.nexusmods.com/fallout4/mods/41625?tab=files)  adds shadow cast lights to many of the physical light sources in the Fallout 4 exterior world including Far Harbor and Nukaworld. There has also been vast improvements made to the general lighting associated with physical lights sources bring you a vastly more immersive exterior lighting.
-* This mod covers lighting of exterior cells
+* This mod covers lighting of **exterior** cells
 
 #### Installation Instructions
 * **Main File - Ultra Exterior Lighting 1.04** from [here](https://www.nexusmods.com/fallout4/mods/22101?tab=files)
@@ -36,7 +38,7 @@ aside:
 ## **Read this too!**{: .hili}
 * **Download only one of the following lighting mods!**{: .hili}
 * The following mods cover the lighting of interior cells
-* Using multiple of the following mods will crash your game or cause other problems. 
+* Using multiple of the following mods will crash your game or cause other problems. Only download and install one of them
 
 
 
@@ -47,7 +49,7 @@ aside:
 #### Description
 * [Ultra Interior Lighting](https://www.nexusmods.com/fallout4/mods/22101?tab=files) is a comprehensive lighting mod that brings you many more shadow lights and a general improvement to overall lighting, ambience and fog to the interiors of the Commonwealth, Far Harbor and Nuka World. 
 * This is the lighting mod that I and many other FROST users are using
-* This mod covers lighting of interior cells
+* This mod covers lighting of **interior** cells
 
 
 #### Installation Instructions
@@ -60,7 +62,7 @@ aside:
 #### Description
 * A zero performance loss, very subtle visual overhaul. Removes many annoying visuals in the game.
 * This mod tweaks weather, lighting, camera effects, and more
-* This mod covers lighting of interior cells
+* This mod covers lighting of **interior**  cells
 
 #### Installation Instructions
 * **Main File - Clarity 4.2**
@@ -71,6 +73,7 @@ aside:
 #### Description
 * This mod intends to adjust all interior based lighting inside the Fallout 4 game. 
 * It will both look better with ENB and make it a lot easier to customize the visuals, without ruining some parts of the games look.
+* This mod covers lighting of **interior**  cells
 
 #### Installation Instructions
 * **Main File - ELE Fo4 1.0.1**

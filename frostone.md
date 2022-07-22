@@ -82,7 +82,7 @@ aside:
 
 ## [FROST - Accessible Locations](https://www.nexusmods.com/fallout4/users/51477666?tab=user+files) (*O)
 
-This is not a single mod, rather then a collection of mods.
+This is not a single mod, it is a collection of mods.
 {: .info}
 
 #### Description
@@ -120,7 +120,7 @@ This is not a single mod, rather then a collection of mods.
 * Makes sure that Classic Holstered Weapons is compatible with FROST
 
 #### Installation Instructions
-* **Main File - CHW .ini for FROST 1.6**
+* **Main File - CHW .ini for FROST**
 
 
 ## [FROST PANPC Patch](https://drive.google.com/drive/folders/1jGVL-7ItZf48k_gxB1D-nt5BuVtiXLTM) (*O, *D)
