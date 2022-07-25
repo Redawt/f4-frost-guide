@@ -40,8 +40,8 @@ const required_plugins =  [
             "FROST Feral Fix.esp",
             "FCF_Main.esp",
             "FCF_Previsibines.esp",
-            "FCF_PrevisibinesNW.esp",
-            "FCF_PrevisibinesDoors.esp"
+            "FCF_PrevisibinesDoors.esp",
+            "FCF_PrevisibinesNW.esp"
         ];
 
 const incompatible_plugins =  [
@@ -264,6 +264,7 @@ const bad_plugins =  [
         ];
 
 const not_recommended_plugins =  [
+            "Fleshsmith.esp",
             "SettlementAttacksBeyondFH.esp",
             "SettlementAttacksBeyondNW.esp",
             "NoRecoilReset.esp",
@@ -345,8 +346,8 @@ const fcf_check_plugins = [
             "FCF_Main.esp",
             "FCF_Previsibines.esp",
             "FCF_PrevisibinesDoors.esp",
-            "FCF_PrevisibinesNW.esp",
             "FCF_PrevisibinesUIL.esp",
+            "FCF_PrevisibinesUEL.esp",
             "FCF_PrevisibinesIEAIO.esp",
             "FCF_PrevisibinesELE.esp",
             "FCF_PrevisibinesClarity.esp",
@@ -356,6 +357,7 @@ const fcf_check_plugins = [
             "FCF_PrevisibinesMarshland.esp",
             "FCF_PrevisibinesMMH.esp",
             "FCF_PrevisibinesForest.esp",
+            "FCF_PrevisibinesNW.esp",
             "FCF_PrevisibinesNW_Clarity.esp",
             "FCF_PrevisibinesNW_ELE.esp",
             "FCF_PrevisibinesNW_FO.esp",
@@ -368,7 +370,6 @@ const fcf_check_plugins = [
             "PLI_USAF_Satellite_Station_Olivia.esp",
             "PLI_USAF_Olivia FROSTified.esp",
             "SatelliteWorldMap.esp",
-            "Bashed Patch, 0.esp",
         ];
 
 
@@ -479,19 +480,27 @@ const fcf_check_plugins = [
 
   function checkLoadOrder(){
     counter_checker = 0;
+
+    // Get the load order from the input field
     removeAllHtmlChildNodes(document.getElementById("content"))
     var load_order_text = document.getElementById('loadordertxt').value;
     var plugins = load_order_text.split('\n');
 
+    // In case that the user inserted the content of his plugins.txt, we have to remove all of the '*' at the start of the lines
     for (let i = 0; i < plugins.length; i++){
       plugins[i]  = plugins[i].replace("*", "");
       plugins[i]  = plugins[i].trim();
     }
+
+    //Ignore all lines that are shorter then 5 characters
     plugins = plugins.filter(plugin => plugin.length > 4);
 
+    //Check if this is a valid load order
     if (plugins.length <= 2){
       return;
     }
+
+    // Get the information from the load order
     const found_cc_plugins = checkForCCmods(plugins);
     const found_missing_plugins = checkForMissingPlugins(plugins, required_plugins);
     const found_incompatible_plugins = checkForExistingPlugins(plugins, incompatible_plugins);

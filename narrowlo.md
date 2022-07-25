@@ -127,8 +127,8 @@ FROST - UFO4P Patch.esp
 FROST Feral Fix.esp
 FCF_Main.esp
 FCF_Previsibines.esp
-FCF_PrevisibinesNW.esp
 FCF_PrevisibinesDoors.esp
+FCF_PrevisibinesNW.esp
 ```
 
 ## The Ending Of Things
