@@ -32,6 +32,10 @@ Before you start adding additional mods that are not mentioned in the guide, mak
 ## How to structure your Load Order
 The following rules show you how to structure your load order. Please use these rules to sort your load order. An example load order can be found below if you need an example on how it should look like in the end.
 
+*Not all mods appear in the load order, as some don't have an esp/esl/esm plugin file.*
+
+*Mods like Buffout 4 won't appear in your load order for that reason.*
+
 ##### This is the start of the load order
 {: .hili}
 
@@ -73,13 +77,13 @@ The following rules show you how to structure your load order. Please use these 
 - RedsFrostFixes.esp
 - FrostNukaWorld.esp
 - aFrostMod.esp
-- FROST - UFO4P Patch.esp
 - FROST Feral Fix.esp
+- FROST - UFO4P Patch.esp
 
 
 #### 6. Other Frost Mods
 {: .hili}
-
+- FROST - It Snowed.esp
 - (Put all other FROST standalone mods here)
 
 
@@ -123,8 +127,9 @@ FROSTmoreDoors.esp
 RedsFrostFixes.esp
 FrostNukaWorld.esp
 aFrostMod.esp
-FROST - UFO4P Patch.esp
 FROST Feral Fix.esp
+FROST - UFO4P Patch.esp
+FROST - It Snowed.esp
 FCF_Main.esp
 FCF_Previsibines.esp
 FCF_PrevisibinesDoors.esp

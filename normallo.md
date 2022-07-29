@@ -25,6 +25,7 @@ You can sort your load order on the **right** panel of MO2 in the **plugins**{: 
 
 
 
+
 ## About LOOT
 **LOOT**{: .hili} is a tool that is integrated into **Vortex**{: .hili} and can automatically sort your load order.
 In order to use it with **MO2**{: .hili}, you have to download it and add it to **MO2**{: .hili}.
@@ -40,6 +41,10 @@ Before you start adding additional mods that are not mentioned in the guide, mak
 The following rules show you how to structure your load order. Please use these rules to sort your load order. An example load order can be found below if you need an example on how it should look like in the end.
 
 There is also an **Automated Load Order Checker**{: .hili} below which can check if your load order has problems.
+
+*Not all mods appear in the load order, as some don't have an esp/esl/esm plugin file.* 
+
+*Mods like Buffout 4 won't appear in your load order for that reason.*
 
 ##### \[This is the start of the load order\]
 {: .hili}
@@ -100,6 +105,7 @@ Put all mods here that need a patch for Frost. Load their frost patches at the s
 Put all other FROST standalone mods here
 * ArgonnFROSTSanityTweakPatch.esp
 * FROST - It Snowed.esp
+* Frost-Snowy-Weathers.esp
 * FROST - LootableCars.esp
   * FROST_LLCars_Intermediate.esp (Optional File)
   * FROST_LLCars_Realistic.esp (Optional File)
@@ -164,22 +170,23 @@ FROSTmoreDoors.esp
 RedsFrostFixes.esp
 FrostNukaWorld.esp
 aFrostMod.esp
-FROST - UFO4P Patch.esp
 FROST Feral Fix.esp
+FROST - UFO4P Patch.esp
 FrostCampsitePatch.esp
 ArgonnFROSTSanityTweakPatch.esp
 FROST - It Snowed.esp
+Frost-Snowy-Weathers.esp
 FROST - LootableCars.esp
 FROST_LLCars_Scarcity.esp
 Freeze.esp
 Frost PipTab.esp
+FROST - SuperMutantLocations.esp
+FROST - Hunkered Down.esp
+FROST - Hunkered Down-Settlements.esp
 FROST - AccessibleMedTekResearch.esp
 FROST - AccessibleFortStrong.esp
 FROST - AccessibleArcJet.esp
 FROST - AccessibleFortHagen.esp
-FROST - SuperMutantLocations.esp
-FROST - Hunkered Down.esp
-FROST - Hunkered Down-Settlements.esp
 FROST PANPC 2.0.6+ Patch.esp
 FCF_Main.esp
 FCF_Previsibines.esp

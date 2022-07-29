@@ -26,7 +26,7 @@ In the main menu, you should go into the settings to adjust a few things to your
 ## Click New Game
 After clicking New Game, the normal Fallout 4 Intro will play. In future FROST update sthe video will be replaced with another video. Just skip the video.
 
-If the video doesn't play and you are in a very long loading screen, this is an indicator that you installed to many mods which initialise scripts at the start of the game. Known culprits are weapon mods and NPCs travel. In that case, you mgiht want to uninstall those mods, and install them after the start of the game. 
+If the video doesn't play and you are in a very long loading screen, this is an indicator that you installed to many mods which initialise scripts at the start of the game. Known culprits are weapon mods and NPCs travel. In that case, you might want to uninstall those mods, and install them after the start of the game. 
 
 
 ## Sanctuary Bathroom
@@ -48,5 +48,5 @@ The most important things you should do is to change the hunger setting in the S
 You should also check out the FROST MCM to configure stuff to your liking, and to set a hotkey for the Action Menu. The Action Menu can be used to place camping equipment from the Campsite mod, and to use crafting kits from FROST, as well as to attract the attention of enemies throuigh the "Make some noise" button. 
 After you configured everything, you should make a save file, either through the pause menu, or with the console command `save [custom name for your safe file]`.
 
-## Chose a starting location
-You can now chose one of the starting locations. If you are new to FROST. If you are new to FROST, check out th ehIghway Start and the Access Tunnel start. If you don't like a starting locations, just load the save file you made and check out another one.
+## Choose a starting location
+You can now choose one of the starting locations. If you are new to FROST, check out thr Highway Start and the Access Tunnel start. If you don't like a starting locations, just load the save file you made and check out another one.

@@ -36,8 +36,8 @@ const required_plugins =  [
             "RedsFrostFixes.esp",
             "FrostNukaWorld.esp",
             "aFrostMod.esp",
-            "FROST - UFO4P Patch.esp",
             "FROST Feral Fix.esp",
+            "FROST - UFO4P Patch.esp",
             "FCF_Main.esp",
             "FCF_Previsibines.esp",
             "FCF_PrevisibinesDoors.esp",
@@ -45,6 +45,9 @@ const required_plugins =  [
         ];
 
 const incompatible_plugins =  [
+            "ArmorClothingOverhaul.esp",
+            "ACO_DLCw03.esp",
+            "Better Armor.esp",
             "Brotherhood Power Armor Overhaul.esp",
             "The Deadly Commonwealth Expansion.esp",
             "PiperCaitCurieDialogueOverhaul.esp",

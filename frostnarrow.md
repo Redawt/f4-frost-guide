@@ -22,9 +22,10 @@ You need all of the mods listed here to play FROST.
 
 {% include_relative md-mod-descriptions/frost-description.md %}
 
+{% include_relative md-mod-descriptions/frost-doors-description.md %}
+
 {% include_relative md-mod-descriptions/rff-description.md %}
 
-{% include_relative md-mod-descriptions/frost-doors-description.md %}
 
 {% include_relative md-mod-descriptions/fnw-description.md %}
 
