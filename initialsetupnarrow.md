@@ -14,39 +14,21 @@ aside:
 
 ## Some Assumption
 I will assume that you know the following things:
-* That you can read
-* What a load order is
-* How to sort your load order
-* Why sorting your load order is important
-* How to set up a mod manager
-* How to properly use your mod manager
+* What a load order is, how to sort your load order and why sorting your load order is important
+* How to set up a mod manager and use it
+  * (This includes enabling loose files)   
 * Just because your game doesn't crash doesn't mean that there are no problems with it
-* You always start the game with F4SE through your mod manager
+* That F4SE is installed and that you always start the game with F4SE through your mod manager
 * Not using a mod manager is a bad idea
 * Using two mod managers for the same game causes tons of problems and should not be done under any circumstances!
-* You know that using Nexus Mod Manager (NMM), Kortex or Fallout Mod Manager are all outdated mod managers and should not be used anymore
-* That you did not install the game in the Program Files folder of Windows or in any sub-folder of Program Files
-* Installing Fallout 4 in Program Files causes problems
+* NMM, Kortex etc. are all outdated mod managers or arew missing important features. Use Vortex or MO2.
+* That you did not install the game in the `Program Files` directory of Windows or in any sub-folder of Program Files
+  * Installing Fallout 4 in Program Files causes problems
 
 
 This guide here doesn't carefully walk you through everything to make a modern all-inclusive setup. 
 It only tells you which mods you absolutely need to play FROST.
 **You can not skip a single mod in this list!**{: .hili}
-
-
-## Enable loose files
-In your **Fallout4Custom.ini**{: .hili}, make sure that loose files are enabled.
-To enable lose files, the following three lines need to be present in your your **Fallout4Custom.ini**.
-Adding those lines to the Fallout4.ini or the Fallout4Custom.ini will cause problems. 
-Make sure that these three lines are only in your **Fallout4Custom.ini**!
-```
-[Archive]
-bInvalidateOlderFiles=1
-sResourceDataDirsFinal=
-```
-
-These settings allow for files from mods to be loaded in-game. It is intentional that the bottom setting does not have anything after the =
-{:.info}
 
 
 ## Mod Installation Advice

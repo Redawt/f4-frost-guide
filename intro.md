@@ -74,12 +74,12 @@ Although this guide is will carefully show and explain a lot of things, it is re
 
 ### 2. Basic Guide
 This guide shows you the most **basic and bare-bones setup**{: .hili} that you must have for playing FROST. It doesn't get any smaller then that.
-It only focuses on the must-use/must-have mods for FROST. It also tells you how to sort your load order and where to put additional mods.
+It only focuses on the must-use/must-have mods for FROST. It also tells you how to sort your load order and where to put additional mods. **It doesn't tell you how to use a mod manager, and how to set up the game and the mod manager up properly.**{: .hili}
 
 This guide is recommended for people who 
 * just want to try out FROST,
 * are too lazy to make a more advanced mod setup,
-* or for people who are experienced enough in modding Bethesda games and just need information about what you obsolutely need to play FROST
+* **and** for people who are experienced enough in modding Bethesda games and just need information about what you obsolutely need to play FROST
 
 ### About the mods
 * Optional mods are flagged with **\*O**{: .hili} in their title.
