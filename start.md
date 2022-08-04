@@ -21,6 +21,9 @@ We can now start with the modding guide(s). Choose the guide that you prefer by 
 \
 \
 [![Recommended Guide](./assets/images/recommended_guide.png)](./initialsetup){: .center-image}
-
+\
+\
+Alternatively, you can use ScreamingLake's Wabbajack "Stay FROSTy". A Wabbajack is a mod-pack that can be installed with a few clicks, and includes most/all mods you need already. 
+For more information, visit ScreamingLakes's [Discord](https://discord.gg/strraNQxEQ) and their [website](https://www.fallout4experiences.com/) (Note: The Wabbajack will be released on August 5th)
 
 

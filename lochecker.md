@@ -45,6 +45,8 @@ const required_plugins =  [
         ];
 
 const incompatible_plugins =  [
+            "NW_FROST_Extended.esp",
+            "Legendary Apocalypse.esp",
             "ArmorClothingOverhaul.esp",
             "ACO_DLCw03.esp",
             "Better Armor.esp",
@@ -267,6 +269,7 @@ const bad_plugins =  [
         ];
 
 const not_recommended_plugins =  [
+            "AnimeRace_Nanako.esp",
             "Fleshsmith.esp",
             "SettlementAttacksBeyondFH.esp",
             "SettlementAttacksBeyondNW.esp",

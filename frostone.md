@@ -119,7 +119,7 @@ This is not a single mod, it is a collection of mods.
 
 ## [FROST - CHW PreConfig .ini](https://www.nexusmods.com/fallout4/mods/53772?tab=files) (*O)
 #### Note
-* You only need this file if you installed Classic Holstered Weapons from the [previous section](/coreone#classic-holstered-weapons-system-chw-o) of this guide
+* You only need this file if you installed Classic Holstered Weapons from the [previous section](/f4-frost-guide/coreone#classic-holstered-weapons-system-chw-o) of this guide
 
 #### Description
 * Makes sure that Classic Holstered Weapons is compatible with FROST
@@ -130,10 +130,10 @@ This is not a single mod, it is a collection of mods.
 
 ## [FROST PANPC Patch](https://drive.google.com/drive/folders/1jGVL-7ItZf48k_gxB1D-nt5BuVtiXLTM) (*O, *D)
 #### Note
-* You only need this file if you installed PANPC from the [previous section](/coreone#pack-attack-npc-panpc-o) of this guide
+* You only need this file if you installed PANPC from the [previous section](/f4-frost-guide/coreone.html#pack-attack-npc-panpc-o-d-f) of this guide
 
 #### Description
-* The FROST patch for [PANPC](/coreone#pack-attack-npc-panpc-o)
+* The FROST patch for [PANPC](/f4-frost-guide/coreone.html#pack-attack-npc-panpc-o-d-f)
 
 #### Installation Instructions
 * Open this [PANPC Patches Google Drive repository](https://drive.google.com/drive/folders/1jGVL-7ItZf48k_gxB1D-nt5BuVtiXLTM)
