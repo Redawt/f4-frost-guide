@@ -84,8 +84,6 @@ aside:
 * **Main File - FROST PipTab 1**
 
 
-cessible Locations mods and install them with MO2.
-
 
 ## [FROST - Dark Calling](https://www.nexusmods.com/fallout4/mods/50618) (*O)
 
@@ -115,7 +113,7 @@ This is not a single mod, it is a collection of mods.
 * Opens up and changes locations that were previously locked in FROST. 
 
 #### Installation Instructions
-* Download the main files of the 4 Ac
+* Download the main files of the 4 Accessible Locations mods and install them with MO2.
 
 ## [FROST - CHW PreConfig .ini](https://www.nexusmods.com/fallout4/mods/53772?tab=files) (*O)
 #### Note
