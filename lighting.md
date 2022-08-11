@@ -33,7 +33,7 @@ aside:
 * This mod covers lighting of **exterior** cells
 
 #### Installation Instructions
-* **Main File - Ultra Exterior Lighting 1.04** from [here](https://www.nexusmods.com/fallout4/mods/22101?tab=files)
+* **Main File - Ultra Exterior Lighting 1.04** from [here](https://www.nexusmods.com/fallout4/mods/41625?tab=files)
 
 ## **Read this too!**{: .hili}
 * **Download only one of the following lighting mods!**{: .hili}

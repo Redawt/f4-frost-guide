@@ -12,6 +12,7 @@ aside:
 
 ---
 
+#### Important mods for fixing certain problems and allowing for better configuration of the game
 
 ## Creating a Seperator in MO2
 1. Right-click anywhere in the left pane of MO2 and select **Create Separator**{: .hili}

@@ -45,6 +45,9 @@ const required_plugins =  [
         ];
 
 const incompatible_plugins =  [
+            "AAF_Violate.esp",
+            "AnimatedRadaway.esp",
+            "Animated Drinking.esp",
             "NW_FROST_Extended.esp",
             "Legendary Apocalypse.esp",
             "ArmorClothingOverhaul.esp",
@@ -221,6 +224,7 @@ const bad_plugins =  [
             "CannibalWithSanity.esp",
             "Frost Buggs Bunny.esp",
             "Craftable Liquor Original.esp",
+            "FrostACOBetterArmors.esp",
             "Frosty Cazador.esp",
             "FrostFungalStew.esp",
             "Frost Fatigues 2.0.esp",
@@ -269,6 +273,20 @@ const bad_plugins =  [
         ];
 
 const not_recommended_plugins =  [
+            "Mycophagy.esp",
+            "FO4_AnimationsByLeito.esp",
+            "Mutated Lust.esp",
+            "SavageCabbage_Animations.esp",
+            "LivingParasiteArmor.esp",
+            "Atomic Lust.esp",
+            "Marmo1233 - PowerArmorAirdrop.esp",
+            "AAF_CreaturePack01.esp",
+            "AAF_CreaturePack02DLC.esp",
+            "TraumaOverrideHarness.esp",
+            "AnimalLoverWastelandSeducer.esp",
+            "LegendaryDropBugfix.esl",
+            "TortureDevices.esm",
+            "WashOutThatCum.esl",
             "AnimeRace_Nanako.esp",
             "Fleshsmith.esp",
             "SettlementAttacksBeyondFH.esp",
