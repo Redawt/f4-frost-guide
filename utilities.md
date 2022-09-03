@@ -61,11 +61,11 @@ In order for the script extender to work, you need to launch the game using the 
 #### Installation Instructions
 * **Main File - Address Library 1.10.163.0**
 
-If you do not know what these instructions mean, or how to install mods with MO2, **read the Mod Installation Advice**{: .hili} section from the MO2 page
+If you do not know what these instructions mean, or how to install mods with MO2, **read the Mod Installation Advice**{: .hili} section from the MO2 page again!
 {: .info}
 
 
-After installing a mod, make sure you check the box next to it in the left pane of MO2 to enable it
+After installing with a mod with MO2, make sure you check the box next to it in the left pane of MO2 to enable it
 {: .info}
 
 

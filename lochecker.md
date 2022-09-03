@@ -48,11 +48,15 @@ const incompatible_plugins =  [
             "AAF_Violate.esp",
             "AnimatedRadaway.esp",
             "Animated Drinking.esp",
+            "MilitarisedMinutemen_PatchesAddon.esp",
             "NW_FROST_Extended.esp",
             "Legendary Apocalypse.esp",
             "ArmorClothingOverhaul.esp",
             "ACO_DLCw03.esp",
             "Better Armor.esp",
+            "Militarized Minutemen - Craftable Outfits.esp",
+            "ExpandedBallisticWeave.esp",
+            "NoRailRoadBallisticWeave.esp",
             "Brotherhood Power Armor Overhaul.esp",
             "The Deadly Commonwealth Expansion.esp",
             "PiperCaitCurieDialogueOverhaul.esp",
@@ -269,10 +273,17 @@ const bad_plugins =  [
             "NPCLimitedAmmo - Automatron.esp",
             "NPCLimitedAmmo.esp",
             "FROST Tomato Wheat.esp",
+            "Grhk_FROST_Weightless_Ammo.esp",
+            "MK_Agony_VIS patch Non survival.esp",
             "xxFrost_Dogmeat.esp"
         ];
 
 const not_recommended_plugins =  [
+            "Alex_Stripper_Pole_2.esp",
+            "Scrap Everything - Ultimate Edition.esp",
+            "Famished.esp",
+            "CombinedArmsNV.esp",
+            "Damage Threshold.esm",
             "Mycophagy.esp",
             "FO4_AnimationsByLeito.esp",
             "Mutated Lust.esp",
@@ -301,6 +312,7 @@ const not_recommended_plugins =  [
             "ImmersiveVendors.esp",
             "[ARR] FallEvil - Mega Zombie Pack.esp",
             "[ARR] FallEvil - Zombie Dogs REVisited.esp",
+            "[ARR] FallEvil - Palehead.esp",
             "FallEvil - Complete Edition.esp",
             "Orphans.esp",
             "SurvivalistFirstAid.esp",
@@ -348,6 +360,7 @@ const not_recommended_plugins =  [
             "MK_Agony_Unofficial_Patch.esp",
             "ExpandedQuickCleanJamaicaPlain.esp",
             "Agony_IAF_Patch.esp",
+            "MK_Agony_non Survival.esp",
             "AdvancedNeeds2_Expansion_01_Ghoulified.esp",
             "AdvancedNeeds2_Expansion_02_Spoilage.esp",
             "AdvancedNeeds2_Expansion_05_Gasmasks.esp",
@@ -462,7 +475,7 @@ const fcf_check_plugins = [
         let plugin = plugin_list[i];
         let pluginS = plugin.toLowerCase()
         //alert(plugin)
-        const exception_list = ["IV_Misc_BoiledWaterBottles.esp", "IV_HC_Perk_Updated.esp","Cat Meat Recipe.esp","Freeze.esp","SatelliteWorldMap.esp", "PLI_USAF_Satellite_Station_Olivia.esp", "M8r Complex Sorter.esp"];
+        const exception_list = ["IV_Misc_BoiledWaterBottles.esp", "IV_HC_Perk_Updated.esp","Cat Meat Recipe.esp","Freeze.esp","SatelliteWorldMap.esp", "PLI_USAF_Satellite_Station_Olivia.esp", "M8r Complex Sorter.esp", "ChillGhouls.esp"];
         if (!pluginS.includes("frost") && !pluginS.includes("rff") && !pluginS.includes("fcf") && exception_list.indexOf(plugin_list[i]) < 0){
           result_list.push(plugin)
         }

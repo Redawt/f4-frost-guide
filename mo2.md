@@ -116,6 +116,8 @@ sResourceDataDirsFinal=
 These settings allow for files from mods to be loaded in-game. It is intentional that the bottom setting does not have anything after the =
 {:.info}
 
+**Note:** You can also add **bEnableWetnessMaterials=0** (or change it if it already exists) in your **Fallout4Prefs.ini** in MO2. This will deactivate the wetness effect from objects when it's raining. This causes snow to not be "wet" anymore. Only do this if you really want it or are bothered that snow sometimes has a slight wetness/reflection effect when it's raining.
+
 
 ## How to MO2 
 If you need some information and help on how to use MO2, here are some helpful links:
