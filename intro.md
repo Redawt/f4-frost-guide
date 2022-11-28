@@ -75,7 +75,7 @@ This guide is recommended for people who
 * who need a little bit of handholding,
 * **who don't have much modding experience**{: .hili}.
 
-Although this guide is will carefully show and explain a lot of things, it is recommended that you have at least a tiny amount of modding experience. I will link helpful guides and videos whenever I can to help people that are completely new to modding.
+Although this guide will carefully show and explain a lot of things, it is recommended that you have at least a tiny amount of modding experience. I will link helpful guides and videos whenever I can to help people that are completely new to modding.
 
 
 ### 2. Basic Guide
@@ -85,7 +85,7 @@ It only focuses on the must-use/must-have mods for FROST. It also tells you how 
 This guide is recommended for people who 
 * just want to try out FROST,
 * are too lazy to make a more advanced mod setup,
-* **and** for people who are experienced enough in modding Bethesda games and just need information about what you obsolutely need to play FROST
+* **and** for people who are experienced enough in modding Bethesda games and just need information about what you absolutely need to play FROST
 
 ### About the mods
 * Optional mods are flagged with **\*O**{: .hili} in their title.

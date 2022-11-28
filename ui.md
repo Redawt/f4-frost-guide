@@ -44,7 +44,7 @@ aside:
 * **Main File - HUDFramework 1.0f**
 
 
-## [Immersive HUD](https://www.nexusmods.com/fallout4/mods/20830)
+## [Immersive HUD](https://www.nexusmods.com/fallout4/mods/20830) (* O)
 
 
 #### Description

@@ -1,4 +1,4 @@
-## [Frost Official Updates](https://www.nexusmods.com/fallout4/mods/48839?tab=files)
+## [Frost Official Updates (Redux)](https://www.nexusmods.com/fallout4/mods/65485)
 
 
 #### Description
@@ -7,5 +7,10 @@
 
 #### Installation Instructions
 * **Main Files - Frost Official Updates**
-* Always install the newest version of this mod!
-* If you install this mod, you will have an option to install a Frost Campsite patch. If you use Campsite, then please install that patch.
+    * Always install the newest version of this mod!
+    * If you install this mod, you will have an option to install 
+        * a Campsite patch
+        * a CBBE patch
+        * some other optional plugins
+    * Install those patches if you use the respective mods
+    * Install the optional plugins if you want to use them

@@ -85,7 +85,26 @@ You may get a pop-up called **INI file is read-only**{: .hili} when attempting t
 ![mo2 profiles menu](./assets/images/mo2profiles.png "mo2 profiles menu")
 
 
-## INI Tweaks + Lose Files
+## Enable Loose Files
+This is a very important step!
+1. Make sure the **FROST**{: .hili} profile is active
+2. Click the ![mo2 ini button](https://themidnightride.github.io/img/mo2%20ini.png "mo2 ini button") at the top of MO2 and select **INI Editor**{: .hili}
+3. Select the **Fallout4Custom.ini**{: .hili} tab
+4. Paste in the following to **enable lose files**{: .hili}:
+```
+[Archive]
+bInvalidateOlderFiles=1
+sResourceDataDirsFinal=
+``` 
+5. Save your changes
+
+These settings allow for files from mods to be loaded in-game. It is intentional that the bottom setting does not have anything after the =
+{:.info}
+
+**If you did everything correctly, it should look similar to this:
+![mo2 ini loose files](./assets/images/loosefiles.png "mo2 ini editor loose files")
+
+## INI Tweaks
 In this step, we will configure the game's INI files to increase performance/stability at minimal visual cost. 
 
 1. Make sure the **FROST**{: .hili} profile is active
@@ -98,22 +117,10 @@ In this step, we will configure the game's INI files to increase performance/sta
   * Set **iMaxFocusShadowsDialogue** to 3
   * Set **iMaxFocusShadows** to 3
   * Set **fBlendSplitDirShadow** to 96.0000
-
+5. Save your changes
+6. Close the .ini editor
 
 These settings tweak shadows to drastically improve performance without much visual cost. 
-{:.info}
-
-{:start="5"}
-5. Save your changes, but stay in the INI editor
-6. Select the **Fallout4Custom.ini**{: .hili} tab
-7. Paste in the following to **enable lose files**{: .hili}:
-```
-[Archive]
-bInvalidateOlderFiles=1
-sResourceDataDirsFinal=
-```
-
-These settings allow for files from mods to be loaded in-game. It is intentional that the bottom setting does not have anything after the =
 {:.info}
 
 **Note:** You can also add **bEnableWetnessMaterials=0** (or change it if it already exists) in your **Fallout4Prefs.ini** in MO2. This will deactivate the wetness effect from objects when it's raining. This causes snow to not be "wet" anymore. Only do this if you really want it or are bothered that snow sometimes has a slight wetness/reflection effect when it's raining.

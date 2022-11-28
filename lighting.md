@@ -15,7 +15,7 @@ aside:
 
 ## **Read this!**{: .hili}
 * If your PC isn't good enough for lighting mods, you can skip this section completely!
-* **You have to install a FROST patch the lighting mod that you choose later!**{: .hili} 
+* **You have to install a FROST patch for the lighting mod that you choose later!**{: .hili} 
   * Don't worry, the guide will tell you when to do install them.
 * You should only download lighting mods that have a patch for FROST
 * ENBs and Reshade do not count as lighting mod, so you can safely with the mods down below
@@ -31,6 +31,7 @@ aside:
 #### Description
 *  [Ultra Exterior Lighting](https://www.nexusmods.com/fallout4/mods/41625?tab=files)  adds shadow cast lights to many of the physical light sources in the Fallout 4 exterior world including Far Harbor and Nukaworld. There has also been vast improvements made to the general lighting associated with physical lights sources bring you a vastly more immersive exterior lighting.
 * This mod covers lighting of **exterior** cells
+* This mod does not require a patch for FROST
 
 #### Installation Instructions
 * **Main File - Ultra Exterior Lighting 1.04** from [here](https://www.nexusmods.com/fallout4/mods/41625?tab=files)
@@ -43,7 +44,7 @@ aside:
 
 
 
-## [Ultra Interior Lighting](https://www.nexusmods.com/fallout4/mods/22101?tab=files) (*O)
+## [Ultra Interior Lighting](https://www.nexusmods.com/fallout4/mods/22101?tab=files) (*O, *F)
 
 
 #### Description
@@ -57,7 +58,7 @@ aside:
 
 
 
-## [Clarity - A Visual Overhaul](https://www.nexusmods.com/fallout4/mods/31991?tab=files) (*O)
+## [Clarity - A Visual Overhaul](https://www.nexusmods.com/fallout4/mods/31991?tab=files) (*O, *F)
 
 #### Description
 * A zero performance loss, very subtle visual overhaul. Removes many annoying visuals in the game.
@@ -68,7 +69,7 @@ aside:
 * **Main File - Clarity 4.2**
 
 
-## [Enhanced Lighting for ENB (ELE)](https://www.nexusmods.com/fallout4/mods/42705?tab=files) (*O)
+## [Enhanced Lighting for ENB (ELE)](https://www.nexusmods.com/fallout4/mods/42705?tab=files) (*O, *F)
 
 #### Description
 * This mod intends to adjust all interior based lighting inside the Fallout 4 game. 
@@ -78,7 +79,7 @@ aside:
 #### Installation Instructions
 * **Main File - ELE Fo4 1.0.1**
 
-## [Interiors Enhanced](https://www.nexusmods.com/fallout4/mods/8768?tab=files) (*O)
+## [Interiors Enhanced](https://www.nexusmods.com/fallout4/mods/8768?tab=files) (*O, *F)
 
 #### Description
 * Ambient light power and fog brightness inside all interiors reduced by 60%, without touching any directional light sources whatsoever, keeping lighting 100% true to vanilla except for those dark corners and unlit areas. 

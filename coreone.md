@@ -26,7 +26,7 @@ aside:
 #### Installation Instructions
 * **Main File - Better Console 1.4.0**
 
-## [Unlimited Survival Mode (*O)](https://www.nexusmods.com/fallout4/mods/26163)
+## [Unlimited Survival Mode](https://www.nexusmods.com/fallout4/mods/26163)
 
 #### Description
 * Restores the game features disabled in Survival mode, such as fast travel and saving. 
@@ -77,17 +77,8 @@ aside:
 * **Main Files - Classic Holstered Weapons 1.06b**
 
 
-## [Level-Up Healing Removal](https://www.nexusmods.com/fallout4/mods/20160?tab=files) (*O)
 
-
-#### Description
-* You won't gain full health when you level up
-
-#### Installation Instructions
-* **Main Files - Level-Up Healing Removal 1.1**
-
-
-## [Campsite](https://www.nexusmods.com/fallout4/mods/11734) (O*, F*)
+## [Campsite](https://www.nexusmods.com/fallout4/mods/11734) (*O, *F)
 #### Description
 Adds portable sleeping bags and other camping items. Highly recommended to be used.
 **The FROST patch for this mod is included in the Frost Official Updates mod as an optional install.**

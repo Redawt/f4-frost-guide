@@ -24,36 +24,19 @@ aside:
 {% include_relative md-mod-descriptions/frost-description.md %}
 
 
-{% include_relative md-mod-descriptions/frost-doors-description.md %}
 
 
 {% include_relative md-mod-descriptions/rff-description.md %}
 
 
-{% include_relative md-mod-descriptions/fnw-description.md %}
-
 
 {% include_relative md-mod-descriptions/frost-plus-description.md %}
 
-
-{% include_relative md-mod-descriptions/fgf-description.md %}
 
 
 {% include_relative md-mod-descriptions/frost-ufop4-description.md %}
 
 
-## [FROST Lore-Tweaked Sanity Loss](https://www.nexusmods.com/fallout4/mods/53024?tab=files) (*O)
-
-
-#### Description
-* Adds an MCM menu that allows you to configure how much sanity you lose when killing an NPC
-
-#### Installation Instructions
-* **Main File - FROST Lore-Tweaked Sanity Loss 2.3***
-
-{% include_relative md-mod-descriptions/it-snowed-description.md %}
-
-{% include_relative md-mod-descriptions/frost-snowy-weathers.md %}
 
 ## [FROST Lootable Cars](https://www.nexusmods.com/fallout4/mods/57960) (*O)
 
@@ -63,25 +46,6 @@ aside:
 #### Installation Instructions
 * **Main File - FROST - Lootable And Locked Cars 1.1**
 
-
-
-## [FREEZE Intimidation Overhaul](https://www.nexusmods.com/fallout4/mods/27636?tab=files)
-
-
-#### Description
-* Freeze is an overhaul of the entire intimidation perk including your intimidation chance and what you can do with surrendering opponents. Now with handcuffs! 
-
-#### Installation Instructions
-* **Main Files - Freeze 2.2b Handcuff fix 2.2.b**
-
-## [FROST Sanity Tab](https://www.nexusmods.com/fallout4/mods/47585?tab=files)
-
-
-#### Description
-* Adds a Pip Boy tab to check your current sanity.
-
-#### Installation Instructions
-* **Main File - FROST PipTab 1**
 
 
 
@@ -146,3 +110,8 @@ This is not a single mod, it is a collection of mods.
 
 
 {% include_relative md-mod-descriptions/fcf-description.md %}
+
+## What's next?
+
+If you downloaded the mods and installed them like mentioned, you can continue to the **Load Order Section.**
+{: .success}

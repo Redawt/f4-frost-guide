@@ -54,7 +54,8 @@ The following rules show you how to structure your load order. Please use these 
 #### 2. Master files
 {: .hili}
 - Unofficial Fallout 4 Patch.esp
-- (Put all .esm files and .esm flagged .esp files here (Example: PANPC.esm, Unofficial Fallout 4 Patch.esp))
+- (Put all .esm files and .esm flagged .esp files here. Example: PANPC.esm, Unofficial Fallout 4 Patch.esp)
+- (esm-flagged .esm files have an italic font in the plugin section of MO2)
 
 
 #### 3. Frost Unrelated Mods I
@@ -73,11 +74,8 @@ The following rules show you how to structure your load order. Please use these 
 {: .hili}
 
 - FROST.esp
-- FROSTmoreDoors.esp
 - RedsFrostFixes.esp
-- FrostNukaWorld.esp
 - aFrostMod.esp
-- FROST Feral Fix.esp
 - FROST - UFO4P Patch.esp
 
 
@@ -102,8 +100,7 @@ If you don't follow these rules, bad things will happen!
 
 - FCF_Main.esp
 - FCF_Previsibines.esp
-- FCF_PrevisibinesNW.esp
-- FCF_PrevisibinesDoors.esp
+- (Other FCF patches)
 
 ##### This is the end of the load order
 {: .hili}
@@ -123,17 +120,14 @@ DLCworkshop03.esm
 DLCNukaWorld.esm
 Unofficial Fallout 4 Patch.esp
 FROST.esp
-FROSTmoreDoors.esp
 RedsFrostFixes.esp
-FrostNukaWorld.esp
 aFrostMod.esp
-FROST Feral Fix.esp
 FROST - UFO4P Patch.esp
 FROST - It Snowed.esp
+RedsFrostBlurRemoval.esp
+RedsFrostExplosionEffects.esp
 FCF_Main.esp
 FCF_Previsibines.esp
-FCF_PrevisibinesDoors.esp
-FCF_PrevisibinesNW.esp
 ```
 
 ## The Ending Of Things

@@ -18,7 +18,7 @@ However, it works well enough and will definitely help you a lot if something is
 If you need help, visit the FROST Discord Server.
 **Keep in mind that armor and weapon mods always need a patch for FROST!** 
 The load order checker is not smart enough to check if you use a weapon/armor mod without a patch or not.
-Do not use automatically generated bashed patches together with FROST or Fallout 4 in general, they will fuck things up badly. 
+Do not use automatically generated bashed patches together with FROST or Fallout 4 in general, the chance is high that they mess up leveled lists or other things.
 
 #### **Put the content of your load order here!**{: .hili}
 
@@ -32,19 +32,23 @@ Do not use automatically generated bashed patches together with FROST or Fallout
 const required_plugins =  [
             "Unofficial Fallout 4 Patch.esp",
             "FROST.esp",
-            "FROSTmoreDoors.esp",
             "RedsFrostFixes.esp",
-            "FrostNukaWorld.esp",
             "aFrostMod.esp",
-            "FROST Feral Fix.esp",
             "FROST - UFO4P Patch.esp",
             "FCF_Main.esp",
-            "FCF_Previsibines.esp",
-            "FCF_PrevisibinesDoors.esp",
-            "FCF_PrevisibinesNW.esp"
+            "FCF_Previsibines.esp"
         ];
 
 const incompatible_plugins =  [
+            "HiPolyFacesCompanionPlugin.esl",
+            "ArmoredRaiderLeveledList.esp",
+            "FatherCompanion.esp",
+            "No Perk Level Requirements ALL DLC 3.0.esp",
+            "Perks76.esp",
+            "vertunlockminutemenpilot.esp",
+            "Settlement PreCombine Changes.esp",
+            "SS2.esm",
+            "PerkReset.esp",
             "AAF_Violate.esp",
             "AnimatedRadaway.esp",
             "Animated Drinking.esp",
@@ -275,10 +279,26 @@ const bad_plugins =  [
             "FROST Tomato Wheat.esp",
             "Grhk_FROST_Weightless_Ammo.esp",
             "MK_Agony_VIS patch Non survival.esp",
-            "xxFrost_Dogmeat.esp"
+            "xxFrost_Dogmeat.esp",
+            "FCF_PrevisibinesDoors.esp",
+            "FCF_PrevisibinesNW.esp",
+            "FCF_PrevisibinesNW_UEL.esp",
+            "FCF_PrevisibinesNW_UIL.esp",
+            "Freeze.esp",
+            "FROST Feral Fix.esp",
+            "FrostNukaWorld.esp",
+            "FROSTmoreDoors.esp",
+            "ArgonnFROSTSanityTweakPatch.esp",
+            "Frost PipTab.esp",
+            "Z_LevelUp_HealingRemoval.esp"
         ];
 
 const not_recommended_plugins =  [
+            "RealisticHunting.esp",
+            "More Antibiotic Loot.esp",
+            "More Power Armour Mods.esp",
+            "More Power Armour Mods - Automatron.esp",
+            "ECO.esp",
             "Alex_Stripper_Pole_2.esp",
             "Scrap Everything - Ultimate Edition.esp",
             "Famished.esp",
@@ -372,41 +392,17 @@ const not_recommended_plugins =  [
             "Facials.esp"
         ];
 
-const lighting_check_plugins = [
-            "FCF_PrevisibinesUIL.esp",
-            "FCF_PrevisibinesIEAIO.esp",
-            "FCF_PrevisibinesELE.esp",
-            "FCF_PrevisibinesClarity.esp"
-        ];
-
 const fcf_check_plugins = [
             "FCF_Main.esp",
             "FCF_Previsibines.esp",
-            "FCF_PrevisibinesDoors.esp",
-            "FCF_PrevisibinesUIL.esp",
-            "FCF_PrevisibinesUEL.esp",
-            "FCF_PrevisibinesIEAIO.esp",
-            "FCF_PrevisibinesELE.esp",
-            "FCF_PrevisibinesClarity.esp",
-            "FCF_PrevisibinesFO.esp",
-            "FCF_PrevisibinesNFZ.esp",
-            "FCF_PrevisibinesJSRS.esp",
-            "FCF_PrevisibinesMarshland.esp",
-            "FCF_PrevisibinesMMH.esp",
-            "FCF_PrevisibinesForest.esp",
-            "FCF_PrevisibinesNW.esp",
-            "FCF_PrevisibinesNW_Clarity.esp",
-            "FCF_PrevisibinesNW_ELE.esp",
-            "FCF_PrevisibinesNW_FO.esp",
-            "FCF_PrevisibinesNW_IEAIO.esp",
-            "FCF_PrevisibinesNW_NFZ.esp",
-            "FCF_PrevisibinesNW_UEL.esp",
-            "FCF_PrevisibinesNW_UIL.esp",
-            "FCF_PrevisibinesMetro",
+            "FCF_Previsibines-TheForest.esp",
+            "FCF_Previsibines-JSRS.esp",
+            "FCF_Previsibines-TheMarshlands.esp",
+            "FCF_Previsibines-MMHelipad.esp",
             "FCF_Hotfix.esp",
             "PLI_USAF_Satellite_Station_Olivia.esp",
             "PLI_USAF_Olivia FROSTified.esp",
-            "SatelliteWorldMap.esp",
+            "SatelliteWorldMap.esp"
         ];
 
 
@@ -503,7 +499,7 @@ const fcf_check_plugins = [
   function checkEndOfLO(plugin_list, check_list){
     var exist_list = checkForExistingPlugins(plugin_list, check_list)
     var result_list = []
-    const sumbo =   plugin_list.length - exist_list.length -1
+    const sumbo =   plugin_list.length - exist_list.length
     for (let i = 0; i < check_list.length; i++){
           let plugin1 = check_list[i];
           let pl1 = plugin_list.indexOf(plugin1);
@@ -548,13 +544,6 @@ const fcf_check_plugins = [
     const found_wrong_sorted_fcf_plugins = checkEndOfLO(plugins, fcf_check_plugins);
     const found_wrong_order_after_frost_plugins = checkFrostPluginOrderAfter(plugins);
 
-
-    var lightings = checkForExistingPlugins(plugins, lighting_check_plugins);
-    var found_multiple_lighting_plugins = [];
-    if (lightings.length > 1){
-      found_multiple_lighting_plugins = checkForExistingPlugins(plugins, lighting_check_plugins);
-    }
-
     const cc_description = "Creation Club Content is often incompatible with FROST, immersion-breaking or needs a patch. There are currently no patches for CC content for FROST. Please remove all CC mods, unless they add paint for Power Armor, Armors or Weapons.";
     myPrint(found_cc_plugins, "Creation Club Content", cc_description);
     const missing_description = "You are missing the following plugins. Please install them and put them into the right spot in your load order!";
@@ -573,9 +562,6 @@ const fcf_check_plugins = [
     const wrong_order_after_frost_description = "You should load these frost unrelated mods before Frost.esp, unless you know what you are doing and know how to use xEdit. If you are unsure about this, go to the FROST Discord and ask there for clarification."
     myPrint(found_wrong_order_after_frost_plugins, "Normal Plugins are sorted wrong", wrong_order_after_frost_description);
 
-    const multiple_light_description = "You are most likely using multiple lighting mods. This will cause severe problems, please read the lighting section of the guide again:";
-    myPrint(found_multiple_lighting_plugins, "Multiple Lighting Mods", multiple_light_description);
-    
     const fcf_lo_end_description = "Please load the following plugins at the END of your load order, and read the sorting rules from above again VERY carefully."
     myPrint(found_wrong_sorted_fcf_plugins, "Problems at the end of the load order.", fcf_lo_end_description);
 

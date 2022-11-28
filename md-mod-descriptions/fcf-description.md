@@ -8,18 +8,19 @@ Do not select **merge**{: .hili} or **replace**{: .hili} when installing these f
 {:.warning}
 
 * Always install the newest versions/files of this mod!
-* **You need to download and install all three files (+ Hotfix file if its exists)! This is very important!**{: .hili}
 * **Main File - FROST Cell Fixes (FCF)**
-    * Install it, follow through the installer that shows up, and pick a barricade texture resolution (I recommend the 2k version)
-* **Main File - FROST Cell Fixes (FCF) - Misc Patches**
     * Installing this mod will show an installer
-    * Select the patch for the **Frost More Starting Locations** mod
-    * Select the **lighting mod patch(es)** for the lighing mod(s) that **you** installed from the [lighting section](/f4-frost-guide/lighting) of this guide
-    * If you don't use  a lighting mod, you don't have to select any of the lighting patches
-* **Main File - FROST Cell Fixes (FCF) - Nuka World AddOn**
+    * Read the first page that will show up, click on **Ok**, adn then click on **Next**
+    * Select a barricade texture resolution (I recommend the 2k version)
+    * Select **Install** to finish the installation
+* **Main File - FROST Cell Fixes (FCF) - Patches**
+    * **You only need this file if you use a lighting mod, or if you use one or multiple of the following mods:**{: .hili}
+        * [The Marshlands DLC](https://www.nexusmods.com/fallout4/mods/48628)
+        * [The Forest DLC](https://www.nexusmods.com/fallout4/mods/46602)
+        * [Medford Memorial Helipad](https://www.nexusmods.com/fallout4/mods/55655?tab=files)
+        * [JSRS Sound Mod for Fallout 4](https://www.nexusmods.com/fallout4/mods/52931)
     * Installing this mod will show an installer
-    * Select the Nuka-World Previsibes patch from the installer
-    * Select the **lighting mod patch** for the lighing mod that **you** installed from the [lighting section](/f4-frost-guide/lighting) of this guide
-    * If you don't use  a lighting mod, you don't have to select any of the lighting patches
+    * Select the **lighting mod patch** for the interior ligthing mod that **you** installed from the [lighting section](/f4-frost-guide/lighting) of this guide
+    * The Ultra Exterior Lighting mod does not need a patch for FCF
 * **Hotfix**
     * If there currently is a hotfix in the **Update Files** section of FCF, download and install it too please!
