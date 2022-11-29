@@ -36,7 +36,7 @@ aside:
 
 {% include_relative md-mod-descriptions/frost-ufop4-description.md %}
 
-
+{% include_relative md-mod-descriptions/it-snowed-description.md %}
 
 ## [FROST Lootable Cars](https://www.nexusmods.com/fallout4/mods/57960) (*O)
 
