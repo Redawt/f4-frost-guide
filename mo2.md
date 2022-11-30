@@ -35,7 +35,7 @@ Never use two mod managers for the same game at once. This will mess things up b
 2. You will be prompted with a pop-up called **Creating an instance**{: .hili}, in which you should just select **Next**{: .hili}
 3. On the next page, select **Create a portable instance**{: .hili}
 
-  ![Installation Prompt Image](https://themidnightride.github.io/img/MO2%20portable.png "Installation Prompt Image")
+  ![Installation Prompt Image](https://themidnightride.github.io/img/mo2%20portable%20instance.png "Installation Prompt Image")
 
 {:start="4"}
 4. On the next page, select **Fallout 4**{: .hili}
