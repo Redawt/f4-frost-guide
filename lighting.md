@@ -21,7 +21,7 @@ aside:
 * ENBs and Reshade do not count as lighting mod, so you can safely with the mods down below
 
 
-## Creating a Seperator in MO2
+## Creating a Separator in MO2
 1. Right-click anywhere in the left pane of MO2 and select **Create Separator**{: .hili}
 2. Name the separator **Lighting Mods**{: .hili}
 
