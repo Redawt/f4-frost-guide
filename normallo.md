@@ -27,11 +27,11 @@ You can sort your load order on the **right** panel of MO2 in the **plugins**{: 
 
 
 ## About LOOT
-**LOOT**{: .hili} is a tool that is integrated into **Vortex**{: .hili} and can automatically sort your load order.
-In order to use it with **MO2**{: .hili}, you have to download it and add it to **MO2**{: .hili}.
-It is compatible with **FROST**{: .hili}, but I recommend to not use it as it sometimes still does some silly things with FROST load orders.
+## About LOOT
+**LOOT**{: .hili} is a tool that is integrated into **Vortex**{: .hili} and **MO2**{: .hili} and can automatically sort your load order.
+Its sorting rules are often outdated when it comes to Fallout 4 mods, especially to FROST. I do not recommend to use it, as it often destroys FROST load orders based on outdated information. **LOOT is not a reliable tool for sorting Fallout 4 load orders!**{: .hili}
+LOOT is also not reliable as it doesn't know every plugin, so even if you want to use it, you will still have to sort stuff manually.
 
-I recommend to sort mods manually as **LOOT**{: .hili} often messes things up and is simply not good enough to sort a load order properly in most cases. Manual adjustment will always be needed at some point.
 
 Before you start adding additional mods that are not mentioned in the guide, make sure to read the [compatability section](./compatability.html) of the guide! It lists which mods and mod types are problematic, and which are okay to use!
 {: .warning}
@@ -44,7 +44,7 @@ There is also an **Automated Load Order Checker**{: .hili} below which can check
 
 *Not all mods appear in the load order, as some don't have an esp/esl/esm plugin file.* 
 
-*Mods like Buffout 4 won't appear in your load order for that reason.*
+*Mods like Buffout 4 won't appear in your load order for this reason.*
 
 ##### \[This is the start of the load order\]
 {: .hili}

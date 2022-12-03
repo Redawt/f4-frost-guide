@@ -22,8 +22,8 @@ nonext: true
 
 ## About LOOT
 **LOOT**{: .hili} is a tool that is integrated into **Vortex**{: .hili} and **MO2**{: .hili} and can automatically sort your load order.
-It is compatible with **FROST**{: .hili}, but I recommend to not use it as it sometimes still does some silly things with FROST load orders.
- 
+Its sorting rules are often outdated when it comes to Fallout 4 mods, especially to FROST. I do not recommend to use it, as it often destroys FROST load orders based on outdated information. **It is not a reliable tool for sorting Fallout 4 load orders!**{: .hili}
+LOOT is also not reliable as it doesn't know every plugin, so even if you want to use it, you will still have to sort stuff manually.
 
 Before you start adding additional mods that are not mentioned in the guide, make sure to read the [compatability section](./compatability.html) of the guide! It lists which mods and mod types are problematic, and which are okay to use!
 {: .warning}

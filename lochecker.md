@@ -38,10 +38,23 @@ const required_plugins =  [
             "FCF_Main.esp",
             "FCF_Previsibines.esp"
         ];
+const frost_core_plugins = [
+            "FROST.esp",
+            "RedsFrostFixes.esp",
+            "aFrostMod.esp",
+            "FROST - UFO4P Patch.esp"
+  ];
 
 const incompatible_plugins =  [
+            "AnotherLife.esp",
+            "Machete Damage Boost .esp",
+            "LongerDrugEffects.esp",
+            "FastSwordsMeleeRebalance.esp",
+            "RangedWeaponRebalance.esp",
+            "SpectacleIslandBoat.esp",
             "HiPolyFacesCompanionPlugin.esl",
             "ArmoredRaiderLeveledList.esp",
+            "CaN - Player Pony.esp",
             "FatherCompanion.esp",
             "No Perk Level Requirements ALL DLC 3.0.esp",
             "Perks76.esp",
@@ -209,6 +222,7 @@ const incompatible_plugins =  [
         ];
 
 const bad_plugins =  [
+            "FrostFallUIPatch.esp",
             "FunctionalTank.esl",
             "M8r_Item_Tags_Vanilla.esp",
             "FROST-More Armor Slots.esp",
@@ -294,6 +308,7 @@ const bad_plugins =  [
         ];
 
 const not_recommended_plugins =  [
+            "CaN.esm",
             "RealisticHunting.esp",
             "More Antibiotic Loot.esp",
             "More Power Armour Mods.esp",
@@ -349,6 +364,7 @@ const not_recommended_plugins =  [
             "WeightlessMods.esp",
             "WeightlessJunk.esp",
             "WeightlessAid.esp",
+            "NoMedicsNoAmmoWeight.esp",
             "SimpleProstitutes.esl",
             "No Essential Npcs.esp",
             "ExplosionKnockdown.esp",
@@ -451,6 +467,15 @@ const fcf_check_plugins = [
       return result_list;
   }
 
+  function checkFrostCore(plugin_list, check_list){
+    var result_list = [];
+    for(let i=1; i < check_list.length; i++){
+      if (plugin_list.indexOf(check_list[i]) != plugin_list.indexOf(check_list[i-1])+1 ){
+        result_list.push(check_list[i]);
+      }
+    }
+    return result_list;
+  }
 
   function checkFrostPluginOrderBefore(plugin_list){
     var result_list = [];
@@ -467,7 +492,15 @@ const fcf_check_plugins = [
   function checkFrostPluginOrderAfter(plugin_list){
     var result_list = [];
     //alert(plugin_list)
-    for(let i = plugin_list.indexOf("FROST.esp"); i < plugin_list.length-1; i++){
+    //for(let i = plugin_list.indexOf("FROST.esp"); i < plugin_list.length-1; i++){
+    let offset = plugin_list.indexOf("FROST - UFO4P Patch.esp");
+    if (offset < 0){
+      offset = plugin_list.indexOf("FROST.esp");
+    }
+    if (offset < 0){
+      return [];
+    }
+    for(let i = offset; i < plugin_list.length-1; i++){
         let plugin = plugin_list[i];
         let pluginS = plugin.toLowerCase()
         //alert(plugin)
@@ -543,20 +576,27 @@ const fcf_check_plugins = [
     const found_wrong_order_before_frost_plugins = checkFrostPluginOrderBefore(plugins, required_plugins);
     const found_wrong_sorted_fcf_plugins = checkEndOfLO(plugins, fcf_check_plugins);
     const found_wrong_order_after_frost_plugins = checkFrostPluginOrderAfter(plugins);
+    const found_wrongly_sorted_core_plugins = checkFrostCore(plugins, frost_core_plugins);
 
     const cc_description = "Creation Club Content is often incompatible with FROST, immersion-breaking or needs a patch. There are currently no patches for CC content for FROST. Please remove all CC mods, unless they add paint for Power Armor, Armors or Weapons.";
     myPrint(found_cc_plugins, "Creation Club Content", cc_description);
     const missing_description = "You are missing the following plugins. Please install them and put them into the right spot in your load order!";
     myPrint(found_missing_plugins, "Missing Plugins", missing_description);
+
+    const core_sorted_wrong_description = "The following polugins are \"Main Files\" of FROST, and you did not sort them correctly! Take a look again at Sorting Rule 5 and the example load order!"
+    myPrint(found_wrongly_sorted_core_plugins, "Frost Main Files" ,core_sorted_wrong_description)
+
     const incompatible_description = "You are using mods that are incompatible with FROST. Please remove them!";
     myPrint(found_incompatible_plugins, "Incompatible Plugins", incompatible_description);
+
     const problematic_description = "The following plugins are problematic/outdated and should also be removed";
     myPrint(found_bad_plugins, "Problematic Plugins", problematic_description);
+
     const not_recommended_description = "The following plugins are not-recommended to be used with FROST, as they either need a patch that is way to complicated to make, or they do or add things that are already present in FROST, or because they are outdated/not necessary anymore.";
     myPrint(found_not_recommended_plugins, "Not-Recommended Plugins", not_recommended_description);
     const wrong_order_description = "The following plugins are sorted wrong. Please check the Load Order section to make sure that they are sorted correctly!";
     myPrint(found_wrong_order_plugins, "Following Plugins are sorted wrong", wrong_order_description);
-    const wrong_order_before_frost_description = "All FROST mods need to be loaded AFTER FROST.esp! The following FROST mods are not loaded after FROST.esp:";
+    const wrong_order_before_frost_description = "All FROST mods need to be loaded AFTER \"FROST - UFO4P Patch.esp\"! The following FROST mods are not loaded after \"FROST - UFO4P Patch.esp\":";
     myPrint(found_wrong_order_before_frost_plugins, "FROST Plugins are sorted wrong", wrong_order_before_frost_description);
 
     const wrong_order_after_frost_description = "You should load these frost unrelated mods before Frost.esp, unless you know what you are doing and know how to use xEdit. If you are unsure about this, go to the FROST Discord and ask there for clarification."
