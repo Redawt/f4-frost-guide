@@ -37,6 +37,11 @@ Before you start adding additional mods that are not mentioned in the guide, mak
 {: .warning}
 
 
+## Check for Missing Masters
+While you sort your load order in the plugins section of MO2, check if there are any Red Warning Triangles after the plugin names.
+If that is the case, you didn't follow the guide correctly! The red triangle indicates that you forgot to install a requirement.
+You can than hover over the plugin name with your mouse, and MO2 will display a small pop-up which tells you what master plugin is missing.
+
 ## How to structure your Load Order
 The following rules show you how to structure your load order. Please use these rules to sort your load order. An example load order can be found below if you need an example on how it should look like in the end.
 
@@ -72,6 +77,7 @@ Put all .esm files and .esm flagged .esp files here
 
 #### 3. Frost Unrelated Mods I
 {: .hili}
+
 Put all mods that are unrelated to FROST and don't need a frost patch here
 * GCM_DLC_Automatron.esl
 * GCM_DLC_Far_Harbor.esl
@@ -84,14 +90,17 @@ Put all mods that are unrelated to FROST and don't need a frost patch here
 
 #### 4. Frost Unrelated Mods II
 {: .hili}
+
 Put all mods here that need a patch for Frost. Load their frost patches at the section marked down below!. Mods that belong here are Lighting Mods, Weapon Mods, Armor Mods, Creature Mods, Mods that edit leveled lists, ...
 * UltraInteriorLighting.esp
 * UltraExteriorLighting.esp
+* ...
 
 
 #### 5. Frost Main Files
 {: .hili}
 
+The following four plugins must be in this exact order! 
 - FROST.esp
 - RedsFrostFixes.esp
 - aFrostMod.esp
@@ -133,6 +142,7 @@ Put all mods here that patch a certain mod for FROST
 No other files should come after the FCF .esp files. 
 The ONLY two exception to this rule are the Satellite Worldmap mod (SatelliteWorldMap.esp), and Item Sorter patches like Complex Sorter patches from xEdit. The two exceptions must be loaded after the FCF files. 
 If you don't follow these rules, bad things will happen!
+The FCF_Main.esp and FCF_Previsibines.esp must come first, and in the same order as below. After those two plugins all other FCF plugins must be loaded.
 
 - FCF_Main.esp
 - FCF_Previsibines.esp

@@ -17,6 +17,8 @@ aside:
 * If your PC isn't good enough for lighting mods, you can skip this section completely!
 * **You have to install a FROST patch for the lighting mod that you choose later!**{: .hili} 
   * Don't worry, the guide will tell you when to do install them.
+  * The Frost Lighting Patches are included in the **Frost Cell Fixes (FCF)**{: .hili} mod
+  * Do not install **FCF** or its lighting patches yet, the guide will tell you later when to do it!
 * You should only download lighting mods that have a patch for FROST
 * ENBs and Reshade do not count as lighting mod, so you can safely with the mods down below
 

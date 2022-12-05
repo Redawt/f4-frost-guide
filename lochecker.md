@@ -46,6 +46,14 @@ const frost_core_plugins = [
   ];
 
 const incompatible_plugins =  [
+            "MAIM Distributor.esp",
+            "MAIM 2.esp",
+            "MAIM 2 - Dismemberment Patch.esp",
+            "MAIM 2 - EZ Keywords.esp",
+            "MAIM 2 - Point Lookout.esp",
+            "MAIM 2 - Russian Stimpak Patch.esp",
+            "MAIM 2 - Stimpaks Help You Breathe Patch.esp",
+            "MutilatedDeadBodies.esp",
             "AnotherLife.esp",
             "Machete Damage Boost .esp",
             "LongerDrugEffects.esp",
@@ -199,7 +207,6 @@ const incompatible_plugins =  [
             "VendorItemSteal.esp",
             "MegaExplosions_x1.5.esp",
             "nuka_world_vb_height_fix.esp",
-            "MutilatedDeadBodies.esp",
             "UD_AlternateFarming_for_FROST.esp",
             "IV_Frost_Fungus_Farming.esp",
             "Jacq-FROST-CK-base.esp",
@@ -412,8 +419,8 @@ const fcf_check_plugins = [
             "FCF_Main.esp",
             "FCF_Previsibines.esp",
             "FCF_Previsibines-TheForest.esp",
-            "FCF_Previsibines-JSRS.esp",
-            "FCF_Previsibines-TheMarshlands.esp",
+            "FCF_Previsibines - JSRS.esp",
+            "FCF_Previsibines - TheMarshlands.esp",
             "FCF_Previsibines-MMHelipad.esp",
             "FCF_Hotfix.esp",
             "PLI_USAF_Satellite_Station_Olivia.esp",

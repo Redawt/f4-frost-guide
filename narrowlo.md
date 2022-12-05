@@ -73,6 +73,7 @@ The following rules show you how to structure your load order. Please use these 
 #### 5. Frost Main Files
 {: .hili}
 
+The following four plugins must be in this exact order! 
 - FROST.esp
 - RedsFrostFixes.esp
 - aFrostMod.esp
@@ -97,6 +98,7 @@ The following rules show you how to structure your load order. Please use these 
 No other files should come after the FCF .esp files. 
 The ONLY two exception to this rule are the Satellite Worldmap mod (SatelliteWorldMap.esp), and Item Sorter patches like Complex Sorter patches from xEdit. The two exceptions must be loaded after the FCF files. 
 If you don't follow these rules, bad things will happen!
+The FCF_Main.esp and FCF_Previsibines.esp must come first, and in the same order as below. After those two plugins all other FCF plugins must be loaded.
 
 - FCF_Main.esp
 - FCF_Previsibines.esp
