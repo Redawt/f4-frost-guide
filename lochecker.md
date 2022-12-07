@@ -46,6 +46,25 @@ const frost_core_plugins = [
   ];
 
 const incompatible_plugins =  [
+            "Alias - SuperMutants.esp",
+            "Alias - Gunner.esp",
+            "Alias - Brotherhood.esp",
+            "Alias - Triggermen.esp",
+            "Alias - Raiders.esp",
+            "ImmersiveLegendaryMutations.esp",
+            "LegendariesTheyCanUse.esp",
+            "Stuff of Legend.esp",
+            "Stuff of Legend - Far Harbor.esp",
+            "ECO.esp",
+            "Penetration Framework.esp",
+            "Better Explosives Redux.esp",
+            "ECO_INNRoverride.esp",
+            "CALIBER-COMPLEX.esm",
+            "WeaponsFramework.esm",
+            "Armament.esp",
+            "htcwHighLevelPerks.esp",
+            "FAR.esp",
+            "Conquest.esp",
             "MAIM Distributor.esp",
             "MAIM 2.esp",
             "MAIM 2 - Dismemberment Patch.esp",
@@ -315,12 +334,15 @@ const bad_plugins =  [
         ];
 
 const not_recommended_plugins =  [
+            "Regening Life Giver.esp",
+            "True Damage.esp",
+            "MiscellaneousPerksPack.esp",
+            "SKKHeadshotAnyActor.esl",
             "CaN.esm",
             "RealisticHunting.esp",
             "More Antibiotic Loot.esp",
             "More Power Armour Mods.esp",
             "More Power Armour Mods - Automatron.esp",
-            "ECO.esp",
             "Alex_Stripper_Pole_2.esp",
             "Scrap Everything - Ultimate Edition.esp",
             "Famished.esp",
