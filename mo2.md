@@ -34,10 +34,6 @@ Never use two mod managers for the same game at once. This will mess things up b
 1. Run **ModOrganizer.exe**{: .hili}
 2. You will be prompted with a pop-up called **Creating an instance**{: .hili}, in which you should just select **Next**{: .hili}
 3. On the next page, select **Create a portable instance**{: .hili}
-
-  ![Installation Prompt Image](https://themidnightride.github.io/img/mo2%20portable%20instance.png "Installation Prompt Image")
-
-{:start="4"}
 4. On the next page, select **Fallout 4**{: .hili}
 5. On the next page, keep the **Location**{: .hili} file path default
 
@@ -52,7 +48,7 @@ If you have MO2 installed on an SSD or a HDD with little space, you can check th
 
 
 ### Configuring Settings
-1. Select the ![Settings Button Image](https://themidnightride.github.io/img/mo2%20settings.png "Settings Button Image") mo2 settings button at the top of MO2 to open the settings
+1. Select the ![Settings Button Image](https://themidnightride.github.io/img/mo2%20settings.webp "Settings Button Image") mo2 settings button at the top of MO2 to open the settings
 2. In the **Theme**{: .hili} tab, you can select a different style from the drop-down menu at the top
     - I use the **vs15 Dark theme**{: .hili}
 3. In the **Nexus tab**{: .hili}, select **Connect to Nexus**{: .hili}

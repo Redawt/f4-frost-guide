@@ -14,6 +14,11 @@ aside:
 
 #### Not sure if a mod is compatible with FROST or not? Ask your question on our [FROST Discord Server](https://discord.com/invite/BaKsm7Fn4A)!
 
+## What item sorting mods should I use together with FROST?
+You can use a sorting mod of your choice, as long as it has an xEdit script that dynamically tags items specifically for your load order. Do not use premade plugins that add tags to items! Premade plugins are often outdated and revert items to an outdated version of themselves.
+I recommend to use [Complex Sorter](https://www.nexusmods.com/fallout4/mods/48826).
+
+
 ## How can I figure out if a mod is compatible with FROST?
 
 FROST changes is a complete overhaul of the game, so many mods have compatability issues with FROST.
@@ -33,7 +38,7 @@ Generally the following types of mods are compatible with FROST without a patch.
 
 # Incompatible Mod Types
 Generally the following type of mods are completely incompatible with FROST
-* Most mods that are gameplay and loot **Overhauls**, like **Horizon, Raider Overhaul, Damn Apocalypse, Better Locational Damage, AWKCR**...
+* Most mods that are **Overhauls**, like **Horizon, Raider Overhaul, Damn Apocalypse, MAIM, Sim Settlements (1 and 2), Better Locational Damage, AWKCR**...
 * Mods edit creatures that are not present in FROST (Supermutants, Insects, Synths, Mirelurks, Supermutant Hounds)
   * Simple texture replacers are fine
 * Mods that repair Previsibines and Precombines in a large amount of cells (Boston FPS Fix, PRP, ...)

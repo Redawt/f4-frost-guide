@@ -75,7 +75,7 @@ By default, Windows Explorer will not show file extensions (such as .exe, .dll, 
 7. Click **OK**{: .hili} then **Exit**{: .hili}
 
 
-### Disabling the [High Resolution Texture Pack/DLC](https://fallout.fandom.com/wiki/High_Resolution_Texture_Pack) from Bethesda (*O)
+### Disabling the [High Resolution Texture Pack/DLC](https://fallout.fandom.com/wiki/High_Resolution_Texture_Pack) from Bethesda
 When you installed the game again, it might be possible that you accidently installed the **High Resolution Texture Pack/DLC**{: .hili} from Bethesda. This DLC takes is not very well made. It barely makes the game look better, it decreases performance, it isn't optimised very well, and it causes several bugs. I don't recommend to use it, especially as texture mods from mod authors look a lot better.
 If you accidently installed it, here is are instructions on how to use uninstall it:
 * Go to your Steam Library by clicking "Library" at the top
@@ -84,5 +84,5 @@ If you accidently installed it, here is are instructions on how to use uninstall
 * Scroll to the bottom, if you have the season pass or a lot of dlc, click **Show all DLC**{: .hili}
 * Click on **High Resolution Texture Pack**{: .hili}
 * Click on "I want to remove this permanently from my game library"
-* **!!! Make sure It says High Resolution Texture Pack at the top, or you'll remove the entire game with no refund !!!**{: .hili}
+* **!!! Make sure it says High Resolution Texture Pack at the top, or you'll remove the entire game with no refund !!!**{: .hili}
 * Click **OK**

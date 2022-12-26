@@ -46,6 +46,25 @@ const frost_core_plugins = [
   ];
 
 const incompatible_plugins =  [
+            "ManufacturingExtended.esp",
+            "SS2_DLCSettlerPatch.esp",
+            "Modern Weapon Replacer - Glock 19x Ardent117 - 10mm Pistols.esp",
+            "Modern Weapon Replacer - Glock 19x Ardent117 - Deliverer.esp",
+            "Modern Weapon Replacer - Glock 19x Ardent117 - Gamma Guns.esp",
+            "Modern Weapon Replacer - CombinedArmsEXPack - Mk12 - Handmade Rifles.esp",
+            "Modern Weapon Replacer - CombinedArmsEXPack - Mk12 - Combat Rifles.esp",
+            "Modern Weapon Replacer - CombinedArmsEXPack - Mk12 - Assault Rifles.esp",
+            "ValdacilsItemSorting-00-ValsPicks-DLCVersion.esp",
+            "ValdacilsItemSorting-00-ValsPicks-NoDLCVersion-VanillaWeight.esp",
+            "ValdacilsItemSorting-00-ValsPicks-NoDLCVersion.esp",
+            "ValdacilsItemSorting-00-ValsPicks-DLCVersion-VanillaWeight.esp",
+            "LOST - AWKCR VIS-G Items and Weight.esp",
+            "Companion Infinite Ammo.esm",
+            "Energy Weapon Replacer - Wattz Laser Gun - Institute Guns.esp",
+            "Energy Weapon Replacer - Wattz Laser Gun - Laser Guns.esp",
+            "Energy Weapon Replacer - Wattz Laser Gun - Laser Muskets.esp",
+            "Modern Weapon Replacer - AK74M - Handmade Rifles.esp",
+            "Wanderer Description Fix.esp",
             "Alias - SuperMutants.esp",
             "Alias - Gunner.esp",
             "Alias - Brotherhood.esp",
@@ -334,6 +353,9 @@ const bad_plugins =  [
         ];
 
 const not_recommended_plugins =  [
+            "Better Manufacturing.esp",
+            "ValdacilsItemSorting-Mods.esp",
+            "BetterItemSorting.esp",
             "Regening Life Giver.esp",
             "True Damage.esp",
             "MiscellaneousPerksPack.esp",
@@ -391,7 +413,6 @@ const not_recommended_plugins =  [
             "WeightlessMods.esp",
             "WeightlessJunk.esp",
             "WeightlessMods.esp",
-            "WeightlessJunk.esp",
             "WeightlessAid.esp",
             "NoMedicsNoAmmoWeight.esp",
             "SimpleProstitutes.esl",
