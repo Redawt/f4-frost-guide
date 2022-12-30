@@ -75,6 +75,8 @@ You also need to download its FROST patch from the Nexus.
 ## Sound & Music
 #### More where that came From - Diamond City Radio Edition
 
+#### [GNN National Broadcast](https://www.nexusmods.com/fallout4/mods/54129)
+
 #### Atomic Radio 
 Download only the radio mod, not the quest mod!
 
@@ -117,5 +119,3 @@ You also need to download its FROST patch from the Nexus.
 #### Realistic Ragdoll Force
 
 #### Winter Main Menu Animated
-
-#### Screen Blur Removal
