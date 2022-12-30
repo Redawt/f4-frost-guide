@@ -236,7 +236,6 @@ const incompatible_plugins =  [
             "Live Dismemberment - Regular.esp",
             "BetterCompanions.esp",
             "AWKCR - Mod Power Armor Engine Glitch Fix.esp",
-            "ENBLightsHDRPatch.esp",
             "Campsite-AWKCR.esp",
             "WestTekTacticalOptics-AWKCR.esp",
             "AutomatronUnlocked.esp",
