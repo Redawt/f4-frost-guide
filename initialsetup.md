@@ -61,8 +61,6 @@ By default, Windows Explorer will not show file extensions (such as .exe, .dll, 
 2. Select the **View**{: .hili} tab at the top
 3. Check the box next to **File name extensions**{: .hili}
 
-![Image of Windows Explorer](https://themidnightride.github.io/img/show%20file%20extensions.png "How to display file extensions")
-
 
 ### Generating Fresh .INI Files
 

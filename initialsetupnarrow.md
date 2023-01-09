@@ -37,4 +37,4 @@ This guide doesn't tell you how to install general Fallout 4 bug fixes related t
 
 When the guide says to install a mod, it will be formatted as follows: **Main File - Unofficial Fallout 4 Patch 2.1.2b**{: .hili}. This is referring to the mod's **category** on Nexus, the **file name**, and the **file version**.  I will leave the file version out in many cases, in that case just download the newest version of the mod. 
 
-![Image of UFOP4 Files Section](https://themidnightride.github.io/img/download%20example.png "Image of UFOP4 Files Section")
+![Image of UFOP4 Files Section](https://themidnightride.github.io/img/download%20example.webp "Image of UFOP4 Files Section")

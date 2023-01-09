@@ -54,7 +54,7 @@ If you have MO2 installed on an SSD or a HDD with little space, you can check th
 3. In the **Nexus tab**{: .hili}, select **Connect to Nexus**{: .hili}
     * This option will not show up if you have already connected your Nexus account on a different MO2 instance
 
-  ![Connect to Nexus Image](https://themidnightride.github.io/img/mo2%20connect.png "Connect to Nexus Image")
+  ![Connect to Nexus Image](https://themidnightride.github.io/img/mo2%20connect.webp "Connect to Nexus Image")
 
 
 
@@ -67,7 +67,7 @@ If you have MO2 installed on an SSD or a HDD with little space, you can check th
 Mod Organizer 2's **Profiles feature** allows for easy switching between different mod configurations. This is especially useful because you can easily switch between a FROST Profile and a non-FROST profile if you have the desire to play FROST and normal Fallout 4. In this step, we will create a profile for the guide while keeping a strictly-vanilla profile for testing/de-bugging. Profiles can be selected via the drop-down menu above the left pane. 
 
 
-1. Select the ![Profiles Button Image](https://themidnightride.github.io/img/mo2%20profiles.png "Profiles Button Image") mo2 profiles button at the top of MO2 to open the profiles menu
+1. Select the ![Profiles Button Image](https://themidnightride.github.io/img/mo2%20profiles.webp "Profiles Button Image") mo2 profiles button at the top of MO2 to open the profiles menu
 2. Select the **Default profile**{: .hili}, then select **Copy**{: .hili}
 3. Name the new profile **FROST**{: .hili}
 Select the **FROST**{: .hili} profile and make sure **Use profile-specific Game INI Files**{: .hili} is checked at the bottom
@@ -136,7 +136,7 @@ If you are completely unfamiliar with Mod Organizer 2, I recommended watching [G
 
 When the guide says to install a mod, it will be formatted as follows: **Main File - Unofficial Fallout 4 Patch 2.1.2b**{: .hili}. This is referring to the mod's category on Nexus, the file name, and the file version. Sometimes I will leave the file version out.
 
-![Image of UFOP4 Files Section](https://themidnightride.github.io/img/download%20example.png "Image of UFOP4 Files Section")
+![Image of UFOP4 Files Section](https://themidnightride.github.io/img/download%20example.webp "Image of UFOP4 Files Section")
 
 Unless instructed otherwise, simply download the listed file using the **Mod Manager Download**{: .hili} button and install it through MO2. If you do not know how to install mods through MO2, please watch the video linked above. Sometimes, a mod will not have a **Mod Manager Download**{: .hili}, or will be hosted on a site other than Nexus. If that is the case, do the following: 
 

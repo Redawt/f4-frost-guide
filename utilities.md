@@ -31,11 +31,13 @@ If you need help with this step, you can also watch this [video](https://youtu.b
   2. Extract the contents of the **f4se_0_06_23**{: .hili} folder from the downloaded archive to the game's Root folder
   3. Make sure you are extracting all of the files *inside* of the **f4se_0_06_23**{: .hili} folder, not just the folder itself. 
 
-
-![F4SE in Root folder](https://themidnightride.github.io/img/f4se%20install.png "F4SE in Root folder")
-
 If you do not know what the Root folder is, read the Key Terminology section from the Initial Setup page.
 {: .info}
+
+If you did everything correctly, your **Root Folder**{: .hili} should look like this:
+
+![F4SE in Root folder](https://themidnightride.github.io/img/root.webp "F4SE in Root folder")
+
 
 In order for the script extender to work, you need to launch the game using the f4se_loader.exe file. It will automatically be added to Mod Organizer 2 upon restarting it. It should look like this:
 {: .info}
