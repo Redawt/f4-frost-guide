@@ -99,10 +99,15 @@ This is not a single mod, it is a collection of mods.
 
 #### Installation Instructions
 * Open this [PANPC Patches Google Drive repository](https://drive.google.com/drive/folders/1jGVL-7ItZf48k_gxB1D-nt5BuVtiXLTM)
-* Download one of the Frost PANPC patches (doesn't matter which one), and save it somewhere on your computer (like the 'Downloads'{: .path} folder on your computer)
+* Download one of the Frost PANPC patches, and save it somewhere on your computer (like the 'Downloads'{: .path} folder on your computer)
 * Once the download has finished, click the ![mo2 archive button](https://themidnightride.github.io/img/mo2%20archive.png) button at the top of MO2
 * From the new window, navigate to where the PANPC was downloaded to and double-click it
 * Finish the install normally
+* The FROST PANPC contains three .esp files:
+  * PANPC FROST Patch.esp
+  * PANPC FROST Polluted Climates Patch.esp
+  * PANPC FROST Snowy Weathers Patch.esp
+* You only need "PANPC FROST Patch.esp". Please deactivate the other two plugins, unless you want to use the mods "Frost Snowy Weathers" or the "Poluted Climate" mod
 
 **If you need help with this guide or have questions regarding FROST in any way, please do not ask them over at Greslin's Discord Server, but rather on the [Frost Discord Server](https://discord.com/invite/BaKsm7Fn4A)!!!**
 {:.error}
