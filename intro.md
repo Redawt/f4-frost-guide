@@ -52,7 +52,7 @@ I have two guides for you, the **Recommended Guide**{: .hili} and the **Basic Gu
 **Choose one!**
 Both guides are made with customisation in mind, which means that after you finished installing everything, the load order sections of the guide tell you where you can put additional mods into your load order. Additional mod recommendations will also be given, together with some information about which mods are compatible with FROST and which are not.
 
-**Alternatively, there is also a Wabbajack for FROST called "Stay FROSTy**{: .hili}
+**Alternatively, there is also a Wabbajack for FROST called "Stay FROSTy"**{: .hili}
 
 A wabbajack is an automated modlist installer, so it's your go-to solution if you don't want to manually install FROST. The Stay FROSTy Wabbajack is based on this guide and actively maintained.
 More information about the Wabbajack can be found here:
