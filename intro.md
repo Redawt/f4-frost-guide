@@ -32,7 +32,7 @@ sidebar:
 ## Overview
 Welcome to **{{ site.title }}**{: .hili}, a fully modular Fallout 4 FROST modding guide!
 The goal of this website if to teach you how to make a proper load order for FROST.
-You can pick one of two guides, one shows you how to make a proper Fallout 4 setup and Frost setup, the other one just shows you the mods that you absolutely need to play FROST in 2022. Everything that is mentioned in this guide is free to install and doesn't cost anything (with the obvious exception of Fallout 4).
+You can pick one of two guides, one shows you how to make a proper Fallout 4 setup and Frost setup, the other one just shows you the mods that you absolutely need to play FROST. Everything that is mentioned in this guide is free to install and doesn't cost anything (with the obvious exception of Fallout 4).
 
 
 ## Read this!
@@ -117,11 +117,11 @@ Well, we are are ready now. Click on **Requirements**{: .hili} below the Credits
 
 
 ## Credits
-- [The Midnight Ride Guide](https://themidnightride.github.io/index.html) which heavily inspired this guide. A lot of sections from my guide are identical to the Midnight Ride Guide. If you are planning to make a non-FROST Fallout 4 setup, you should use their guide.
+- [The Midnight Ride Guide](https://themidnightride.moddinglinked.com/index.html) which heavily inspired this guide. A lot of sections from my guide are identical to the Midnight Ride Guide. If you are planning to make a non-FROST Fallout 4 setup, you should use The Midnight Ride.
 - [u/Kanonking](https://www.reddit.com/user/Kanonking) for making the first proper FROST guide back in 2019 which inspired me and others to make our own guides
-- [Argonn](https://www.nexusmods.com/fallout4/users/37574150?tab=user+files) for putting together a FROST Guide which was more comprehensible then previous guides
+- [Argon](https://www.nexusmods.com/fallout4/users/37574150?tab=user+files) for putting together a FROST Guide which was more comprehensible then previous guides
 - [krrptd](https://www.nexusmods.com/fallout4/users/35409570) for providing his load order which inspired other FROST guides, and for making the FROST Cell Fixes
 - [BSJ Prophet](https://www.nexusmods.com/fallout4/users/103241948) for making Frost Plus and for always helping me out
 - [Naugrim04](https://www.nexusmods.com/fallout4/users/6324000) for creating FROST
-- Greslin for managing the FROST PANPC patch
+- [Greslin](https://fallout.wiki/wiki/Mod:Greslin) for managing the FROST PANPC patch
 - All of our users over at the FROST Discord

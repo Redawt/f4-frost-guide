@@ -36,7 +36,7 @@ aside:
 * This mod does not require a patch for FROST
 
 #### Installation Instructions
-* **Main File - Ultra Exterior Lighting 1.04** from [here](https://www.nexusmods.com/fallout4/mods/41625?tab=files)
+* **Main File - Ultra Exterior Lighting** from [here](https://www.nexusmods.com/fallout4/mods/41625?tab=files)
 
 ## **Read this too!**{: .hili}
 * **Download only one of the following lighting mods!**{: .hili}
@@ -59,6 +59,14 @@ aside:
 * **Main File - Ultra Interior Lighting 2.3** from [here](https://www.nexusmods.com/fallout4/mods/22101?tab=files)
 
 
+## [Enhanced Lights and FX](https://www.nexusmods.com/fallout4/mods/13596) (*O, *F)
+
+#### Description
+* Enhanced Lights and FX has the goal to create a more atmospheric and realistic lighting. It overhauls the lights, effects, ambient light and creates a new mood for interiors. 
+* This mod covers lighting of **interior**  cells
+
+#### Installation Instructions
+* **Main File - Enhanced Lights and FX**
 
 ## [Clarity - A Visual Overhaul](https://www.nexusmods.com/fallout4/mods/31991?tab=files) (*O, *F)
 
@@ -68,7 +76,7 @@ aside:
 * This mod covers lighting of **interior**  cells
 
 #### Installation Instructions
-* **Main File - Clarity 4.2**
+* **Main File - Clarity**
 
 
 ## [Enhanced Lighting for ENB (ELE)](https://www.nexusmods.com/fallout4/mods/42705?tab=files) (*O, *F)
@@ -79,7 +87,7 @@ aside:
 * This mod covers lighting of **interior**  cells
 
 #### Installation Instructions
-* **Main File - ELE Fo4 1.0.1**
+* **Main File - ELE Fo4**
 
 ## [Interiors Enhanced](https://www.nexusmods.com/fallout4/mods/8768?tab=files) (*O, *F)
 

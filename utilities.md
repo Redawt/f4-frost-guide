@@ -20,8 +20,6 @@ The titles on this guide are also links that you can click on to get to the mods
 
 
 ## [Fallout 4 Script Extender](https://f4se.silverlock.org/)
-If you need help with this step, you can also watch this [video](https://youtu.be/NkKFHjY7o-I?t=48).
-{: .info}
 
 #### Description
 * Extends the scripting capabilities of the game
@@ -36,7 +34,7 @@ If you do not know what the Root folder is, read the Key Terminology section fro
 
 If you did everything correctly, your **Root Folder**{: .hili} should look like this:
 
-![F4SE in Root folder](https://themidnightride.github.io/img/root.webp "F4SE in Root folder")
+![F4SE in Root folder](./assets/images/root.webp "F4SE in Root folder")
 
 
 In order for the script extender to work, you need to launch the game using the f4se_loader.exe file. It will automatically be added to Mod Organizer 2 upon restarting it. It should look like this:
@@ -50,7 +48,7 @@ In order for the script extender to work, you need to launch the game using the 
 - Allows F4SE plugins to be loaded before the game initializes
 
 #### Installation Instructions
-1. Download the **Main File - xSE PluginPreloader F4 0.2.5.1**{: .hili} using the **Manual Download**{: .hili} button
+1. Download the **Main File - xSE PluginPreloader**{: .hili} using the **Manual Download**{: .hili} button
 2. From the download archive, extract the two files to the game's **Root**{: .hili} folder
 
 
@@ -61,7 +59,7 @@ In order for the script extender to work, you need to launch the game using the 
 - Resource required for other F4SE plugins
 
 #### Installation Instructions
-* **Main File - Address Library 1.10.163.0**
+* **Main File - Address Library**
 
 If you do not know what these instructions mean, or how to install mods with MO2, **read the Mod Installation Advice**{: .hili} section from the MO2 page again!
 {: .info}
@@ -77,7 +75,7 @@ After installing with a mod with MO2, make sure you check the box next to it in 
 - Fixes numerous engine bugs and scripts, and also provides helpful crash logs when you game crashes.
 
 #### Installation Instructions
-  * Download and install the **Main File - Buffout 4 1.26.2**{: .hili} normally through MO2
+  * Download and install the **Main File - Buffout**{: .hili} normally through MO2
   * If you encounter problems with Buffout 4, check out this [article](https://www.nexusmods.com/fallout4/articles/3115)
 
 Without the [Microsoft VC++ 2015-2022](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) (x86 and x64 versions) which was mentioned in the requirements section of the guide, Buffout 4 and the xSE Preloader will not work properly. Make sure that you've installed it!
@@ -90,7 +88,7 @@ Without the [Microsoft VC++ 2015-2022](https://docs.microsoft.com/en-us/cpp/wind
 - Allows for playing at framerates over 60, mitigates stutter, and reduces load times
 
 #### Installation Instructions
-1. Download and install the **Main File - High FPS Physics Fix 0.8.4-5**{: .hili} normally through MO2
+1. Download and install the **Main File - High FPS Physics Fix**{: .hili} normally through MO2
 2. Once the mod has been installed, double-click on it in the left pane of MO2
 3. In the **INI-Files**{: .hili} tab, select `F4SE/Plugins/HighFPSPhysicsFix.ini`{: .path}
 4. Change the following options:

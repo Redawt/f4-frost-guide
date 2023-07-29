@@ -22,10 +22,6 @@ If you run into any issues at any point in the guide, feel free to ask for help 
 
 ### Uninstalling the Game
 
-If you do not have the game installed yet, skip this step.
-You can also watch this [video tutorial](https://www.youtube.com/watch?v=zwTJ3jImCiQ) if you don't understand this step. 
-{:.info}
-
   1. Open Steam and go to your **Library**{: .hili}
   2. Find **Fallout 4**{: .hili} in the list
   3. Right-click on it and select **Manage -> Uninstall**{: .hili}
@@ -42,6 +38,8 @@ Program Files is a special Windows System folder, and Fallout 4 doesn't load mod
   2. Find **Fallout 4**{: .hili} in the list and select **Install**
   3. Select **Next**{: .hili} then wait for the install to finish
 
+Make sure to install the English version of Fallout 4 for maximum immersion.
+If you do not use the English version, the intro video which is shown when starting a new game might not have audio.
 
 
 

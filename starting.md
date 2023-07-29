@@ -24,9 +24,10 @@ If your game crashes or shows a warning for some reason, that most likely means 
 In the main menu, you should go into the settings to adjust a few things to your liking, like the color of your HUD and your Pip Boy. Make sure to switch on dialogue subtitles! The mod Frost Plus adds a few voiced characters, but some of them are not voiced yet or only partially voiced. You need the dialogue subtitles for that reason.
 
 ## Click New Game
-After clicking New Game, the normal Fallout 4 Intro will play. In future FROST update sthe video will be replaced with another video. Just skip the video.
-
-If the video doesn't play and you are in a very long loading screen, this is an indicator that you installed to many mods which initialise scripts at the start of the game. Known culprits are weapon mods and NPCs travel. In that case, you might want to uninstall those mods, and install them after the start of the game. 
+After clicking New Game, a small FROST intro video will play.
+If that video doesn't have sound for you, you probrbaly forgot to switch the game's language to English.
+The game plays different audio files of the intro video depending on the language of the game.
+We only added the english audio file to the intro video.
 
 
 ## Sanctuary Bathroom
@@ -43,10 +44,10 @@ You can now open the door, and two nice gentlemen will greet you with a hit to t
 You have to get up from your chair, activate the door, chose your name and SPECIAL stats, and then walk down the stairs. Activate the terminal there to deactivate the gray image overlay, and use the character creation option of the terminal. Change the appearence of your character here. 
 
 After that, configure your MCM settings before you use one of the doors to get to the starting locations.
-The most important things you should do is to change the hunger setting in the Survival Configuration Menu (SMM) MCM, so that food doesn't sate your hunger based on its weight, but on its value instead.
-
-You should also check out the FROST MCM to configure stuff to your liking, and to set a hotkey for the Action Menu. The Action Menu can be used to place camping equipment from the Campsite mod, and to use crafting kits from FROST, as well as to attract the attention of enemies throuigh the "Make some noise" button. 
+You should check out the FROST MCM to configure stuff to your liking, and to set a hotkey for the Action Menu. The Action Menu can be used to place camping equipment from the Campsite mod, and to use crafting kits from FROST, as well as to attract the attention of enemies throuigh the "Make some noise" button. 
 After you configured everything, you should make a save file, either through the pause menu, or with the console command `save [custom name for your safe file]`.
 
 ## Choose a starting location
 You can now choose one of the starting locations. If you are new to FROST, check out thr Highway Start and the Access Tunnel start. If you don't like a starting locations, just load the save file you made and check out another one.
+At each starting location you will find a duffle bag with a Mine Detector, some bottles and a tutorial holotape.
+(If you chose the Highway start, make sure to open your inventory and to unequip the blindfold)

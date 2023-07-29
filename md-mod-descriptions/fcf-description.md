@@ -24,3 +24,4 @@ Do not select **merge**{: .hili} or **replace**{: .hili} when installing these f
     * The Ultra Exterior Lighting mod does not need a patch for FCF
 * **Hotfix**
     * If there currently is a hotfix in the **Update Files** section of FCF, download and install it too please!
+    * Do **NOT** install any hotfixes that are listed in the **Archived Files** or the **Old Files** section!

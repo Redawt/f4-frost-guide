@@ -28,7 +28,7 @@ aside:
 * Fixes thousands of bugs with both the base game and DLCs
 
 #### Installation Instructions
-  * **Main File - Unofficial Fallout 4 Patch 2.1.3**
+  * **Main File - Unofficial Fallout 4 Patch**
 
 
 
@@ -38,7 +38,7 @@ aside:
 * Stops the camera from stuttering while sprinting on uneven surfaces
 
 #### Installation Instructions
-* **Main File - Sprint Stuttering Fix 1.2 (the top one)**
+* **Main File - Sprint Stuttering Fix (the top one)**
 
 ## [Weapon Debris Crash Fix](https://www.nexusmods.com/fallout4/mods/48078)
 
@@ -49,7 +49,7 @@ aside:
 * Fixes crashes with the weapon debris setting enabled, specifically on NVIDIA cards
 
 #### Installation Instructions
-  * **Main File - Weapon Debris Crash Fix 1.2**
+  * **Main File - Weapon Debris Crash Fix**
 
 
 ## [Bullet Counted Reload System](https://www.nexusmods.com/fallout4/mods/41178)
@@ -59,8 +59,8 @@ aside:
 * Fixes the infamous reload bug with lever action weapons
 
 #### Installation Instructions
-* **Main File - Bullet Counted Reload - v2.00**
-* **Optional File - BCR- Lever Action Rifle v1.02**
+* **Main File - Bullet Counted Reload**
+* **Optional File - BCR- Lever Action Rifle**
 
 
 
@@ -71,5 +71,5 @@ aside:
 *  Replaces the full opacity item highlight during crafting with a much more clear outline
 
 #### Installation Instructions
-* **Main File - Crafting Highlight Fix 1.8.8**
+* **Main File - Crafting Highlight Fix**
 

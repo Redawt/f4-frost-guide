@@ -48,13 +48,13 @@ If you have MO2 installed on an SSD or a HDD with little space, you can check th
 
 
 ### Configuring Settings
-1. Select the ![Settings Button Image](https://themidnightride.github.io/img/mo2%20settings.webp "Settings Button Image") mo2 settings button at the top of MO2 to open the settings
+1. Select the ![Settings Button Image](./assets/images/mo2_settings.webp "Settings Button Image") mo2 settings button at the top of MO2 to open the settings
 2. In the **Theme**{: .hili} tab, you can select a different style from the drop-down menu at the top
     - I use the **vs15 Dark theme**{: .hili}
 3. In the **Nexus tab**{: .hili}, select **Connect to Nexus**{: .hili}
     * This option will not show up if you have already connected your Nexus account on a different MO2 instance
 
-  ![Connect to Nexus Image](https://themidnightride.github.io/img/mo2%20connect.webp "Connect to Nexus Image")
+  ![Connect to Nexus Image](./assets/images/mo2_connect.webp "Connect to Nexus Image")
 
 
 
@@ -67,7 +67,7 @@ If you have MO2 installed on an SSD or a HDD with little space, you can check th
 Mod Organizer 2's **Profiles feature** allows for easy switching between different mod configurations. This is especially useful because you can easily switch between a FROST Profile and a non-FROST profile if you have the desire to play FROST and normal Fallout 4. In this step, we will create a profile for the guide while keeping a strictly-vanilla profile for testing/de-bugging. Profiles can be selected via the drop-down menu above the left pane. 
 
 
-1. Select the ![Profiles Button Image](https://themidnightride.github.io/img/mo2%20profiles.webp "Profiles Button Image") mo2 profiles button at the top of MO2 to open the profiles menu
+1. Select the ![Profiles Button Image](./assets/images/mo2_profiles.webp "Profiles Button Image") mo2 profiles button at the top of MO2 to open the profiles menu
 2. Select the **Default profile**{: .hili}, then select **Copy**{: .hili}
 3. Name the new profile **FROST**{: .hili}
 Select the **FROST**{: .hili} profile and make sure **Use profile-specific Game INI Files**{: .hili} is checked at the bottom
@@ -84,7 +84,7 @@ You may get a pop-up called **INI file is read-only**{: .hili} when attempting t
 ## Enable Loose Files
 This is a very important step!
 1. Make sure the **FROST**{: .hili} profile is active
-2. Click the ![mo2 ini button](https://themidnightride.github.io/img/mo2%20ini.png "mo2 ini button") at the top of MO2 and select **INI Editor**{: .hili}
+2. Click the ![mo2 ini button](./assets/images/mo2_ini.webp "mo2 ini button") at the top of MO2 and select **INI Editor**{: .hili}
 3. Select the **Fallout4Custom.ini**{: .hili} tab
 4. Paste in the following to **enable lose files**{: .hili}:
 ```
@@ -104,7 +104,7 @@ These settings allow for files from mods to be loaded in-game. It is intentional
 In this step, we will configure the game's INI files to increase performance/stability at minimal visual cost. 
 
 1. Make sure the **FROST**{: .hili} profile is active
-2. Click the ![mo2 ini button](https://themidnightride.github.io/img/mo2%20ini.png "mo2 ini button") at the top of MO2 and select **INI Editor**{: .hili}
+2. Click the ![mo2 ini button](./assets/images/mo2_ini.webp "mo2 ini button") at the top of MO2 and select **INI Editor**{: .hili}
 3. Select the **Fallout4Prefs.ini**{: .hili} tab
 4. Use ctrl+f to find and change the following options
   * Set **fDirShadowDistance** to 7000
@@ -123,7 +123,7 @@ These settings tweak shadows to drastically improve performance without much vis
 
 
 ## How to MO2 
-If you need some information and help on how to use MO2, here are some helpful links:
+If you need some information and help on how to use MO2, here are some helpful links.
 * [GamerPoets' Videos: How to Use MO2](https://www.youtube.com/playlist?list=PLlN8weLk86Xh3ue76x2ibqtmMramwQmHB)
   * A small video series to learn how to do things in MO2
 * [MO2 Sorting Crashcourse](https://github.com/sower-j/modding-guides/blob/main/mo2-sorting-crashcourse.md)
@@ -136,12 +136,12 @@ If you are completely unfamiliar with Mod Organizer 2, I recommended watching [G
 
 When the guide says to install a mod, it will be formatted as follows: **Main File - Unofficial Fallout 4 Patch 2.1.2b**{: .hili}. This is referring to the mod's category on Nexus, the file name, and the file version. Sometimes I will leave the file version out.
 
-![Image of UFOP4 Files Section](https://themidnightride.github.io/img/download%20example.webp "Image of UFOP4 Files Section")
+![Image of UFOP4 Files Section](./assets/images/download_example.webp "Image of UFOP4 Files Section")
 
 Unless instructed otherwise, simply download the listed file using the **Mod Manager Download**{: .hili} button and install it through MO2. If you do not know how to install mods through MO2, please watch the video linked above. Sometimes, a mod will not have a **Mod Manager Download**{: .hili}, or will be hosted on a site other than Nexus. If that is the case, do the following: 
 
 1. Click the **Manual Download**{: .hili} button (or whatever the download button is for the respective site)
-2. Once the download has finished, click the ![mo2 archive button](https://themidnightride.github.io/img/mo2%20archive.png) button at the top of MO2
+2. Once the download has finished, click the ![mo2 archive button](./assets/images/mo2_archive.webp) button at the top of MO2
 3. From the new window, navigate to where the file was downloaded to and double-click it
 4. Finish the install normally
 

@@ -11,6 +11,7 @@
     * If you install this mod, you will have an option to install 
         * a Campsite patch
         * a CBBE patch
-        * some other optional plugins
+        * a Survival Configuration Menu (SCM) patch
+        * some optional plugins
     * Install those patches if you use the respective mods
     * Install the optional plugins if you want to use them

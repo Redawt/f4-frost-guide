@@ -27,10 +27,9 @@ You can sort your load order on the **right** panel of MO2 in the **plugins**{: 
 
 
 ## About LOOT
-**LOOT**{: .hili} is a tool that is integrated into **Vortex**{: .hili} and **MO2**{: .hili} and can automatically sort your load order.
-Its sorting rules are often outdated when it comes to Fallout 4 mods, especially to FROST. I do not recommend to use it, as it often destroys FROST load orders based on outdated information. **LOOT is not a reliable tool for sorting Fallout 4 load orders!**{: .hili}
+**LOOT**{: .hili} is a tool which automatically sorts load orders.
+Its sorting rules are often outdated or do not exist at all when it comes to Fallout 4 mods, especially to FROST. I do not recommend to use it, as it often destroys FROST load orders based on outdated information. **It is not a reliable tool for sorting Fallout 4 load orders!**{: .hili}
 LOOT is also not reliable as it doesn't know every plugin, so even if you want to use it, you will still have to sort stuff manually.
-
 
 Before you start adding additional mods that are not mentioned in the guide, make sure to read the [compatability section](./compatability.html) of the guide! It lists which mods and mod types are problematic, and which are okay to use!
 {: .warning}
@@ -42,7 +41,11 @@ If that is the case, you didn't follow the guide correctly! The red triangle ind
 You can than hover over the plugin name with your mouse, and MO2 will display a small pop-up which tells you what master plugin is missing.
 
 ## How to structure your Load Order
-The following rules show you how to structure your load order. Please use these rules to sort your load order. An example load order can be found below if you need an example on how it should look like in the end.
+The following rules show you how to structure your load order. 
+Please use these rules to sort your load order. 
+An example load order can be found below if you need an example on how it should look like in the end.
+The rules indicate where to place your mods starting from the top of your load order down to the end of your load order.
+Example: Rule 1 is about which mods need to be at the top of your load order, rule 2 is about which mods need to come after the mods of rule 1 etc.
 
 There is also an **Automated Load Order Checker**{: .hili} below which can check if your load order has problems.
 
@@ -77,7 +80,8 @@ Put all .esm files and .esm flagged .esp files here
 #### 3. Frost Unrelated Mods I
 {: .hili}
 
-Put all mods that are unrelated to FROST and don't need a frost patch here
+Put all mods that are unrelated to FROST and don't need a frost patch here.
+Weather should not be placed here though, they need to be loaded later if possible.
 * GCM_DLC_Automatron.esl
 * GCM_DLC_Far_Harbor.esl
 * GCM.esp
@@ -132,14 +136,21 @@ Put all other FROST standalone mods here
 Put all mods here that patch a certain mod for FROST
 * PANPC FROST Patch.esp
 * RedsFrostCampsitePatch.esp
+* RedsFrostSCM.esp
 * ...
 
+#### 8. Weather Mods
+{: .hili}
+Weather mods need to be loaded here.
+Notes: 
+- The Automatic Load Order checker below does not know which mods are weather mods, and therefore might complain. You can ignore the load order checker in such cases. Certain Weather mods are esm files and can't be loaded here. In that case they need to be loaded at the top of the load order (see rule 1), and require a patch for FROST that needs to be loaded here.
+- NACX does not need a patch for FROST anymore and needs to be loaded at the top of the load order
 
-#### 8. Frost Cell Fixes (FCF)
+#### 9. Frost Cell Fixes (FCF)
 {: .hili}
 
-No other files should come after the FCF .esp files. 
-The ONLY two exception to this rule are the Satellite Worldmap mod (SatelliteWorldMap.esp), and Item Sorter patches like Complex Sorter patches from xEdit. The two exceptions must be loaded after the FCF files. 
+No other files should come after the FCF .esp files, except very special mods.
+Two exception to this rule are the Satellite Worldmap mod (SatelliteWorldMap.esp), and Item Sorter patches like Complex Sorter patches from xEdit. The two exceptions must be loaded after the FCF files.
 If you don't follow these rules, bad things will happen!
 The FCF_Main.esp and FCF_Previsibines.esp must come first, and in the same order as below. After those two plugins all other FCF plugins must be loaded.
 
@@ -195,6 +206,7 @@ FROST - Hunkered Down.esp
 FROST - Hunkered Down-Settlements.esp
 PANPC FROST Patch.esp
 RedsFrostCampsitePatch.esp
+RedsFrostSCM.esp
 FCF_Main.esp
 FCF_Previsibines.esp
 ```

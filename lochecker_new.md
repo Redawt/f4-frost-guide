@@ -29,9 +29,32 @@ Do not use automatically generated bashed patches together with FROST or Fallout
 
 <script>
 
+class F4Mod {
+  constructor(name, plugins, description, note) {
+    this.name = name;
+    this.plugin = plugin;
+    this.descr = description;
+    this.note = note;
+  }
+}
+
+// {"plugin": , "name": , "link": , "text", }
+
 const required_plugins =  [
-            "Unofficial Fallout 4 Patch.esp",
-            "FROST.esp",
+            new F4Mod(
+              "Unofficial Fallout 4 Patch",
+              ["Unofficial Fallout 4 Patch.esp"],
+              "The Unofficial Fallout 4 Patch which fixes many vanilla bugs. This mod is part of the guide and essential for every FROST setup.",
+              ""
+            ),
+            new F4Mod(
+              "FROST Survival Simulator",
+              ["FROST.esp"],
+            ),
+            {"plugin": "FROST.esp", "name": "Frost Survival Simulator", "link": "https://www.nexusmods.com/fallout4/mods/18898", "text": ""}.
+            {"plugin": "RedsFrostFixes.esp", "name": , "link": , "text", },
+            {"plugin": "aFrostMod.esp", "name": , "link": , "text", },
+            {"plugin": "FROST - UFO4P Patch.esp", "name": , "link": , "text", }
             "RedsFrostFixes.esp",
             "aFrostMod.esp",
             "FROST - UFO4P Patch.esp",
@@ -184,6 +207,7 @@ const incompatible_plugins =  [
             "Z_Horizon_DLC_Workshop01.esp",
             "Z_Horizon_DLC_Workshop02.esp",
             "Z_Horizon_DLC_Workshop03.esp",
+            "EnhancedLightsandFX.esp",
             "Wasteland Heroines Replacer All in One_2.0.esp",
             "PRP.esp",
             "PPF.esm",
@@ -460,15 +484,10 @@ const fcf_check_plugins = [
             "FCF_Main.esp",
             "FCF_Previsibines.esp",
             "FCF_Previsibines-TheForest.esp",
-            "FCF_Previsibines-JSRSRegions.esp",
-            "FCF_Previsibines-TheMarshlands.esp",
-            "FCF_Previsibines-ELFX.esp",
+            "FCF_Previsibines - JSRS.esp",
+            "FCF_Previsibines - TheMarshlands.esp",
             "FCF_Previsibines-MMHelipad.esp",
-            "FCF_Previsibines-Oberland.esp",
-            "FCF_Previsibines-Drawbridges.esp",
-            "FCF_Previsibines-MFG.esp",
             "FCF_Hotfix.esp",
-            "FCF_Previsibines-Hotfix.esp",
             "PLI_USAF_Satellite_Station_Olivia.esp",
             "PLI_USAF_Olivia FROSTified.esp",
             "Synthesis.esp",
@@ -558,8 +577,7 @@ const fcf_check_plugins = [
         let plugin = plugin_list[i];
         let pluginS = plugin.toLowerCase()
         //alert(plugin)
-        const exception_list = ["IV_Misc_BoiledWaterBottles.esp", "IV_HC_Perk_Updated.esp","Cat Meat Recipe.esp","SatelliteWorldMap.esp", "PLI_USAF_Satellite_Station_Olivia.esp", "M8r Complex Sorter.esp", "ChillGhouls.esp", "VividWeatherDarkerNWindier.esp", "Nuclear weather.esp",
-        "PollutedClimate.esp", "Calamity Weathers.esp", "Calamity Weathers - Far Harbor.esp", "Calamity Weathers - Nuka World.esp", "Calamity Weathers - Winter climate.esp", "PollutedClimate-Winter.esp", "Simple Winter Weather.esp"];
+        const exception_list = ["IV_Misc_BoiledWaterBottles.esp", "IV_HC_Perk_Updated.esp","Cat Meat Recipe.esp","SatelliteWorldMap.esp", "PLI_USAF_Satellite_Station_Olivia.esp", "M8r Complex Sorter.esp", "ChillGhouls.esp"];
         if (!pluginS.includes("frost") && !pluginS.includes("rff") && !pluginS.includes("fcf") && exception_list.indexOf(plugin_list[i]) < 0){
           result_list.push(plugin)
         }
