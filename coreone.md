@@ -90,7 +90,7 @@ aside:
 * **Main Files - Campsite - Simple**
 
 
-## [Pack Attack NPC (PANPC)](https://discord.gg/RbX5eVYEKE) (*O, *D, *F)
+## [Pack Attack NPC (PANPC)](https://discord.gg/jMUnXDV) (*O, *D, *F)
 
 
 #### Description
@@ -99,7 +99,7 @@ aside:
 
 #### Installation Instructions
 **Join the Discord Server:**
-* Join the [Greslin Games Discord Server](https://discord.gg/RbX5eVYEKE)
+* Join the [Greslin Games Discord Server](https://discord.gg/jMUnXDV)
 * Read the **#read-this-first** channel of the server
 * Go to the **#role-request** channel and ask for the Citizen Role
   * It might take a while until you get that role (up to 8 hours)
