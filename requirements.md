@@ -11,7 +11,7 @@ sidebar:
 
 #### This section will tell you more about some requirements of this guide.
 
-## You need...
+## You need... 
 
 - An English copy of Fallout 4 from Steam 
   - The Recommended Guide will tell you how to properly install Fallout 4
