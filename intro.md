@@ -29,6 +29,11 @@ sidebar:
 
 ---
 
+## READ THIS !!!
+This guide will currently NOT work with the Fallout 4 update released on 24th April 2024.
+I will update the guide and remove this warning as soon as possible, but it might take some time.
+It also depends on how fast other mod authors will update their mods.
+
 ## Overview
 Welcome to **{{ site.title }}**{: .hili}, a fully modular Fallout 4 FROST modding guide!
 The goal of this website if to teach you how to make a proper load order for FROST.
@@ -36,6 +41,7 @@ You can pick one of two guides, one shows you how to make a proper Fallout 4 set
 
 
 ## Read this!
+* I recommend taking a few minutes to read through the guide completely first before following it
 * Everything in this guide is written down for a reason. **Read everything carefully**{: .hili}
 * You can **NOT** skip any paragraphs/instructions and expect your game to function as it should.
 * Most things are in a **chronological order**{: .hili}.
@@ -51,14 +57,6 @@ You can pick one of two guides, one shows you how to make a proper Fallout 4 set
 I have two guides for you, the **Recommended Guide**{: .hili} and the **Basic Guide**{: .hili}. 
 **Choose one!**
 Both guides are made with customisation in mind, which means that after you finished installing everything, the load order sections of the guide tell you where you can put additional mods into your load order. Additional mod recommendations will also be given, together with some information about which mods are compatible with FROST and which are not.
-
-**Alternatively, there is also a Wabbajack for FROST called "Stay FROSTy"**{: .hili}
-
-A wabbajack is an automated modlist installer, so it's your go-to solution if you don't want to manually install FROST. The Stay FROSTy Wabbajack is based on this guide and actively maintained.
-More information about the Wabbajack can be found here:
-
-* [Fallout 4 Experiences Discord](https://discord.gg/strraNQxEQ)
-* [Fallout 4 Experiences Website for Stay FROSTy](https://www.fallout4experiences.com/stay-frosty)
 
 ### 1. Recommended Guide
 The Recommended Guide will carefully walk you through how to: 
@@ -87,6 +85,12 @@ This guide is recommended for people who
 * just want to try out FROST,
 * are too lazy to make a more advanced mod setup,
 * **and** for people who are experienced enough in modding Bethesda games and just need information about what you absolutely need to play FROST
+
+### Alternative: Unofficial Below Zero Wabbajack**{: .hili}
+
+A wabbajack is an automated modlist installer, so it's your go-to solution if you don't want to manually install FROST by following this guide.
+Here is a link to the [Unofficial Below Zero Wabbajack](https://github.com/St1ck2k/FROST---Below-Zero-Fallout-4-Wabbajack-Modlist/tree/main)
+The Wabbajack might be outdated or not updated as often, it is unofficial, use it at your own risk!
 
 ### About the mods
 * Optional mods are flagged with **\*O**{: .hili} in their title.

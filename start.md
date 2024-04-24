@@ -21,8 +21,11 @@ We can now start with the modding guide(s). Choose the guide that you prefer by 
 \
 \
 [![Recommended Guide](./assets/images/recommended_guide.png)](./initialsetup){: .center-image}
-\
-\
-Alternatively, you can use ScreamingLake's Wabbajack "Stay FROSTy". A Wabbajack is a mod-pack that can be installed with a few clicks, and includes most/all mods you need already. 
-For more information, visit ScreamingLakes's [Discord](https://discord.gg/strraNQxEQ) and their [website](https://www.fallout4experiences.com/stay-frosty)
 
+
+
+#### Alternative: Unofficial Below Zero Wabbajack
+
+A wabbajack is an automated modlist installer, so it's your go-to solution if you don't want to manually install FROST by following this guide.
+Here is a link to the [Unofficial Below Zero Wabbajack](https://github.com/St1ck2k/FROST---Below-Zero-Fallout-4-Wabbajack-Modlist/tree/main)
+The Wabbajack is unofficial, use it at your own risk.
