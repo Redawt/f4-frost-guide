@@ -44,14 +44,14 @@ aside:
 * **Main File - HUDFramework 1.0f**
 
 
-## [Immersive HUD](https://www.nexusmods.com/fallout4/mods/20830) (* O)
+## [Immersive HUD](https://www.nexusmods.com/fallout4/mods/20830?tab=files&file_id=112759&nmm=1) (* O)
 
 
 #### Description
 * Gives you full control over the visibility of the HUD
 
 #### Installation Instructions
-* **Main File - Immersive HUD - iHUD 3.0**
+* **Old Files - Immersive HUD - iHUD 3.0** (Click the blue title above for a direct link to the correct version).
 
 
 ## [FallUI](https://www.nexusmods.com/fallout4/articles/3041) (*O)

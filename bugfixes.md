@@ -22,34 +22,34 @@ aside:
 2. Name the separator **Bug Fixes**{: .hili}
 
 
-## [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598)
+## [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598?tab=files&file_id=270951&nmm=1)
 
 #### Description
 * Fixes thousands of bugs with both the base game and DLCs
 
 #### Installation Instructions
-  * **Main File - Unofficial Fallout 4 Patch**
+  * **Old Files - Unofficial Fallout 4 Patch 2.1.5** (Click the blue title above for a direct link to the correct version).
 
 
 
-## [Sprint Stutter Fix](https://www.nexusmods.com/fallout4/mods/47760)
+## [Sprint Stutter Fix](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=196371&nmm=1&game_id=1151)
 
 #### Description
 * Stops the camera from stuttering while sprinting on uneven surfaces
 
 #### Installation Instructions
-* **Main File - Sprint Stuttering Fix (the top one)**
+* **Main File - Sprint Stuttering Fix 1.2** (Click the blue title above for a direct link to the correct version).
 
-## [Weapon Debris Crash Fix](https://www.nexusmods.com/fallout4/mods/48078)
+## [Weapon Debris Crash Fix](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=194684&nmm=1&game_id=1151)
 
-**NOTE:**{: .hili} This mod is only needed for users with NVIDIA GPUs.
+**NOTE:**{: .hili} This fix is needed only by users of Nvidia GPUs newer than Pascal (10 series).
 {: .info}
 
 #### Description
 * Fixes crashes with the weapon debris setting enabled, specifically on NVIDIA cards
 
 #### Installation Instructions
-  * **Main File - Weapon Debris Crash Fix**
+  * **Main Files - Weapon Debris Crash Fix 2.3** (Click the blue title above for a direct link to the correct version).
 
 
 ## [Bullet Counted Reload System](https://www.nexusmods.com/fallout4/mods/41178)
@@ -59,8 +59,8 @@ aside:
 * Fixes the infamous reload bug with lever action weapons
 
 #### Installation Instructions
-* **Main File - Bullet Counted Reload**
-* **Optional File - BCR- Lever Action Rifle**
+* **Main File - Bullet Counted Reload  - v2.00**
+* **Optional File - BCR- Lever Action Rifle v1.02**
 
 
 

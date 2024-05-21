@@ -19,15 +19,16 @@ The titles on this guide are also links that you can click on to get to the mods
 {: .info}
 
 
-## [Fallout 4 Script Extender](https://f4se.silverlock.org/)
+## [Fallout 4 Script Extender](https://www.nexusmods.com/fallout4/mods/42147?tab=files&file_id=253313)
 
 #### Description
 * Extends the scripting capabilities of the game
 
 #### Installation Instructions
-  1. Click the topmost download link next to **Fallout 4 runtime 1.10.163 - build: 0.6.23**{: .hili}
-  2. Extract the contents of the **f4se_0_06_23**{: .hili} folder from the downloaded archive to the game's Root folder
-  3. Make sure you are extracting all of the files *inside* of the **f4se_0_06_23**{: .hili} folder, not just the folder itself. 
+
+1. Main Files - Fallout 4 Script Extender (F4SE) 0.6.23 (Manual download, click the blue title above for a direct link to the correct version).
+2. From the downloaded archive, extract everything to the game's Root folder.
+
 
 If you do not know what the Root folder is, read the Key Terminology section from the Initial Setup page.
 {: .info}
@@ -51,6 +52,17 @@ In order for the script extender to work, you need to launch the game using the 
 1. Download the **Main File - xSE PluginPreloader**{: .hili} using the **Manual Download**{: .hili} button
 2. From the download archive, extract the two files to the game's **Root**{: .hili} folder
 
+## [Simple Fallout 4 Downgrader](https://www.nexusmods.com/fallout4/mods/81933)
+
+#### Description
+- Reverts game code to version 1.10.163 for wider modding support.
+
+#### Installation instructions:
+
+- **Main Files - Simple Fallout 4 Downgrader**
+  - From the downloaded archive, extract everything to the game's Root folder.
+  - Double-click the downgrader executable to launch it.
+  - Wait for the "Patching successful" message in the console window that just opened, then you can close it.
 
 
 ## [Address Library for F4SE Plugins](https://www.nexusmods.com/fallout4/mods/47327)
@@ -59,7 +71,7 @@ In order for the script extender to work, you need to launch the game using the 
 - Resource required for other F4SE plugins
 
 #### Installation Instructions
-* **Main File - Address Library**
+* **Main Files - Address Library - All In One**
 
 If you do not know what these instructions mean, or how to install mods with MO2, **read the Mod Installation Advice**{: .hili} section from the MO2 page again!
 {: .info}
@@ -82,13 +94,13 @@ Without the [Microsoft VC++ 2015-2022](https://docs.microsoft.com/en-us/cpp/wind
 {: .info}
 
 
-## [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)
+## [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798?tab=files&file_id=242328&nmm=1)
 
 #### Description
 - Allows for playing at framerates over 60, mitigates stutter, and reduces load times
 
 #### Installation Instructions
-1. Download and install the **Main File - High FPS Physics Fix**{: .hili} normally through MO2
+1. Download and install the **Main File - High FPS Physics Fix 0.8.6** (Click the blue title above for a direct link to the correct version)
 2. Once the mod has been installed, double-click on it in the left pane of MO2
 3. In the **INI-Files**{: .hili} tab, select `F4SE/Plugins/HighFPSPhysicsFix.ini`{: .path}
 4. Change the following options:

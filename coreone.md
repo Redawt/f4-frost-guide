@@ -18,21 +18,32 @@ aside:
 1. Right-click anywhere in the left pane of MO2 and select **Create Separator**{: .hili}
 2. Name the separator **Important Mods**{: .hili}
 
-## [Better Console](https://www.nexusmods.com/fallout4/mods/26582)
+## [Better Console](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=120757&nmm=1&game_id=1151)
 
 #### Description
 * Improves the in-game console, which helps debugging and using console commands.
 
 #### Installation Instructions
-* **Main File - Better Console**
+* **Main Files - Better Console  1.4.0** (Click the blue title above for a direct link to the correct version)
+ 
+## [Backported Archive2 Support System](https://www.nexusmods.com/fallout4/mods/81859)
 
-## [Unlimited Survival Mode](https://www.nexusmods.com/fallout4/mods/26163)
+#### Description
+- Allows the downgraded executable to use the updated BA2 files.
+
+#### Installation Instructions
+
+* Main Files - BackportedBA2Support-1_0
+
+
+
+## [Unlimited Survival Mode](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=114124&nmm=1&game_id=1151)
 
 #### Description
 * Restores the game features disabled in Survival mode, such as fast travel and saving. 
 
 #### Installation Instructions
-* **Main File - Unlimited Survival Mode - F4SE**
+* **Old Files - Unlimited Survival Mode - F4SE 1.4.0** (Click the blue title above for a direct link to the correct version).
 
 
 ## [Mod Configuration Menu (MCM) (*O)](https://www.nexusmods.com/fallout4/mods/21497)
@@ -42,7 +53,7 @@ aside:
 * Adds an easy way to configure mods through the in-game pause menu
 
 #### Installation Instructions
-* **Main File - Mod Configuration Menu**
+* **Main File - Mod Configuration Menu 1.39**
 
 
 ## [Game Configuration Menu (GCM) (*O)](https://www.nexusmods.com/fallout4/mods/33759)
@@ -69,14 +80,22 @@ aside:
 * **Main Files - Survival Configuration Menu**
 
 
-## [Classic Holstered Weapons System (CHW)](https://www.nexusmods.com/fallout4/mods/46101?tab=files) (*O, *F)
+## [Classic Holstered Weapons System (CHW)](https://www.nexusmods.com/fallout4/mods/46101) (*O, *F)
 
 
 #### Description
 * For showing holstered weapons on characters, with various customization options.
 
 #### Installation Instructions
-* **Main Files - Classic Holstered Weapons**
+* **Main Files - Classic Holstered Weapons - v1.06b**
+
+## [Remove Ammo from Dropped Guns](https://www.nexusmods.com/fallout4/mods/64426) (*O)
+
+#### Description
+- Removes ammo from guns on corpses and adds it to the corpse's inventory.
+
+#### Installation Instructions
+- **Main Files - AmmoRemover v1.0.5**
 
 
 

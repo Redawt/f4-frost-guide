@@ -25,11 +25,12 @@ This guide doesn't tell you how to install general Fallout 4 bug fixes related t
 * You know what a **load order**{: .hili} is and how to sort it
 * Fallout 4 is **not** installed in the `Program Files` directory of Windows
 * **Loose Files**{: .hili} are enabled (Vortex automatically does this, MO2 does not)
-* **F4SE**{: .hili} is installed
+* ** Fallout 4 Script Extender (F4SE) 0.6.23**{: .hili} is installed
 * You always start the game with **F4SE**{: .hili} through your mod manager
 * **Buffout 4**{: .hili} is installed
 * The **Mod Configuration Menu**{: .hili} mod is installed
-* The mentioned mods are very essential for Fallout 4 modding!
+* You've used the **Simple Downgrader**{: .hili} tool to dongrade Fallout 
+* You've installed **Backported Archive2 Support System**{: .hili}
 
 
 **You can not skip a single mod from the Basic Guide! Read everything carefully!**

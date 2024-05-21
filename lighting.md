@@ -79,16 +79,6 @@ aside:
 * **Main File - Clarity**
 
 
-## [Enhanced Lighting for ENB (ELE)](https://www.nexusmods.com/fallout4/mods/42705?tab=files) (*O, *F)
-
-#### Description
-* This mod intends to adjust all interior based lighting inside the Fallout 4 game. 
-* It will both look better with ENB and make it a lot easier to customize the visuals, without ruining some parts of the games look.
-* This mod covers lighting of **interior**  cells
-
-#### Installation Instructions
-* **Main File - ELE Fo4**
-
 ## [Interiors Enhanced](https://www.nexusmods.com/fallout4/mods/8768?tab=files) (*O, *F)
 
 #### Description

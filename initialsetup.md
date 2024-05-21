@@ -25,12 +25,11 @@ If you run into any issues at any point in the guide, feel free to ask for help 
   1. Open Steam and go to your **Library**{: .hili}
   2. Find **Fallout 4**{: .hili} in the list
   3. Right-click on it and select **Manage -> Uninstall**{: .hili}
-  4. Navigate to `Steam\steamapps\common\`{: .path} and, if present, delete the Fallout 4 folder
+  4. Navigate to `Steam\steamapps\common\`{: .path} and, if present, delete the **Fallout 4**{: .hili} folder
   5. Navigate to `Documents\My Games`{: .path} and delete the **Fallout4**{: .hili} folder
   6. Navigate to `AppData\Local`{: .path} and delete the Fallout4 folder
 
-**Do not install your game in the Program Files folder. Do not install any game in that folder, or have your Steam Library in there.
-Program Files is a special Windows System folder, and Fallout 4 doesn't load mods correctly if it is in that folder.**
+Do not install your game in the **Program Files** folder. Program Files is a special Windows System folder, and MO2 doesn't load mods correctly if it is in that folder.
 {:.error}
 
 ### Installing the Game
@@ -41,7 +40,15 @@ Program Files is a special Windows System folder, and Fallout 4 doesn't load mod
 Make sure to install the English version of Fallout 4 for maximum immersion.
 If you do not use the English version, the intro video which is shown when starting a new game might not have audio.
 
+### Disabling Automatic Steam Updates
 
+This will prevent Steam from automatically installing Fallout 4 updates, which will break modding support considerably until they gain wide modding support (and the guide's).
+
+- In your Steam Library, right-click on Fallout 4, and click on Properties in the resulting context menu,
+- In the resulting new window, click on the drop-down at the top of the right pane underneath Automatic Updates
+- Set it to Only update this game when I launch it.
+
+Since MO2 bypasses Steam's "play" button, Fallout 4 will never automatically update because you will launch the game through MO2.
 
 ## Post-Installation
 ### Key Terminology

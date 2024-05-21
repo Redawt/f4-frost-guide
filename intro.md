@@ -29,10 +29,6 @@ sidebar:
 
 ---
 
-## READ THIS !!!
-This guide will currently NOT work with the Fallout 4 update released on 24th April 2024.
-I will update the guide and remove this warning as soon as possible, but it might take some time.
-It also depends on how fast other mod authors will update their mods.
 
 ## Overview
 Welcome to **{{ site.title }}**{: .hili}, a fully modular Fallout 4 FROST modding guide!
@@ -50,7 +46,7 @@ You can pick one of two guides, one shows you how to make a proper Fallout 4 set
 * Help is always available at the [FROST Discord Server](https://discord.com/invite/BaKsm7Fn4A)
 * Even if you are an experienced mod user already, it is still recommended that you read everything carefully.
 * The guide will tell you when you are finished, especially the load order section is VERY important!
-
+* The version numbers of the mods you need to download are very important
 
 
 ## About the Guide(s)
@@ -62,7 +58,6 @@ Both guides are made with customisation in mind, which means that after you fini
 The Recommended Guide will carefully walk you through how to: 
 * install Fallout 4 and set it up for modding it,
 * install Mod Organizer 2 (MO2) as a mod manager,
-  * Why not Vortex? An answer can be found [here](./faq.html#why-are-there-only-instructions-for-mo2-but-not-vortex),
 * sort your load order and where you can put additional mods into your load order,
 * install all necessary bug fixes and stability that are absoolutely needed in EVERY Fallout 4 mod setup,
 * install all needed FROST mods,
@@ -86,7 +81,7 @@ This guide is recommended for people who
 * are too lazy to make a more advanced mod setup,
 * **and** for people who are experienced enough in modding Bethesda games and just need information about what you absolutely need to play FROST
 
-### Alternative: Unofficial Below Zero Wabbajack**{: .hili}
+### **Alternative: Unofficial Below Zero Wabbajack**{: .hili}
 
 A wabbajack is an automated modlist installer, so it's your go-to solution if you don't want to manually install FROST by following this guide.
 Here is a link to the [Unofficial Below Zero Wabbajack](https://github.com/St1ck2k/FROST---Below-Zero-Fallout-4-Wabbajack-Modlist/tree/main)

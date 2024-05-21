@@ -12,7 +12,6 @@ sidebar:
 #### This section will tell you more about some requirements of this guide.
 
 ## You need... 
-
 - An English copy of Fallout 4 from Steam 
   - The Recommended Guide will tell you how to properly install Fallout 4
   - Only the English version of the game is supported for maximum compatibility.
@@ -38,3 +37,10 @@ Here are the (minimal) recommended specs for being able to run the game at 60FPS
 - **CPU:** Modern quad-core processor (2.75GHz or more)
 - **RAM:** 16 GB of RAM
 - **GPU:** NVIDIA 900 series card or an AMD RX 400 series card
+
+## Information about the Next-Gen Update of Fallout 4
+- Fallout 4 got a "Next Gen" update in April 2024
+- Many mods do not support this "Next Gen" version, because it broke a lot of mods and has several severe bugs/issue
+- The stance of the modding community is to downgrade Fallout 4 for maximum mod compatability
+- This guide will tell you how to downgrade Fallout 4 (it is very easy to do that)
+
