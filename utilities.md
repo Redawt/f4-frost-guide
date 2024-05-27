@@ -52,19 +52,6 @@ In order for the script extender to work, you need to launch the game using the 
 1. Download the **Main File - xSE PluginPreloader**{: .hili} using the **Manual Download**{: .hili} button
 2. From the download archive, extract the two files to the game's **Root**{: .hili} folder
 
-## [Simple Fallout 4 Downgrader](https://www.nexusmods.com/fallout4/mods/81933)
-
-#### Description
-- Reverts game code to version 1.10.163 for wider modding support.
-
-#### Installation instructions:
-
-- **Main Files - Simple Fallout 4 Downgrader**
-  - From the downloaded archive, extract everything to the game's Root folder.
-  - Double-click the downgrader executable to launch it.
-  - Wait for the "Patching successful" message in the console window that just opened, then you can close it.
-
-
 ## [Address Library for F4SE Plugins](https://www.nexusmods.com/fallout4/mods/47327)
 
 #### Description
@@ -80,6 +67,46 @@ If you do not know what these instructions mean, or how to install mods with MO2
 After installing with a mod with MO2, make sure you check the box next to it in the left pane of MO2 to enable it
 {: .info}
 
+## [Backported Archive2 Support System](https://www.nexusmods.com/fallout4/mods/81859)
+
+#### Description
+- Allows the downgraded executable to use the updated BA2 files.
+
+#### Installation Instructions
+
+* **Main Files - BackportedBA2Support-1_0**
+
+## [Simple Fallout 4 Downgrader](https://www.nexusmods.com/fallout4/mods/81933)
+
+#### Description
+- Reverts game code to version 1.10.163 for wider modding support.
+
+#### Installation instructions:
+
+- **Main Files - Simple Fallout 4 Downgrader**
+  - From the downloaded archive, extract everything to the game's Root folder.
+  - Double-click the downgrader executable to launch it.
+  - Wait for the "Patching successful" message in the console window that just opened, then you can close it.
+
+
+## Remove Creation  (CC) Content
+#### Description
+* This step removes CC content that has not been patched for FROST and will cause issues
+* These CC files have been added by the Next-Gen update, and while they work on the downgraded version of Fallout 4, they are not yet patched for FROST and should be removed
+
+#### Uninstallation
+* Open the  **Data**{: .hili} folder (`Steam\steamapps\common\Fallout 4\Data`{: .path}) in the Windows Explorer
+* Delete the following files from it:
+  * `ccBGSFO4044-HellfirePowerArmor.esl`
+  * `ccBGSFO4115-X02.esl`
+  * `ccBGSFO4116-HeavyFlamer.esl`
+  * `ccBGSFO4110-WS_Enclave.esl`
+  * `ccBGSFO4096-AS_Enclave.esl`
+  * `ccFSVFO4007-Halloween.esl`
+  * `ccBGSFO4046-TesCan.esl`
+  * `ccSBJFO4003-Grenade.esl`
+  * `ccOTMFO4001-Remnants.esl`
+
 
 ## [Buffout 4](https://www.nexusmods.com/fallout4/mods/47359?tab=files)
 
@@ -87,13 +114,13 @@ After installing with a mod with MO2, make sure you check the box next to it in 
 - Fixes numerous engine bugs and scripts, and also provides helpful crash logs when you game crashes.
 
 #### Installation Instructions
-  * Download and install the **Main File - Buffout**{: .hili} normally through MO2
-  * Once the mod has been installed, double-click on it in the left pane of MO2
-  * In the Text Files tab, select `F4SE/Plugins/Buffout4/config.toml`
-  * Change the following options:
-    * Set INISettingCollection to false (line 22)
-    * Set MaxStdIO to 2048 (line 24)
-  *  **IMPORTANT**: The value needs to be 2048, not -2048! When done, the setting will look like this: `MaxStdIO = 2048`.
+* Download and install the **Main File - Buffout**{: .hili} normally through MO2
+* Once the mod has been installed, double-click on it in the left pane of MO2
+* In the Text Files tab, select `F4SE/Plugins/Buffout4/config.toml`
+* Change the following options:
+  * Set INISettingCollection to false (line 22)
+  * Set MaxStdIO to 2048 (line 24)
+*  **IMPORTANT**: The value needs to be 2048, not -2048! When done, the setting will look like this: `MaxStdIO = 2048`.
 
 
   * If you encounter problems with Buffout 4, check out this [article](https://www.nexusmods.com/fallout4/articles/3115)
