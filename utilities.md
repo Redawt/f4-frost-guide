@@ -88,6 +88,14 @@ After installing with a mod with MO2, make sure you check the box next to it in 
 
 #### Installation Instructions
   * Download and install the **Main File - Buffout**{: .hili} normally through MO2
+  * Once the mod has been installed, double-click on it in the left pane of MO2
+  * In the Text Files tab, select `F4SE/Plugins/Buffout4/config.toml`
+  * Change the following options:
+    * Set INISettingCollection to false (line 22)
+    * Set MaxStdIO to 2048 (line 24)
+  *  **IMPORTANT**: The value needs to be 2048, not -2048! When done, the setting will look like this: `MaxStdIO = 2048`.
+
+
   * If you encounter problems with Buffout 4, check out this [article](https://www.nexusmods.com/fallout4/articles/3115)
 
 Without the [Microsoft VC++ 2015-2022](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) (x86 and x64 versions) which was mentioned in the requirements section of the guide, Buffout 4 and the xSE Preloader will not work properly. Make sure that you've installed it!

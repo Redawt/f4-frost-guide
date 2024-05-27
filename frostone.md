@@ -38,6 +38,16 @@ aside:
 
 {% include_relative md-mod-descriptions/it-snowed-description.md %}
 
+## [FROST - Downtown Workbenches](https://www.nexusmods.com/fallout4/mods/82462) (*O)
+#### Description
+* Adds and links several workbenches at Downtown for better crafting and storage
+
+#### Installation Instructions
+* **Maine File - FROST - Downtown Workbenches**
+
+#### Installation Instructions
+* **Main File - FROST - Lootable And Locked Cars 1.1**
+
 ## [FROST Lootable Cars](https://www.nexusmods.com/fallout4/mods/57960) (*O)
 
 #### Description

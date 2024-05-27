@@ -17,8 +17,12 @@ aside:
 
 ## Starting the game
 If you set up everything correctly, you can now start the game. You should keep the following things in mind though.
-Please start it with F4SE through MO2 like mentioned before.
 If your game crashes or shows a warning for some reason, that most likely means that you didn't follow the guide properly. You can ask on the [FROST Discord Server](https://discord.com/invite/BaKsm7Fn4A) for help in that case.
+
+**REMINDER**{: .hili}: You need to run the game through the F4SE option in Mod Organizer 2 from now on, NOT the Fallout 4 option. You may need to restart MO2 for the option to appear. If that is not the case, you can manually add or select it in MO2. 
+{: .info}
+
+![F4SE in MO2](./assets/images/select_f4se.png "F4SE in MO2")
 
 ## Main Menu
 In the main menu, you should go into the settings to adjust a few things to your liking, like the color of your HUD and your Pip Boy. Make sure to switch on dialogue subtitles! The mod Frost Plus adds a few voiced characters, but some of them are not voiced yet or only partially voiced. You need the dialogue subtitles for that reason.
@@ -31,9 +35,9 @@ We only added the english audio file to the intro video.
 
 
 ## Sanctuary Bathroom
-After the video, you will see the santuary bathroom, but you mightt notice that the dialogue there and some other things were changed ("Just let go. It will all be over soon." is a new voice line for example).
+After the video, you will see the santuary bathroom, but you might notice that the dialogue there and some other things were changed ("Just let go. It will all be over soon." is a new voice line for example).
 
-Do not bother to change the appearance of the character in the Bathroom, there will be another better possibility to do this shortly after.
+**Do not bother to change the appearance of the character in the Bathroom, there will be another better possibility to do this shortly after.**
 
 You can activate the book/skull on the mirror of the Bathroom to play as a ghoul. If you do that, you have to restart the game to avoid the neck texture bug that will appear. This bug is caused by engine/scripting limitations. 
 
