@@ -18,22 +18,22 @@ aside:
 2. Name the separator **User Interface**{: .hili}
 
 
-## [PipBoy Tabs](https://www.nexusmods.com/fallout4/mods/29568?tab=files)
+## [PipBoy Tabs](https://www.nexusmods.com/fallout4/mods/29568?tab=files&file_id=172069&nmm=1)
 #### Description
 * UI framework for certain mods
 
 #### Installation Instructions
-* **Main File - pbt 1.10.163.0**
+* **Main File - pbt 1.10.163.0** (Click the blue title above for a direct link to the correct version).
 
 
-## [LevelUpMenuEx](https://www.nexusmods.com/fallout4/mods/28822)
+## [LevelUpMenuEx](https://www.nexusmods.com/fallout4/mods/28822?tab=files&file_id=172070&nmm=1)
 
 
 #### Description
 * Changes the Level Up Menu to allow other mods to add new perks and skills into the game
 
 #### Installation Instructions
-* **Main Files - prkf 1.10.163.0**
+* **Main Files - prkf 1.10.163.0** (Click the blue title above for a direct link to the correct version).
 
 
 ## [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
