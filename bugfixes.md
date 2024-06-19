@@ -28,7 +28,7 @@ aside:
 * Fixes thousands of bugs with both the base game and DLCs
 
 #### Installation Instructions
-  * **Old Files - Unofficial Fallout 4 Patch 2.1.5** (Click the blue title above for a direct link to the correct version).
+  * **Old Files - Unofficial Fallout 4 Patch** **2.1.5**{: .hili} (Click the blue title above for a direct link to the correct version).
 
 
 
@@ -38,7 +38,7 @@ aside:
 * Stops the camera from stuttering while sprinting on uneven surfaces
 
 #### Installation Instructions
-* **Main File - Sprint Stuttering Fix 1.2** (Click the blue title above for a direct link to the correct version).
+* **Main File - Sprint Stuttering Fix** **1.2**{: .hili} (Click the blue title above for a direct link to the correct version).
 
 ## [Weapon Debris Crash Fix](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=194684&nmm=1&game_id=1151)
 
@@ -49,7 +49,7 @@ aside:
 * Fixes crashes with the weapon debris setting enabled, specifically on NVIDIA cards
 
 #### Installation Instructions
-  * **Main Files - Weapon Debris Crash Fix 2.3** (Click the blue title above for a direct link to the correct version).
+  * **Main Files - Weapon Debris Crash Fix** **2.3**{: .hili} (Click the blue title above for a direct link to the correct version).
 
 
 ## [Bullet Counted Reload System](https://www.nexusmods.com/fallout4/mods/41178)
@@ -59,8 +59,8 @@ aside:
 * Fixes the infamous reload bug with lever action weapons
 
 #### Installation Instructions
-* **Main File - Bullet Counted Reload  - v2.00**
-* **Optional File - BCR- Lever Action Rifle v1.02**
+* **Main File - Bullet Counted Reload**  **- v2.00**{: .hili}
+* **Optional File - BCR- Lever Action Rifle** **v1.02**{: .hili}
 
 
 

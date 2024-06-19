@@ -19,18 +19,22 @@ Installing this setup takes less then 5 minutes (without including Download Time
 
 This guide doesn't tell you how to install general Fallout 4 bug fixes related to engine problems!
 
-## Some Assumption
+## Some Assumptions and Requirements
 * **MO2**{: .hili} or **Vortex**{: .hili} are installed to handle your mods for Fallout 4
 * Only **one** mod manager manages Fallout 4 on your PC
-* You know what a **load order**{: .hili} is and how to sort it
+* You know what a **load order** is and how to sort it
 * Fallout 4 is **not** installed in the `Program Files` directory of Windows
 * **Loose Files**{: .hili} are enabled (Vortex automatically does this, MO2 does not)
-* ** Fallout 4 Script Extender (F4SE) 0.6.23**{: .hili} is installed
 * You always start the game with **F4SE**{: .hili} through your mod manager
-* **Buffout 4**{: .hili} is installed
-* The **Mod Configuration Menu**{: .hili} mod is installed
-* You've used the **Simple Downgrader**{: .hili} tool to dongrade Fallout 
-* You've installed **Backported Archive2 Support System**{: .hili}
+* You've used the **Simple Downgrader** mod tool to downgrade Fallout to **version 1.10.163**{: .hili}
+* The following mods and their requirements are installed (mind the version numbers!)
+  * **Fallout 4 Script Extender (F4SE) 0.6.23**
+  * **xSE PluginPreloader**
+  * **Buffout 4**
+  *  **Address Library**
+  * **Mod Configuration Menu 1.39**
+  * **Backported Archive2 Support System**
+  * **PipBoy Tabs 1.10.163.0**
 
 
 **You can not skip a single mod from the Basic Guide! Read everything carefully!**

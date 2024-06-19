@@ -26,14 +26,14 @@ The titles on this guide are also links that you can click on to get to the mods
 
 #### Installation Instructions
 
-1. Main Files - Fallout 4 Script Extender (F4SE) 0.6.23 (Manual download, click the blue title above for a direct link to the correct version).
-2. From the downloaded archive, extract everything to the game's Root folder.
+1. **Main Files - Fallout 4 Script Extender (F4SE)** **0.6.23**{: .hili} (Manual download, click the blue title above for a direct link to the correct version).
+2. From the downloaded archive, extract everything (all files and folders!) to the game's Root folder.
 
 
 If you do not know what the Root folder is, read the Key Terminology section from the Initial Setup page.
 {: .info}
 
-If you did everything correctly, your **Root Folder**{: .hili} should look like this:
+If you did everything correctly, your **Root Folder**{: .hili} should look similar to this:
 
 ![F4SE in Root folder](./assets/images/root.webp "F4SE in Root folder")
 
@@ -79,7 +79,7 @@ After installing with a mod with MO2, make sure you check the box next to it in 
 ## [Simple Fallout 4 Downgrader](https://www.nexusmods.com/fallout4/mods/81933)
 
 #### Description
-- Reverts game code to version 1.10.163 for wider modding support.
+- Reverts game code to **version 1.10.163**{: .hili} for wider modding support.
 
 #### Installation instructions:
 
@@ -135,7 +135,7 @@ Without the [Microsoft VC++ 2015-2022](https://docs.microsoft.com/en-us/cpp/wind
 - Allows for playing at framerates over 60, mitigates stutter, and reduces load times
 
 #### Installation Instructions
-1. Download and install the **Main File - High FPS Physics Fix 0.8.6** (Click the blue title above for a direct link to the correct version)
+1. Download and install the **Main File - High FPS Physics Fix** **0.8.6**{: .hili} (Click the blue title above for a direct link to the correct version)
 2. Once the mod has been installed, double-click on it in the left pane of MO2
 3. In the **INI-Files**{: .hili} tab, select `F4SE/Plugins/HighFPSPhysicsFix.ini`{: .path}
 4. Change the following options:

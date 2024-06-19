@@ -24,7 +24,7 @@ aside:
 * Improves the in-game console, which helps debugging and using console commands.
 
 #### Installation Instructions
-* **Main Files - Better Console  1.4.0** (Click the blue title above for a direct link to the correct version)
+* **Main Files - Better Console**  **1.4.0**{: .hili} (Click the blue title above for a direct link to the correct version)
 
 
 ## [Unlimited Survival Mode](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=114124&nmm=1&game_id=1151)
@@ -33,7 +33,7 @@ aside:
 * Restores the game features disabled in Survival mode, such as fast travel and saving. 
 
 #### Installation Instructions
-* **Old Files - Unlimited Survival Mode - F4SE 1.4.0** (Click the blue title above for a direct link to the correct version).
+* **Old Files - Unlimited Survival Mode - F4SE** **1.4.0**{: .hili} (Click the blue title above for a direct link to the correct version).
 
 
 ## [Mod Configuration Menu (MCM) (*O)](https://www.nexusmods.com/fallout4/mods/21497)
@@ -43,7 +43,7 @@ aside:
 * Adds an easy way to configure mods through the in-game pause menu
 
 #### Installation Instructions
-* **Main File - Mod Configuration Menu 1.39**
+* **Main File - Mod Configuration Menu** **1.39**{: .hili}
 
 
 ## [Game Configuration Menu (GCM) (*O)](https://www.nexusmods.com/fallout4/mods/33759)
@@ -77,7 +77,7 @@ aside:
 * For showing holstered weapons on characters, with various customization options.
 
 #### Installation Instructions
-* **Main Files - Classic Holstered Weapons - v1.06b**
+* **Main Files - Classic Holstered Weapons -** **v1.06b**{: .hili}
 
 ## [Remove Ammo from Dropped Guns](https://www.nexusmods.com/fallout4/mods/64426) (*O)
 
@@ -85,7 +85,7 @@ aside:
 - Removes ammo from guns on corpses and adds it to the corpse's inventory.
 
 #### Installation Instructions
-- **Main Files - AmmoRemover v1.0.5**
+- **Main Files - AmmoRemover** **v1.0.5**{: .hili}
 
 
 
@@ -109,16 +109,16 @@ aside:
 #### Installation Instructions
 **Join the Discord Server:**
 * Join the [Greslin Games Discord Server](https://discord.gg/jMUnXDV)
-* Read the **#read-this-first** channel of the server
-* Go to the **#role-request** channel and ask for the Citizen Role
+* Read the **[#read-this-first](https://discord.com/channels/408380281209356299/606581678059814937)** channel of the server
+* Go to the **[#role-request](https://discord.com/channels/408380281209356299/933784644791435304)** channel and ask for the Citizen Role
   * It might take a while until you get that role (up to 8 hours)
   * You can go on with the guide and come back later to this section to finish this
-* With the Citizen Role, you get access to the **#releases-latest** channel in the **PACK ATTACK NPC Edition section**
+* With the Citizen Role, you get access to the **[#releases-latest](https://discord.com/channels/408380281209356299/933784644791435304)** channel in the **PACK ATTACK NPC Edition section**
 
 ![Join Greslin Image](./assets/images/join_greslin.png "Join Greslin!")
 
 **Download and install the file:**
-* In the **#releases-latest** channel, you can find the newest version of PANPC
+* In the **[#releases-latest](https://discord.com/channels/408380281209356299/933784644791435304)** channel, you can find the newest version of PANPC
 
 ![Download PANPC](./assets/images/find_panpc.png "Download PANPC!")
 

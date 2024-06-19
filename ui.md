@@ -23,7 +23,7 @@ aside:
 * UI framework for certain mods
 
 #### Installation Instructions
-* **Main File - pbt 1.10.163.0** (Click the blue title above for a direct link to the correct version).
+* **Main File - pbt** **1.10.163.0**{: .hili} (Click the blue title above for a direct link to the correct version).
 
 
 ## [LevelUpMenuEx](https://www.nexusmods.com/fallout4/mods/28822?tab=files&file_id=172070&nmm=1)
@@ -33,7 +33,7 @@ aside:
 * Changes the Level Up Menu to allow other mods to add new perks and skills into the game
 
 #### Installation Instructions
-* **Main Files - prkf 1.10.163.0** (Click the blue title above for a direct link to the correct version).
+* **Main Files -** **prkf 1.10.163.0**{: .hili} (Click the blue title above for a direct link to the correct version).
 
 
 ## [HUDFramework](https://www.nexusmods.com/fallout4/mods/20309)
@@ -41,7 +41,7 @@ aside:
 * UI framework required for many other HUD mods
 
 #### Installation Instructions
-* **Main File - HUDFramework 1.0f**
+* **Main File - HUDFramework** **1.0f**{: .hili}
 
 
 ## [Immersive HUD](https://www.nexusmods.com/fallout4/mods/20830?tab=files&file_id=112759&nmm=1) (* O)
