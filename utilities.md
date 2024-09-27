@@ -26,7 +26,7 @@ The titles on this guide are also links that you can click on to get to the mods
 
 #### Installation Instructions
 
-1. **Main Files - Fallout 4 Script Extender (F4SE)** **0.6.23**{: .hili} (Manual download, click the blue title above for a direct link to the correct version).
+1. **Old Files - Fallout 4 Script Extender (F4SE)** **0.6.23**{: .hili} (Manual download, click the blue title above for a direct link to the correct version).
 2. From the downloaded archive, extract everything (all files and folders!) to the game's Root folder.
 
 
