@@ -22,14 +22,16 @@ aside:
 2. Name the separator **Bug Fixes**{: .hili}
 
 
-## [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598?tab=files&file_id=270951&nmm=1)
+## [Unofficial Fallout 4 Patch (UFO4P)](https://www.nexusmods.com/fallout4/mods/4598?tab=files&file_id=270951&nmm=1)
 
 #### Description
 * Fixes thousands of bugs with both the base game and DLCs
 
 #### Installation Instructions
   * **Old Files - Unofficial Fallout 4 Patch** **2.1.5**{: .hili} (Click the blue title above for a direct link to the correct version).
+  * Make sure to download the right version of this mod, as shown in the picture
 
+![UFO4P Download Picture](./assets/images/ufo4p.png)
 
 
 ## [Sprint Stutter Fix](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=196371&nmm=1&game_id=1151)
@@ -49,7 +51,7 @@ aside:
 * Fixes crashes with the weapon debris setting enabled, specifically on NVIDIA cards
 
 #### Installation Instructions
-  * **Main Files - Weapon Debris Crash Fix** **2.3**{: .hili} (Click the blue title above for a direct link to the correct version).
+  * **Main Files - Weapon Debris Crash Fix** **1.2**{: .hili} (Click the blue title above for a direct link to the correct version).
 
 
 ## [Bullet Counted Reload System](https://www.nexusmods.com/fallout4/mods/41178)

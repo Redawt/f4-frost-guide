@@ -46,7 +46,6 @@ If you have MO2 installed on an SSD or a HDD with little space, you can check th
 8. From the pop-up called **Register?**{: .hili}, select **Yes**{: .hili}
   - This pop-up will not show up if you have already registered a different instance of MO2
 
-
 ### Configuring Settings
 1. Select the ![Settings Button Image](./assets/images/mo2_settings.webp "Settings Button Image") mo2 settings button at the top of MO2 to open the settings
 2. In the **Theme**{: .hili} tab, you can select a different style from the drop-down menu at the top
@@ -97,7 +96,10 @@ sResourceDataDirsFinal=
 These settings allow for files from mods to be loaded in-game. It is intentional that the bottom setting does not have anything after the =
 {:.info}
 
-**If you did everything correctly, it should look similar to this:
+**If you did everything correctly, it should look similar to the picture.**
+Keep in mind that your ini file might look different or even empty, that is normal.
+Just make sure that the settings you've added (the ones in the red box in the picture) are present.
+
 ![mo2 ini loose files](./assets/images/loosefiles.png "mo2 ini editor loose files")
 
 ## INI Tweaks
@@ -130,11 +132,11 @@ If you need some information and help on how to use MO2, here are some helpful l
   * If this is your first time using MO2, read this article! It contains information that will help you understand the guide a bit better
 
 
-## Mod Installation Advice
+## Important Mod Installation Advice
 If you are completely unfamiliar with Mod Organizer 2, I recommended watching [GamerPoet's video](https://www.youtube.com/watch?v=7v0wWVuOagA) about mod installation in MO2. As it was made for Skyrim, it has some information that does not apply to Fallout 4, such as the Steam Workshop part which you can just ignore. However, the rest of the information about downloading/installing mods from Nexus still applies. 
 {:.info}
 
-When the guide says to install a mod, it will be formatted as follows: **Main File - Unofficial Fallout 4 Patch 2.1.2b**{: .hili}. This is referring to the mod's category on Nexus, the file name, and the file version. Sometimes I will leave the file version out.
+When the guide says to install a mod, it will be formatted as follows: **Main File - Unofficial Fallout 4 Patch 2.1.2b**{: .hili}. This is referring to the mod's category on Nexus, the file name, and the file version. Sometimes I will leave the file version out, in that case just download the newest version.
 
 ![Image of UFOP4 Files Section](./assets/images/download_example.webp "Image of UFOP4 Files Section")
 

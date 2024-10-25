@@ -46,6 +46,7 @@ const frost_core_plugins = [
   ];
 
 const incompatible_plugins =  [
+            "unofficial fallout 4 patch.esp",
             "ManufacturingExtended.esp",
             "SS2_DLCSettlerPatch.esp",
             "Modern Weapon Replacer - Glock 19x Ardent117 - 10mm Pistols.esp",

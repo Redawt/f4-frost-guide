@@ -19,6 +19,8 @@ You can also check out the [troubleshooting](troubleshooting.html) segment of th
 
 ### Why are there only instructions for MO2 but not Vortex?
 I don't use Vortex, so I can't tell you how to install and use it. MO2 is also better suited for modding Bethesda games than Vortex.
+However, you can also follow the guide if you want to use Vortex. In that case you need to skip some of the MO2 steps. 
+You should read the "Important Mod Installation Advice" from the MO2 section though, as some information from it applies to Vortex users.
 
 ### MO2 is better then Vortex? Why?
 I recommend to read [this](https://github.com/sower-j/modding-guides/blob/main/mo2-v-vortex-faq.md) for a proper summary about Vortex vs. MO2. 
@@ -31,8 +33,12 @@ Here is my opinion to this topic:
 - MO2 is better for making mods as it helps kleeping files seperate from others through the VFS
 
 ### What is/was the "Nexodus"?
-Back in 2021, Nexusmods silently tried to add huge changes to its Terms of Services, but tried to push the changes as silent and fast as possible. Mod Authors didn't like such a sneaky stab in the back.
-Mod authors can not delete their mods from Nexusmods as a result of these changes. Don't like what Nexusmods is doing? Nexusmods treats you unfairly? To bad, you can't delete your mods anymore. That's why many people left. 
+Back in 2021, Nexusmods silently tried to add huge changes to its Terms of Services, but tried to push the changes as silent and fast as possible. 
+Mod Authors didn't like such a sneaky stab in the back.
+Mod authors can not delete their mods from Nexusmods as a result of these changes. 
+Don't like what Nexusmods is doing? 
+Nexusmods treats you unfairly? 
+To bad, you can't delete your mods anymore. That's why many people left. 
 
 ### Which mods are compatible/incompatible with FROST?
 Check out this [section](./compatability.html) please. If you want to know if a specific mod is compatible, ask on the [Frost Discord Server](https://discord.com/invite/BaKsm7Fn4A)
