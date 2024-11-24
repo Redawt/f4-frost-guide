@@ -14,7 +14,11 @@ aside:
 
 
 
-#### In this step, we will install and configure Mod Organizer 2, the best mod manager for any Bethesda game.
+## READ THIS FIRST !!! 
+In this step, we will install and configure Mod Organizer 2, the best mod manager for any Bethesda game.
+You can alternatively use Vortex, but this guide does not provide details and information on how to use Vortex.
+If you use Vortex, you still need to read the **Important Mod Installation Advice**{: .hili} part of this section".
+
 
 ## Installing Mod Organizer 2
 1. Download the **Mod Organizer 2**{: .hili} file from [here](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files)
@@ -123,6 +127,15 @@ These settings tweak shadows to drastically improve performance without much vis
 
 **Note:** You can also add **bEnableWetnessMaterials=0** (or change it if it already exists) in your **Fallout4Prefs.ini** in MO2. This will deactivate the wetness effect from objects when it's raining. This causes snow to not be "wet" anymore. Only do this if you really want it or are bothered that snow sometimes has a slight wetness/reflection effect when it's raining.
 
+## Enabling steamloader (GOG users only)
+* **Note: Only do this if you are using the GOG version of Fallout 4! If you are using Steam, ignore this step!**{: .hili}
+* In MO2 you need to enable add a flag to F4SE so that MO2 can properly start Fallout 4
+
+1. Open the **drop-down menu** for the executables in MO2, and select **Edit**
+![MO2 Exectuable Image](./assets/images/MO2-Edit-Exe.png)
+2. Add `-forcesteamloader` in the **Arguments** section of the **F4SE** executable
+![MO2 -forcesteamloader](./assets/images/MO2-GOG-Steamloader.png)
+
 
 ## How to MO2 
 If you need some information and help on how to use MO2, here are some helpful links.
@@ -136,16 +149,22 @@ If you need some information and help on how to use MO2, here are some helpful l
 If you are completely unfamiliar with Mod Organizer 2, I recommended watching [GamerPoet's video](https://www.youtube.com/watch?v=7v0wWVuOagA) about mod installation in MO2. As it was made for Skyrim, it has some information that does not apply to Fallout 4, such as the Steam Workshop part which you can just ignore. However, the rest of the information about downloading/installing mods from Nexus still applies. 
 {:.info}
 
-When the guide says to install a mod, it will be formatted as follows: **Main File - Unofficial Fallout 4 Patch 2.1.2b**{: .hili}. This is referring to the mod's category on Nexus, the file name, and the file version. Sometimes I will leave the file version out, in that case just download the newest version.
+When the guide says to install a mod, it will be formatted as follows: **Main File(s) - FROST (BA2 Version) 0.55**{: .hili}{: .hili}. This is referring to the mod's **category** on Nexus, the **file name**, and the **file version**. Sometimes I will leave the file version out, in that case just download the newest version.
 
-![Image of UFOP4 Files Section](./assets/images/download_example.webp "Image of UFOP4 Files Section")
+![Image of FROST Files Section](./assets/images/download_example_new.png "Image of FROST Files Section")
 
-Unless instructed otherwise, simply download the listed file using the **Mod Manager Download**{: .hili} button and install it through MO2. If you do not know how to install mods through MO2, please watch the video linked above. Sometimes, a mod will not have a **Mod Manager Download**{: .hili}, or will be hosted on a site other than Nexus. If that is the case, do the following: 
+Unless instructed otherwise, simply download the listed file using the **Mod Manager Download**{: .hili} button and install it through MO2.
+
+When downloading multiple files from the same page, you will be prompted with a box in Mod Organizer 2 with the options **Merge**{: .hili}, **Replace**{: .hili}, and **Rename**{: .hili}. You should select the **Rename**{: .hili} option and rename the mod to its respective file name. This will make MO2 install them as separate files for easier management. If you are updating from an old version of a mod, you should select **Replace**{: .hili}. This will delete all the files from the old version of the mod and replace them,with the ones from the new version. This is the only time you should use the **Replace option**{: .hili}, otherwise always use **Rename**{: .hili}. 
+
+
+Sometimes, a mod will not have a **Mod Manager Download**{: .hili}, or will be hosted on a site other than Nexus. 
+If that is the case, do the following: 
 
 1. Click the **Manual Download**{: .hili} button (or whatever the download button is for the respective site)
 2. Once the download has finished, click the ![mo2 archive button](./assets/images/mo2_archive.webp) button at the top of MO2
 3. From the new window, navigate to where the file was downloaded to and double-click it
 4. Finish the install normally
 
-When downloading multiple files from the same page, you will be prompted with a box in Mod Organizer 2 with the options **Merge**{: .hili}, **Replace**{: .hili}, and **Rename**{: .hili}. You should select the **Rename**{: .hili} option and rename the mod to its respective file name. This will make MO2 install them as separate files for easier management. If you are updating from an old version of a mod, you should select **Replace**{: .hili}. This will delete all the files from the old version of the mod and replace them,with the ones from the new version. This is the only time you should use the **Replace option**{: .hili}, otherwise always use **Rename**{: .hili}. 
+
 

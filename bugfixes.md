@@ -66,12 +66,12 @@ aside:
 
 
 
-## [Crafting Highlight Fix](https://www.nexusmods.com/fallout4/mods/27479) (*O)
+## [Crafting Highlight Fix](https://www.nexusmods.com/fallout4/mods/27479?tab=files&file_id=172411&nmm=1) (*O)
 
 
 #### Description
 *  Replaces the full opacity item highlight during crafting with a much more clear outline
 
 #### Installation Instructions
-* **Main File - Crafting Highlight Fix**
+* **Old Files - Crafting Highlight Fix** **1.8.8**{: .hili}
 

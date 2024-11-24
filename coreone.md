@@ -27,13 +27,13 @@ aside:
 * **Main Files - Better Console**  **1.4.0**{: .hili} (Click the blue title above for a direct link to the correct version)
 
 
-## [Unlimited Survival Mode](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=114124&nmm=1&game_id=1151)
+## [Unlimited Survival Mode](https://www.nexusmods.com/fallout4/mods/26163?tab=files)
 
 #### Description
 * Restores the game features disabled in Survival mode, such as fast travel and saving. 
 
 #### Installation Instructions
-* **Old Files - Unlimited Survival Mode - F4SE** **1.4.0**{: .hili} (Click the blue title above for a direct link to the correct version).
+* **Main files - Unlimited Survival Mode - F4SE**
 
 
 ## [Mod Configuration Menu (MCM) (*O)](https://www.nexusmods.com/fallout4/mods/21497)

@@ -42,6 +42,6 @@ This guide doesn't tell you how to install general Fallout 4 bug fixes related t
 
 ## Mod Installation Advice
 
-When the guide says to install a mod, it will be formatted as follows: **Main File - Unofficial Fallout 4 Patch 2.1.2b**{: .hili}. This is referring to the mod's **category** on Nexus, the **file name**, and the **file version**.  I will leave the file version out in many cases, in that case just download the newest version of the mod. 
+When the guide says to install a mod, it will be formatted as follows: **Main File - FROST (BA2 Version) 0.55**{: .hili}. This is referring to the mod's **category** on Nexus, the **file name**, and the **file version**.  I will leave the file version out in many cases, in that case just download the newest version of the mod. 
 
-![Image of UFOP4 Files Section](./assets/images/download_example.webp "Image of UFOP4 Files Section")
+![Image of FROST Files Section](./assets/images/download_example_new.png "Image of FROST Files Section")

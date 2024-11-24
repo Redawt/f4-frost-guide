@@ -12,7 +12,7 @@ sidebar:
 #### This section will tell you more about some requirements of this guide.
 
 ## You need... 
-- An English copy of Fallout 4 from Steam 
+- An English copy of Fallout 4 from **Steam** or **GOG**
   - The Recommended Guide will tell you how to properly install Fallout 4
   - Only the English version of the game is supported for maximum compatibility.
   - The Bethesda.net and Xbox Game Pass versions of the game are unsupported, as they do not work with F4SE which is essential for many mods.

@@ -46,6 +46,8 @@ const frost_core_plugins = [
   ];
 
 const incompatible_plugins =  [
+            "RoomBoundPortalFix_Q.esp",
+            "WorkshopFramework.esm",
             "unofficial fallout 4 patch.esp",
             "ManufacturingExtended.esp",
             "SS2_DLCSettlerPatch.esp",

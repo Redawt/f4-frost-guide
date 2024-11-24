@@ -29,6 +29,8 @@ If you run into any issues at any point in the guide, feel free to ask for help 
   5. Navigate to `Documents\My Games`{: .path} and delete the **Fallout4**{: .hili} folder
   6. Navigate to `AppData\Local`{: .path} and delete the Fallout4 folder
 
+  * **Note for GOG users**: The same steps apply for your, except that your installation folder in step 4 is different.
+
 Do not install your game in the **Program Files** folder. Program Files is a special Windows System folder, and MO2 doesn't load mods correctly if it is in that folder.
 {:.error}
 
@@ -37,10 +39,12 @@ Do not install your game in the **Program Files** folder. Program Files is a spe
   2. Find **Fallout 4**{: .hili} in the list and select **Install**
   3. Select **Next**{: .hili} then wait for the install to finish
 
+  * **Note for GOG users**: Do the equivalent steps via GOG.
+
 Make sure to install the English version of Fallout 4 for maximum immersion.
 If you do not use the English version, the intro video which is shown when starting a new game might not have audio.
 
-### Disabling Automatic Steam Updates
+### Disabling Automatic Steam Updates (Steam only)
 
 This will prevent Steam from automatically installing Fallout 4 updates, which will break modding support considerably until they gain wide modding support (and the guide's).
 
@@ -89,3 +93,7 @@ If you accidently installed it, here is are instructions on how to use uninstall
 * Click on "I want to remove this permanently from my game library"
 * **!!! Make sure it says High Resolution Texture Pack at the top, or you'll remove the entire game with no refund !!!**{: .hili}
 * Click **OK**
+
+  * **Note for GOG users**: Do the equivalent steps via GOG, unless the High Resolution Texture Pack was not downloaded.
+
+s
