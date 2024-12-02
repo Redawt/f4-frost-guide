@@ -28,8 +28,13 @@ You can sort your load order on the **right** panel of MO2 in the **plugins**{: 
 
 ## About LOOT
 **LOOT**{: .hili} is a tool which automatically sorts load orders.
-Its sorting rules are often outdated or do not exist at all when it comes to Fallout 4 mods, especially to FROST. I do not recommend to use it, as it often destroys FROST load orders based on outdated information. **It is not a reliable tool for sorting Fallout 4 load orders!**{: .hili}
+Its sorting rules are often outdated or do not exist at all when it comes to Fallout 4 mods, especially to FROST. 
+I do not recommend to use it, as it often destroys FROST load orders based on outdated information. 
+**It is not a reliable tool for sorting Fallout 4 load orders!**{: .hili}
 LOOT is also not reliable as it doesn't know every plugin, so even if you want to use it, you will still have to sort stuff manually.
+
+However, LOOT is getting some updates in the future to sort FROST load orders properly.
+I will update this description when this happens.
 
 Before you start adding additional mods that are not mentioned in the guide, make sure to read the [compatability section](./compatability.html) of the guide! It lists which mods and mod types are problematic, and which are okay to use!
 {: .warning}
@@ -52,6 +57,7 @@ There is also an **Automated Load Order Checker**{: .hili} below which can check
 *Not all mods appear in the load order, as some don't have an esp/esl/esm plugin file.* 
 
 *Mods like Buffout 4 won't appear in your load order for this reason.*
+
 
 ##### \[This is the start of the load order\]
 {: .hili}
@@ -149,8 +155,7 @@ Notes:
 #### 9. Frost Cell Fixes (FCF)
 {: .hili}
 
-No other files should come after the FCF .esp files, except very special mods.
-Two exception to this rule are the Satellite Worldmap mod (SatelliteWorldMap.esp), and Item Sorter patches like Complex Sorter patches from xEdit. The two exceptions must be loaded after the FCF files.
+No other files should come after the FCF .esp files, except very special mods (see rule 10.)
 If you don't follow these rules, bad things will happen!
 The FCF_Main.esp and FCF_Previsibines.esp must come first, and in the same order as below. After those two plugins all other FCF plugins must be loaded.
 
@@ -158,6 +163,20 @@ The FCF_Main.esp and FCF_Previsibines.esp must come first, and in the same order
 - FCF_Previsibines.esp
 - (Additional FCF files for patching certain mods)
 - ...
+
+#### 10. Exceptions to rule 9.
+If you use the following plugins, they need to be loaded after FCF.
+Keep in mind that this list is not complete. 
+These mods either have speciall cell headers that can be savely loaded after FCF, or provide their own precombines/previs data which needs to overwrite FCF. 
+If you use a sorting mod, make sure to let it generate a sorting plugin for your load order specifically, and load it after all other plugins.
+
+- PLI_USAF_Satellite_Station_Olivia.esp
+- PLI_USAF_Olivia FROSTified.esp
+- Vivid Waters.esp
+- Synthesis.esp
+- SatelliteWorldMap.esp
+- FOLIP - Before Generation.esp
+- (Auto-Generated Itrem Sorting Mod plugin)
 
 ##### \[This is the end of the load order\]
 {: .hili}
@@ -221,6 +240,9 @@ You can now start Fallout 4 through F4SE, click "New Game" in the Main Menu, and
 {: .info}
 
 Before you start adding additional mods that are not mentioned in the guide, make sure to read the [compatability section](./compatability.html) of the guide! It lists which mods and mod types are problematic, and which are okay to use!
+
+The automatic load order checker can also detect some mods that are incompatible with FROST.
+Make sure to use it if you plan to use mods which are not listed in this guide.
 {: .warning}
 
 

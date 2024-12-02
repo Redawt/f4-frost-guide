@@ -103,13 +103,26 @@ Notes:
 #### 9. Frost Cell Fixes (FCF)
 {: .hili}
 
-No other files should come after the FCF .esp files, except very special mods (mods that regenerate precombines/previs related things). Two exception to this rule are the Satellite Worldmap mod (SatelliteWorldMap.esp), and Item Sorter patches like Complex Sorter patches from xEdit. These two exceptions must be loaded after the FCF files.
-If you don't follow these rules, bad things will happen!
+No other files should come after the FCF .esp files, except very special mods (mods that regenerate precombines/previs related things, see rule 10). If you don't follow these rules, bad things will happen!
 The FCF_Main.esp and FCF_Previsibines.esp must come first, and in the same order as below. After those two plugins all other FCF plugins must be loaded.
 
 - FCF_Main.esp
 - FCF_Previsibines.esp
 - (Other FCF patches)
+
+#### 10. Exceptions to rule 9.
+If you use the following plugins, they need to be loaded after FCF.
+Keep in mind that this list is not complete. 
+These mods either have speciall cell headers that can be savely loaded after FCF, or provide their own precombines/previs data which needs to overwrite FCF. 
+If you use a sorting mod, make sure to let it generate a sorting plugin for your load order specifically, and load it after all other plugins.
+
+- PLI_USAF_Satellite_Station_Olivia.esp
+- PLI_USAF_Olivia FROSTified.esp
+- Vivid Waters.esp
+- Synthesis.esp
+- SatelliteWorldMap.esp
+- FOLIP - Before Generation.esp
+- (Auto-Generated Itrem Sorting Mod plugin)
 
 ##### This is the end of the load order
 {: .hili}

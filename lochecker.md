@@ -466,6 +466,9 @@ const fcf_check_plugins = [
             "FCF_Previsibines-JSRSRegions.esp",
             "FCF_Previsibines-TheMarshlands.esp",
             "FCF_Previsibines-ELFX.esp",
+            "FCF_Previsibines-WinterRedone.esp",
+            "FCF_Previsibines-WinterRedoneELFX.esp",
+            "FCF_HotfixELFX.esp",
             "FCF_Previsibines-MMHelipad.esp",
             "FCF_Previsibines-Oberland.esp",
             "FCF_Previsibines-Drawbridges.esp",
@@ -474,8 +477,10 @@ const fcf_check_plugins = [
             "FCF_Previsibines-Hotfix.esp",
             "PLI_USAF_Satellite_Station_Olivia.esp",
             "PLI_USAF_Olivia FROSTified.esp",
+            "Vivid Waters.esp",
             "Synthesis.esp",
-            "SatelliteWorldMap.esp"
+            "SatelliteWorldMap.esp",
+            "FOLIP - Before Generation.esp"
         ];
 
 
