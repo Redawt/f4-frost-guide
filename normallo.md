@@ -164,7 +164,7 @@ The FCF_Main.esp and FCF_Previsibines.esp must come first, and in the same order
 - (Additional FCF files for patching certain mods)
 - ...
 
-#### 10. Exceptions to rule 9.
+#### 10. Exceptions to Rule 9.
 {: .hili}
 
 If you use the following plugins, they need to be loaded after FCF.
