@@ -43,7 +43,7 @@ In order for the script extender to work, you need to launch the game using the 
 ![F4SE in MO2](./assets/images/select_f4se.png "F4SE in MO2")
 
 
-## [xSE PluginPreloader](https://www.nexusmods.com/fallout4/mods/33946?tab=files&file_id=221778&nmm=1)
+## [xSE PluginPreloader](https://www.nexusmods.com/fallout4/mods/33946?tab=files&file_id=221778)
 
 #### Description
 - Allows F4SE plugins to be loaded before the game initializes
