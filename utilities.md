@@ -43,14 +43,14 @@ In order for the script extender to work, you need to launch the game using the 
 ![F4SE in MO2](./assets/images/select_f4se.png "F4SE in MO2")
 
 
-## [xSE PluginPreloader](https://www.nexusmods.com/fallout4/mods/33946)
+## [xSE PluginPreloader](https://www.nexusmods.com/fallout4/mods/33946?tab=files&file_id=221778&nmm=1)
 
 #### Description
 - Allows F4SE plugins to be loaded before the game initializes
 - This mod needs to be installed manually without your mod manager
 
 #### Installation Instructions
-1. Download the **Main File - xSE PluginPreloader**{: .hili} using the **Manual Download**{: .hili} button
+1. Download the **Old Files - xSE PluginPreloader** **0.2.5.1**{: .hili} using the **Manual Download**{: .hili} button (Click the blue title above for a direct link to the correct version).
 2. From the download archive, extract the two files to the game's **Root**{: .hili} folder
 
 

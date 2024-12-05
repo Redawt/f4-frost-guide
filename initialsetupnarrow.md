@@ -29,9 +29,9 @@ This guide doesn't tell you how to install general Fallout 4 bug fixes related t
 * You've used the **Simple Downgrader** mod tool to downgrade Fallout to **version 1.10.163**{: .hili}
 * The following mods and their requirements are installed (mind the version numbers!)
   * **Fallout 4 Script Extender (F4SE) 0.6.23**
-  * **xSE PluginPreloader**
+  * **xSE PluginPreloader 0.2.5.1**
   * **Buffout 4**
-  *  **Address Library**
+  * **Address Library**
   * **Mod Configuration Menu 1.39**
   * **Backported Archive2 Support System**
   * **PipBoy Tabs 1.10.163.0**
