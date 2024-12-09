@@ -35,7 +35,7 @@ We only added the english audio file to the intro video.
 
 
 ## Sanctuary Bathroom
-After the video, you will see the santuary bathroom, but you might notice that the dialogue there and some other things were changed ("Just let go. It will all be over soon." is a new voice line for example).
+After the video, you will see the sanctuary bathroom, but you might notice that the dialogue there and some other things were changed ("Just let go. It will all be over soon." is a new voice line for example).
 
 **Do not bother to change the appearance of the character in the Bathroom, there will be another better possibility to do this shortly after.**
 
