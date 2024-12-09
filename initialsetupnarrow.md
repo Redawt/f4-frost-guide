@@ -27,6 +27,19 @@ This guide doesn't tell you how to install general Fallout 4 bug fixes related t
 * **Loose Files**{: .hili} are enabled (Vortex automatically does this, MO2 does not)
 * You always start the game with **F4SE**{: .hili} through your mod manager
 * You've used the **Simple Downgrader** mod tool to downgrade Fallout to **version 1.10.163**{: .hili}
+* You've removed the Creation Club mods that are part of the Next-Gen Update
+  * They are not patched for FROST, and need to be removed for lore, compatibility and balancing reasons
+  * Open the  **Data**{: .hili} folder (`Steam\steamapps\common\Fallout 4\Data`{: .path}) in the Windows Explorer
+  * Delete the following files from it:
+    * `ccBGSFO4044-HellfirePowerArmor.esl`
+    * `ccBGSFO4115-X02.esl`
+    * `ccBGSFO4116-HeavyFlamer.esl`
+    * `ccBGSFO4110-WS_Enclave.esl`
+    * `ccBGSFO4096-AS_Enclave.esl`
+    * `ccFSVFO4007-Halloween.esl`
+    * `ccBGSFO4046-TesCan.esl`
+    * `ccSBJFO4003-Grenade.esl`
+    * `ccOTMFO4001-Remnants.esl`
 * The following mods and their requirements are installed (mind the version numbers!)
   * **Fallout 4 Script Extender (F4SE) 0.6.23**
   * **xSE PluginPreloader 0.2.5.1**
@@ -35,6 +48,7 @@ This guide doesn't tell you how to install general Fallout 4 bug fixes related t
   * **Mod Configuration Menu 1.39**
   * **Backported Archive2 Support System**
   * **PipBoy Tabs 1.10.163.0**
+  * **Weapon Debris Crash Fix 1.2** (only if you have an NVIDIA GPU)
 
 
 **You can not skip a single mod from the Basic Guide! Read everything carefully!**
