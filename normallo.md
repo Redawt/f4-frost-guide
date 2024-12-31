@@ -134,6 +134,7 @@ Put all other FROST standalone mods here
 * FROST - SuperMutantLocations.esp
 * FROST - Hunkered Down.esp
 * FROST - Hunkered Down-Settlements.esp
+* FROST Downtown Workbenches.esp
 * ...
 
 
@@ -162,6 +163,7 @@ The FCF_Main.esp and FCF_Previsibines.esp must come first, and in the same order
 - FCF_Main.esp
 - FCF_Previsibines.esp
 - (Additional FCF files for patching certain mods)
+- FCF_Hotfix.esp (only if there is a Hotfix for FCF)
 - ...
 
 #### 10. Exceptions to Rule 9.
@@ -225,11 +227,13 @@ FROST - AccessibleFortHagen.esp
 FROST - SuperMutantLocations.esp
 FROST - Hunkered Down.esp
 FROST - Hunkered Down-Settlements.esp
+FROST Downtown Workbenches.esp
 PANPC FROST Patch.esp
 RedsFrostCampsitePatch.esp
 RedsFrostSCM.esp
 FCF_Main.esp
 FCF_Previsibines.esp
+FCF_Hotfix.esp
 ```
 
 ## The Ending Of Things

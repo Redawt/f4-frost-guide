@@ -19,9 +19,16 @@ sidebar:
 - All DLCs for Fallout 4 (except the High Resolution Texture Pack DLC)
 - At least 37.5 GB of free drive space
 - Windows 7 or higher (64bit)
-- [Microsoft VC++ 2015-2022](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) (x86 and x64 versions)
-  - Just download the files and install them
-  - Do **not** download the **ARM64 version** or **Visual Studio** itself, they aren't needed.
+- Microsoft VC++ 
+  - [VC AIO](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+    - Extract the archive and run the included install_all.bat as an administrator.
+    - This is a trusted download. The file simply automates the installation of several VC++ libraries, which are needed for certain software, mods and video games.
+  - Download and run [2015-2022 X64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+    - This is a trusted download link. `https://aka.ms` is a microsoft website/domain.
+  - Download and run [2015-2022 X86](https://aka.ms/vs/17/release/vc_redist.x86.exe)
+      - This is a trusted download link. `https://aka.ms` is a microsoft website/domain.
+  - Restart your PC.
+
 - A text editor (I recommend Notepad++ or Visual Studio Code, but the default Windows notepad will work)
 - An archiving tool (I recommend [7-Zip](https://www.7-zip.org/))
 - The latest GPU drivers (Either NVIDIA or AMD)

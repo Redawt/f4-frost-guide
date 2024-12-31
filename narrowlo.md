@@ -84,6 +84,7 @@ The following four plugins must be in this exact order!
 #### 6. Other Frost Mods
 {: .hili}
 - FROST - It Snowed.esp
+- FROST Downtown Workbenches.esp
 - (Put all other FROST standalone mods here)
 
 
@@ -109,6 +110,8 @@ The FCF_Main.esp and FCF_Previsibines.esp must come first, and in the same order
 - FCF_Main.esp
 - FCF_Previsibines.esp
 - (Other FCF patches)
+- FCF_Hotfix.esp (only if there is a Hotfix for FCF)
+- ...
 
 #### 10. Exceptions to rule 9.
 If you use the following plugins, they need to be loaded after FCF.
@@ -146,10 +149,12 @@ RedsFrostFixes.esp
 aFrostMod.esp
 FROST - UFO4P Patch.esp
 FROST - It Snowed.esp
+FROST Downtown Workbenches.esp
 RedsFrostBlurRemoval.esp
 RedsFrostExplosionEffects.esp
 FCF_Main.esp
 FCF_Previsibines.esp
+FCF_Hotfix.esp
 ```
 
 ## The Ending Of Things
