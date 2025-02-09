@@ -34,7 +34,7 @@ aside:
 ![UFO4P Download Picture](./assets/images/ufo4p.png)
 
 
-## [Sprint Stutter Fix](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=196371&nmm=1&game_id=1151)
+## [Sprint Stutter Fix](https://www.nexusmods.com/fallout4/mods/47760?tab=files&file_id=196371&nmm=1)
 
 #### Description
 * Stops the camera from stuttering while sprinting on uneven surfaces
@@ -42,7 +42,7 @@ aside:
 #### Installation Instructions
 * **Main File - Sprint Stuttering Fix** **1.2**{: .hili} (Click the blue title above for a direct link to the correct version).
 
-## [Weapon Debris Crash Fix](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=194684&nmm=1&game_id=1151)
+## [Weapon Debris Crash Fix](https://www.nexusmods.com/fallout4/mods/48078?tab=files&file_id=314112&nmm=1)
 
 **NOTE:**{: .hili} This fix is needed only by users of Nvidia GPUs newer than Pascal (10 series).
 {: .info}

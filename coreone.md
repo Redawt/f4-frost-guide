@@ -18,7 +18,7 @@ aside:
 1. Right-click anywhere in the left pane of MO2 and select **Create Separator**{: .hili}
 2. Name the separator **Important Mods**{: .hili}
 
-## [Better Console](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=120757&nmm=1&game_id=1151)
+## [Better Console](https://www.nexusmods.com/fallout4/mods/26582?tab=files)
 
 #### Description
 * Improves the in-game console, which helps debugging and using console commands.
