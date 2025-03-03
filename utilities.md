@@ -136,18 +136,19 @@ Without the [Microsoft VC++ 2015-2022](https://docs.microsoft.com/en-us/cpp/wind
 {: .info}
 
 
-## [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798?tab=files&file_id=242328&nmm=1)
+## [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798?tab=files&file_id=342948&nmm=1)
 
 #### Description
 - Allows for playing at framerates over 60, mitigates stutter, and reduces load times
 
 #### Installation Instructions
-1. Download and install the **Main File - High FPS Physics Fix** **0.8.6**{: .hili} (Click the blue title above for a direct link to the correct version)
+1. Download and install the **Main File - High FPS Physics Fix** **0.8.11**{: .hili} (the 2n file, it is the one that mentions "For the game version **1.10.130.0 - 1.10.163.0**{: .hili}". Click the blue title above for a direct link to the correct version). 
 2. Once the mod has been installed, double-click on it in the left pane of MO2
 3. In the **INI-Files**{: .hili} tab, select `F4SE/Plugins/HighFPSPhysicsFix.ini`{: .path}
 4. Change the following options:
     - Set **DisableBlackLoadingScreens=**{: .hili} to **true**{: .hili} (line 37)
-    - Set **DisableAnimationOnLoadingScreens=**{: .hili} to **true**{: .hili} (line 44)
+    - Set **PostloadingMenuSpeed**{: .hili} to **3.0**{: .hili} (line 51)
+    - Set **OneThreadWhileLoading**{: .hili} to **false**{: .hili} (line 84).
 
 
 **REMINDER**{: .hili}: You need to run the game through the F4SE option in Mod Organizer 2 from now on, NOT the Fallout 4 option. You may need to restart MO2 for the option to appear. If that is not the case, you can manually add or select it in MO2. 
